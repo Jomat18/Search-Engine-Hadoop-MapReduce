@@ -1,0 +1,59 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+main {
+    flex: 1;
+}
+
+main .logo {
+    display: block;
+    margin: 0px auto;
+    margin-top: 107px;   
+}
+
+.box {
+    width: 100%;
+    position: relative; 
+    text-align: center;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.box .tsearch {
+    display: block;
+    border: 3px solid #ddd;
+    color: rgba(20, 18, 18, 0.87);
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 20px;
+    border-radius: 15px;
+    width: 50%;
+    outline: none;
+}
+
+.box .icon-search {
+    width: 25px;
+    opacity: .4;
+    position: absolute;
+    top: 12px;
+    left: 14px;
+    outline: none;
+    margin: 0 auto;
+    margin-left: 70%;
+}
+
+.footer {
+    text-align: center;
+    margin-bottom: 20px;   
+    font-size: 20px;
+}
