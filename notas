@@ -1,0 +1,22 @@
+
+Web spider, Crawler
+
+    select documents to index
+    select parts of the document you want to index
+    regularly update the index and rankings if documents have changed, are added or deleted
+    follow references to other documents
+    deal with duplicates and canonization
+
+parser
+
+    remove HTML markup and extract text
+    break text into words
+    normalize capitalization, hyphens and umlauts
+
+	Diccionario
+
+Indexed invert https://www.quora.com/What-is-inverted-index-It-is-a-well-known-fact-that-you-need-to-build-indexes-to-implement-efficient-searches-What-is-the-difference-between-index-and-inverted-index-and-how-does-one-build-inverted-index
+
+Almacenamiento en cache devuelves una respuesta de la caché. 
+
+Pagerank
