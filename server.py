@@ -1,3 +1,4 @@
+
 import os
 from flask import Flask, render_template, request, jsonify
 
@@ -13,6 +14,8 @@ def home():
 def search():
     data = request.json
     words =  data["words"]
+
+    os.system('bash run.sh '+words)
     return jsonify(words)
 
 if __name__ == '__main__':

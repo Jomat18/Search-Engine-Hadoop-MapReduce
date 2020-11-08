@@ -9,7 +9,7 @@ $(document).ready(function() {
                 contentType: "application/json; charset=utf-8",
                 dataType: "json"
             }).done(function(data) {
-                console.log(data)
+                console.log("dato :",data)
             }).fail(function() {
                 console.log('Failed');
         });        
