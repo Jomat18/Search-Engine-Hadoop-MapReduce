@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 from sys import stdin
-import re
 
 index = {}
 
@@ -10,7 +9,7 @@ for line in stdin:
 
         index.setdefault(word, {})
 
-        for posting in postings.split(','):
+        for posting in postings.split(' '):
                 doc_id, count = posting.split(':')
                 count = int(count)
 
@@ -21,5 +20,5 @@ for word in index:
         postings_list = ["%s:%d" % (doc_id, index[word][doc_id])
                          for doc_id in index[word]]
 
-        postings = ','.join(postings_list)
+        postings = ' '.join(postings_list)
         print('%s\t%s' % (word, postings))
