@@ -22,7 +22,7 @@ for line in stdin:
 
         line = " ".join(findall("[a-zA-Z]+", line))
 
-        #line = line.lower().split()
+        line = line.lower().split()
 
         words = [word for word in line if word not in stopwords]
 
