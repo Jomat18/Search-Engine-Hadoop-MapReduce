@@ -20,3 +20,25 @@ Indexed invert https://www.quora.com/What-is-inverted-index-It-is-a-well-known-f
 Almacenamiento en cache devuelves una respuesta de la caché. 
 
 Pagerank
+
+Python libraries:
+	Porter Stemmer
+	XML Parser
+
+bash ../list.sh
+
+echo "foo foo quux labs foo bar quux" | python3 mapper.py
+
+echo "foo foo quux labs foo bar quux" | python3 mapper.py | sort -k1,1 | python3 reducer.py
+
+echo "foo foo quux labs foo bar quux" | python3 mapper.py | python3 reducer.py
+
+cat text2 | python3 mapper.py
+
+cat files/* | python3 mapper.py | python3 reducer.py
+
+
+-----------------------------------------------
+wget http://www.gutenberg.org/cache/epub/
+
+wget http://www.gutenberg.org/cache/epub/1/pg1.txt
