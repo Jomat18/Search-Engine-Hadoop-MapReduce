@@ -22,7 +22,7 @@ for line in stdin:
 
         line = " ".join(findall("[a-zA-Z]+", line))
 
-        line = line.lower().split()
+        #line = line.lower().split()
 
         words = [word for word in line if word not in stopwords]
 
@@ -31,5 +31,5 @@ for line in stdin:
         #for index in range(len(words)):
         #	word = words[index]	
 
-            print("%s\t%s:1" % (word, doc_id))#, index))
+            print("%s\t%s:1" % (word.lower(), doc_id))#, index))
         	#print ('{0}, {1}, {2}'.format( word.lower(), doc_id, index))
