@@ -1,5 +1,5 @@
-counter=0; 
+counter=1; 
 
 for file in *; do 
-	[[ -f $file ]] && mv -i "$file" $((counter+1)).txt && ((counter++)); 
+	[[ -f $file ]] && mv -i "$file" $((counter))_"$file" && ((counter++)); 
 done
