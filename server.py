@@ -15,7 +15,7 @@ def search():
     data = request.json
     words =  data["words"]
 
-    os.system('bash run.sh '+words)
+    os.system('bash java.sh '+words)
     return jsonify(words)
 
 if __name__ == '__main__':
