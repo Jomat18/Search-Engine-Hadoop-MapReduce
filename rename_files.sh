@@ -1,3 +1,5 @@
+#!/bin/bash
+
 counter=1; 
 
 for file in *; do 

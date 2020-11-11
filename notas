@@ -23,7 +23,6 @@ Python libraries:
 	Porter Stemmer
 	XML Parser
 
-bash ../list.sh
 
 echo "foo foo quux labs foo bar quux" | python3 mapper.py
 
@@ -44,13 +43,3 @@ wget http://www.gutenberg.org/cache/epub/1/pg1.txt
 
 Combiner hadoop python
 ------------------------------------------------------
-
-
-
-
-
-
-
-
-
-

@@ -1,22 +1,27 @@
 
 import os
 from flask import Flask, render_template, request, jsonify
+from load_pages import *
 
 app = Flask(__name__)
 
-#dir = os.path.dirname(os.path.realpath(__file__))
+inverted_index = hashmap()
 
 @app.route("/")
-def home():
-    return render_template('index.html')
+def home():	
+	return render_template('index.html')
 
 @app.route("/search", methods=["POST"])        
 def search():
-    data = request.json
-    words =  data["words"]
+#	global inverted_index
 
-    os.system('bash java.sh '+words)
-    return jsonify(words)
+	data = request.json
+	words =  data["words"]
+
+	response = search_query(words, inverted_index)
+    #os.system('bash java.sh '+words)
+	#print (response)
+	return jsonify(response)
 
 if __name__ == '__main__':
     app.run(debug = True, port=5000)
