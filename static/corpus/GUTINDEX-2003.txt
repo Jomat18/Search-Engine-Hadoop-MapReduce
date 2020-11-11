@@ -1,0 +1,1818 @@
+This is the file GUTINDEX-2003
+
+See the file GUTINDEX.ALL for all Project Gutenberg eBooks.
+
+                         -=] INTRODUCTION [=-
+
+GUTINDEX-2003 is a plain text listing of eBooks posted to the Project
+Gutenberg collection between November 10, 2003, and December 31, 2003
+with eBook numbers starting at 10001 and ending with 10552.
+
+It is _not_ a database, but it is useful for identifying eBooks so that
+they can be downloaded by means other than directly from the website,
+such as ftp or wget.
+
+For a detailed explanation of Project Gutenberg files and filenaming
+procedures, refer to the file GUTINDEX.ALL.
+
+           .:: HOW TO GET EBOOKS FROM PROJECT GUTENBERG ::.            
+
+The easiest way to obtain our eBooks is via our search page at
+
+	http://www.gutenberg.org/catalog/world/search
+
+which allows searching by title, author, eBook number, language
+and other bibliographic data.
+
+Mirrors (copies) of the complete collection are available around the
+world, and you can select one nearer to your location from the link on
+the search results page.
+
+To see a listing of mirror sites, and locate the one nearest to you,
+visit:
+
+    http://www.gutenberg.org/MIRRORS.ALL
+
+To directly access the file directories:
+
+    http://www.gutenberg.org/dirs/
+        - or -
+    ftp://www.gutenberg.org/pub/docs/books/gutenberg/
+
+. . .then navigate down through the subdirectories until you get to the
+appropriate level, and then select the file you wish to download, using
+your normal download procedures.  Example:
+
+    eBook number 11 would be found in /1/11/11.txt
+             1100              in /1/1/0/1100/1100.txt
+    etc.
+
+(Note that the subdirectory level number is one less than the full eBook
+number; i.e., 1100.txt is _not_ in /1/1/0/0/1100/.)
+
++ - + - + - + - + - + - + - + - + - + - + - + - + - + - + - + - + - + - + - +
+
+                               --CORRECTIONS--
+
+To report an error in the listings below, please write to help_@_pglaf.org
+(remove the underscores), and include the word CORRECTION in the subject
+line.
+
+                               <==LISTINGS==>
+
+**** A "C" Following a Project Gutenberg eBook Number Indicates Copyright ****
+
+Title and Author                                                     Etext No.
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Dec 2003 to 31 Dec 2003 ~ ~ ~ ~
+
+Roy Blakeley, by Percy Keese Fitzhugh                                    10552
+  [Subtitle: His Story]
+  [HTML version includes original illustrations.]
+Affair in Araby, by Talbot Mundy                                         10551
+A Select Collection of Old English Plays, Vol. IX, by Various            10550
+  [Editors: Robert Dodsley and W. Carew Hazlitt]
+  [Contents:
+    How a Man May Choose a Good Wife from a Bad
+    The Return from Parnassus
+    Wily Beguiled
+    Lingua
+    The Miseries of Enforced Marriage]
+
+A Romance of the Republic, by Lydia Maria Francis Child                  10549
+The Westcotes, by Arthur Thomas Quiller-Couch                            10548
+Topsy-Turvy, by Jules Verne                                              10547
+So Runs the World, by Henryk Sienkiewicz                                 10546
+  [Trans.: S. C. de Soissons]
+The Sea Lions, by James Fenimore Cooper                                  10545
+  [Subtitle: The Lost Sealers]
+
+Punchinello, Vol. 2, No. 37, December 10, 1870, by Various               10544
+Norwegian Life, by Ethlyn T. Clough                                      10543
+The Boats of the "Glen Carrig", by William Hope Hodgson                  10542
+  [Subtitle: Being an account of their Adventures in the Strange places
+   of the Earth, after the foundering of the good ship Glen Carrig through
+   striking upon a hidden rock in the unknown seas to the Southward; as
+   told by John Winterstraw, Gent., to his son James Winterstraw, in the
+   year 1757, and by him committed very properly and legibly to manuscript.]
+Children's Classics In Dramatic Form, by Augusta Stevenson               10541
+  [Subtitle: A Reader for the Fourth Grade]
+Mother Carey's Chickens, by Kate Douglas Wiggin                          10540
+
+In the Riding-School; Chats With Esmeralda, by Theo. Stephenson Browne   10539
+Hyacinth, by George A. Birmingham                                        10538
+The Governors, by E. Phillips Oppenheim                                  10537
+Audio: Project Gutenberg Fanfare, by Joel A. Erickson {MP3 audio)        10536
+Jingle Bells, by John Pierpont                                           10535
+  [Subtitle: One Horse Open Sleigh]
+
+The Double Traitor, by E. Phillips Oppenheim                             10534
+Beacon Lights of History, Volume VII, by John Lord                       10533
+  [Subtitle: Great Women]
+Beacon Lights of History, Volume VI, by John Lord                        10532
+  [Subtitle: Renaissance and Reformation]
+  [See also:  #1499, which is based on an earlier source]
+Beacon Lights of History, Volume V, by John Lord                         10531
+  [Subtitle: The Middle Ages]
+  [See also:  #1498, which is based on an earlier source]
+Audio: Ride Railroad Bill, by Roger McGuinn                              10530C
+  [Recorded in September 2002.]
+
+Audio: I am a Pilgrim, by Roger McGuinn                                  10529C
+  [Recorded in November 2002.]
+Audio: I Heard the Bells on Christmas Day, by Roger McGuinn              10528C
+  [Author: Henry Wadsworth Longfellow (lyrics)]
+  [Author: John Baptiste Calkin (composer)]
+  [Recorded in December 2001]
+  [Note: Original title was "Christmas Bells"]
+Audio: On the Banks of the Ohio, by Roger McGuinn                        10527C
+  [Recorded in October 2003.]
+Audio: Nancy Whiskey, by Roger McGuinn                                   10526C
+  [Recorded in July 2001]
+Audio: Michael Row the Boat Ashore, by Roger McGuinn                     10525C
+  [Recorded in May 2002.]
+
+Audio: We Wish You a Merry Christmas, by Roger McGuinn                   10524C
+Alcestis, by Euripides                                                   10523
+  [Translated into English rhyming verse by Gilbert Murray]
+Beacon Lights of History, Volume IV, by John Lord                        10522
+  [Subtitle: Imperial Antiquity]
+The Primadonna, by F. Marion Crawford                                    10521
+  [Subtitle: A Sequel to "Fair Margaret"]
+  [Zip files include one image.]
+The Compleat Cook, by "W. M."                                            10520
+  [Subtitle: Expertly Prescribing The Most Ready Wayes, Whether Italian,
+   Spanish Or French, For Dressing Of Flesh And Fish, Ordering Of Sauces
+   Or Making Of Pastry]
+
+Mercy Philbrick's Choice, by Helen Hunt Jackson                          10519
+Poems, by John Hay                                                       10518
+Government and Rebellion, by E. E. Adams                                 10517
+Bits About Home Matters, by Helen Hunt Jackson                           10516
+  [Alternate Title: Bits of Talk About Home Matters]
+Rhymes of a Roughneck, by Pat O'Cotter                                   10515
+
+De jongere generatie, by E. D'Oliveira                                   10514
+  [Language: Dutch]
+On the Seashore, by R. Cadwallader Smith                                 10513
+  [Note: This is the Seventh Book of Cassell's "Eyes and No Eyes" Series]
+Het portret van Dorian Gray, by Oscar Wilde                              10512
+  [Language: Dutch]
+  [Translated by Mevr. Louis Couperus]
+A Rogue by Compulsion, by Victor Bridges                                 10511
+  [Subtitle: An Affair of the Secret Service]
+  [Note: zip files include frontispiece illustration as jpg file]
+
+Inaugural Presidential Address, by William Jefferson Clinton             10510
+
+The Bars of Iron, by Ethel May Dell                                      10509
+The Sorrows of a Show Girl, by Kenneth McGaffey                          10508
+  [Subtitle: A Story of the Great "White Way"]
+Mary, Erzaehlung, by Bjornstjerne Bjornson                               10507
+  [Language: German]
+Romance de lobos, comedia barbara, by Ramon del Valle-Inclan             10506
+  [Language: Spanish]
+Audio: Waltzing Matilda, by Roger McGuinn                                10505C
+  [Recorded in January 2002]
+
+Audio: Liverpool Gals, by Roger McGuinn                                  10504C
+  [Recorded in June 1999]
+Audio: John Henry, by Roger McGuinn                                      10503C
+  [Recorded in 1959, at 57 East Division St. in Chicago, Illinois on a
+   Pentron reel-to-reel recorder at 7-1/2 IPS]
+Vecchie Storie, by Emilio De Marchi                                      10502
+  [Language: Italian]
+Audio: The Whale Catchers, by Roger McGuinn                              10501C
+  [Recorded in March 2001]
+  [Note: The banjo is tuned in open D-minor tuning and a 12-string guitar
+   plays melody]
+
+Audio: Heave Away, by Roger McGuinn                                      10500C
+
+Audio: Delia's Gone, by Roger McGuinn                                    10499C
+Audio: Ain' No Mo' Cane on De Brazis, by Roger McGuinn                   10498C
+Audio: Battle Hymn of the Republic, by Roger McGuinn                     10497C
+  [Lyricist: Julia Ward Howe]  [Music: William Steffe]
+Red Masquerade, by Louis Joseph Vance                                    10496
+  [Subtitle: Being the Story of the Lone Wolf's Daughter]
+Under King Constantine, by Katrina Trask                                 10495
+
+Henry the Second, by Mrs. J. R. Green                                    10494
+  [Author a.k.a.: Alice Stopford Green (1848-1929)]
+The Old Bush Songs, by A. B. Paterson                                    10493
+Agnes, by Minna Canth                                                    10492
+  [Language: Finnish]
+Practice Book, by Leland Powers                                          10491
+The Golden Legend, by Henry Wadsworth Longfellow                         10490
+
+An English Garner, Edited by Professor Arber and Thomas Sercombe         10489
+  [Subtitle: Critical Essays & Literary Fragments]
+  [Introduction by J. Churton Collins]
+  [Contents:
+    Extract from Thomas Wilson's _Art of Rhetoric_, 1554
+    Sir Philip Sidney's _Letter to his brother Robert_, 1580
+    Extract from Francis Meres's _Palladis Tamia_, 1598
+    Dryden's _Dedicatory Epistle to the Rival Ladies_, 1664
+    Sir Robert Howard's _Preface to four new Plays_, 1665
+    Dryden's _Essay of Dramatic Poesy_, 1668
+    Extract from Thomas Ellwood's _History of Himself_, describing
+        his relations with Milton, 1713
+    Bishop Copleston's Advice to a Young Reviewer, 1807
+    The Bickerstaff and Partridge Tracts, 1708
+    Gay's _Present State of Wit_, 1711
+    Tickell's Life of Addison, 1721
+    Steele's Dedicatory Epistle to Congreve, 1722
+    Extract from Chamberlayne's Angliae Notitia, 1669
+    Eachard's Grounds and Occasions of the Contempt of the Clergy
+        and of Religion, 1670
+    Bickerstaff's Miseries of the Domestic Chaplain, 1710
+    Franklin's Poor Richard Improved, 1757]
+Audio: Away in a Manger, by Roger McGuinn                                10488C
+  [Author: Anonymous (verses 1 and 2)]
+  [Author: John Thomas McFarland (verse 3)]
+  [Author: James Murray (composer)]
+Audio: Alabama Bound, by Roger McGuinn                                   10487C
+  [Recorded in May 1999, on a 12-string guitar in "drop D" tuning, that is
+   with the low E string tuned down to D.]
+Audio: Twelve Gates to the City, by Roger McGuinn                        10486C
+  [Recorded in May 2003.]
+Experiments in Government and the Essentials of the Constitution,by Root 10485
+  [Author: Elihu Root]
+
+Beacon Lights of History, Volume III, by John Lord                       10484
+  [Subtitle: Ancient Achievements]
+Short Stories Old and New, Selected and Edited by C. Alphonso Smith      10483
+  [Contents:
+    Esther, From The Old Testament
+    The History Of Ali Baba And The Forty Robbers, From "The Arabian
+      Nights"
+    Rip Van Winkle, By Washington Irving
+    The Gold-Bug, By Edgar Allan Poe
+    A Christmas Carol, By Charles Dickens
+    The Great Stone Face, By Nathaniel Hawthorne
+    Rab And His Friends, By Dr. John Brown
+    The Outcasts Of Poker Flat, By Bret Harte
+    Markheim, By Robert Louis Stevenson]
+The Young Mother, by William A. Alcott                                   10482
+  [Subtitle: Management of Children in Regard to Health]
+Rautatie, by Juhani Aho                                                  10481
+  [Language: Finnish]
+Kauppa-Lopo, by Minna Canth                                              10480
+  [Language: Finnish]
+
+Our Churches and Chapels, by Atticus                                     10479
+  [Author a.k.a.: A. Hewitson]
+Beacon Lights of History, Volume II, by John Lord                        10478
+  [Subtitle: Jewish Heroes and Prophets]
+Beacon Lights of History, Volume I, by John Lord                         10477
+  [Subtitle: The Old Pagan Civilizations]
+The Vanishing Man, by R. Austin Freeman                                  10476
+  [Subtitle: A Detective Romance]
+The Mirror of Literature, Amusement, and Instruction, Vol. 12, Issue 326 10475
+  [Title: The Mirror of Literature, Amusement, and Instruction, Vol. 12,
+   Issue 326, August 9, 1828]
+  [Author: Various]
+
+The Lost Naval Papers, by Bennet Copplestone                             10474
+The Heart of the Range, by William Patterson White                       10473
+Arthurian Chronicles: Roman de Brut, by Wace                             10472
+  [Translated by Eugene Mason]
+The World's Greatest Books, Vol. I, Ed. by Arthur Mee & J. A. Hammerton  10471
+  [Comment: This volume contains short excerpts from or abridgements of
+   literary works.]
+Audio: Nine Hundred Miles, by Roger McGuinn                              10470C
+  [Note: Recorded in February 1999.]
+
+Johnny Crow's Garden, by L. Leslie Brooke                                10469
+  [Subtitle: A Picture Book]
+Aunt Jane's Nieces in Society, by Edith Van Dyne                         10468
+  [Author a.k.a.: L. Frank Baum]
+A Select Collection of Old English Plays, Vol. VIII (4th edition)        10467
+  [Subtitle: Originally published by Robert Dodsley in the Year 1744, Now
+   first chronologically arranged, revised and enlarged with the Notes of
+   all the Commentators, and new Notes; 1876.]
+  [Author: Various]
+  [Editor: Robert Dodsley]
+  [Additional editor: W. Carew Hazlitt]
+  [Contents:
+    Summer's Last Will and Testament, by Thomas Nash
+    The Downfall of Robert Earl of Huntington, by Anthony Munday
+    The Death of Robert Earl of Huntington, by Anthony Munday and
+      Henry Chettle
+    Contention between Liberality and Prodigality, by unknown
+    Grim the Collier of Croyden, by "I. T."]
+  (Note: this ebook attributes "Grim the Collier of Croyden" to both
+   "I. T." and "J. T."; other sources, including the LOC, identify
+   the author as William Haughton)
+Little Saint Elizabeth and Other Stories, by Frances Hodgson Burnett     10466
+The Outdoor Girls of Deepdale, by Laura Lee Hope                         10465
+  [Subtitle: Camping and Tramping for Fun and Health]
+
+A Child's Anti-Slavery Book, by Various                                  10464
+  [Subtitle: Containing A Few Words About American Slave Children
+   And Stories Of Slave-Life]
+The Little House in the Fairy Wood, by Ethel Cook Eliot                  10463
+Clarissa, Volume 4 (of 9), by Samuel Richardson                          10462
+  [Subtitle: History Of A Young Lady]
+Journals of Australian Explorations, by A C and F T Gregory              10461
+When Day is Done, by Edgar A. Guest                                      10460
+
+The Celtic Twilight, by W. B. Yeats                                      10459
+Three short works, by Gustave Flaubert                                   10458
+  [Subtitle: The Dance of Death, The Legend of Saint Julian the
+   Hospitaller, A Simple Soul]
+The Lonely Dancer and Other Poems, by Richard Le Gallienne               10457
+The Atlantic Monthly, Vol. 2, No. 11, September, 1857, by Various        10456
+  [Subtitle: A Magazine of Literature, Art, and Politics]
+A Golden Book of Venice, by Mrs. Lawrence Turnbull                       10455
+
+Tales for Young and Old, by Various                                      10454
+A Practical Physiology, by Albert F. Blaisdell                           10453
+Peter's Mother, by Mrs. Henry De La Pasture                              10452
+Life Of Johnson, Volume 5, by Boswell                                    10451
+  [Editor: Birkbeck Hill]
+Punch, Vol. 153, Aug. 22, 1917, ed. by Sir Owen Seaman                   10450
+
+Burnham Breaker, by Homer Greene                                         10449
+The Anti-Slavery Harp, by Various                                        10448
+  [Subtitle: A Collection of Songs for Anti-Slavery Meetings]
+  [Editor: William W. Brown]
+October Vagabonds, by Richard Le Gallienne                               10447
+The Green Flag, by Arthur Conan Doyle                                    10446
+  [Subtitle: And Other Stories of War and Sport]
+American Big Game in Its Haunts, by Various                              10445
+  [Subtitle: The Book of the Boone and Crockett Club]
+  [Editor: George Bird Grinnell]
+
+The Peace Negotiations, by Robert Lansing                                10444
+  [Subtitle: A Personal Narrative]
+The Rayner-Slade Amalgamation, by J. S. Fletcher                         10443
+La comedie de la mort, by Theophile Gautier                              10442
+  [Language: French]
+The Green Mouse, by Robert W. Chambers                                   10441
+Tutt and Mr. Tutt, by Arthur Train                                       10440
+
+From Yauco to Las Marias, by Karl Stephen Herrman                        10439
+  [Subtitle: A Recent Campaign in Puerto Rico by the Independent Regular
+   Brigade under the Command of Brig. General Schwan]
+Up the Hill and Over, by Isabel Ecclestone Mackay                        10438
+Pulpit and Press (6th Edition), by Mary Baker Eddy                       10437
+Erick and Sally, by Johanna Spyri                                        10436
+The Atlantic Monthly, Vol. 2, No. 12, October, 1858, by Various          10435
+  [Subtitle: A Magazine of Literature, Art, and Politics]
+
+Wyandotte, by James Fenimore Cooper                                      10434
+  [Subtitle: or, The Hutted Knoll]
+A Flock of Girls and Boys, by Nora Perry                                 10433
+Aunt Jane's Nieces Out West, by Edith Van Dyne                           10432
+  [Author a.k.a.: L. Frank Baum]
+Thirty Years a Slave, by Louis Hughes                                    10431
+  [Subtitle: From Bondage to Freedom: The Institution of Slavery as Seen
+   on the Plantation and in the Home of the Planter: Autobiography of
+   Louis Hughes]
+Trips to the Moon, by Lucian                                             10430
+  [Editor: Henry Morley]
+  [Translator: Thomas Francklin]
+
+Miss Lulu Bett, by Zona Gale                                             10429
+Die Aufgeregten, by Johann Wolfgang von Goethe                           10428
+  [Subtitle: Politisches Drama in fuenf Akten]
+  [Language: German]
+Scientific Essays and Lectures, by Charles Kingsley                      10427
+Die natuerliche Tochter, by Johann Wolfgang von Goethe                   10426
+  [Subtitle: Trauerspiel]
+  [Language: German]
+Torquato Tasso, by Johann Wolfgang von Goethe                            10425
+  [Subtitle: Ein Schauspiel]
+  [Language: German]
+
+Audio: Caprice Viennois, by George Hamilton Green                        10424
+  [Author: Fritz Kreisler (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded October 26, 1916, in New York City]
+Audio: Triplets, by George Hamilton Green                                10423
+  [Subtitle: Fox Trot]
+  [Author: George Hamilton Green (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded in October of 1919, in New York City.]
+Caesar Dies, by Talbot Mundy                                             10422
+The Life of Lord Byron, by John Galt                                     10421
+The Principles of Success in Literature, by George Henry Lewes           10420
+
+The Forest Monster of Oz, by Bob Evans & Chris Dulabone                  10419C
+The Money Moon, by Jeffery Farnol                                        10418
+  [Subtitle: A Romance]
+Love, Life & Work, by Elbert Hubbard                                     10417
+  [Subtitle: Being a Book of Opinions Reasonably Good-Natured Concerning
+   How to Attain the Highest Happiness for One's Self with the Least
+   Possible Harm to Others]
+Audio: There's a Little Bit of Bad in Every Good Little Girl,Gladys Rice 10416
+  [Author: Fred Fischer (composer), Grant Clarke (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded in September of 1916, in New York City.]
+Audio: Nights of Gladness, by National Promenade Band                    10415
+  [Subtitle: Waltz]
+  [Author: Eugene A. Jaudas (conductor)]
+  [Author: Charles W. Ancliffe (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded January 5, 1914, in New York City.]
+
+Audio: I Love You, California, by Elizabeth Spencer                      10414
+  [Subtitle: March Song]
+  [Author: The Knickerbocker Quartet]
+  [Author: A. E. Frankenstein (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. February 1914 in New York City]
+Audio: Fancy Little Nancy, by Frank W. Wadsworth (saxaphone)             10413
+  [Author: William B. Baines (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded September 9, 1919 in New York City.]
+Audio: El Choclo Tango, by National Promenade Band                       10412
+  [Author: Manuel Sarrablo (composer)]
+  [Author: Eugene A. Jaudas (conductor)]
+  [Editor: Thomas A. Edison]
+  [Recorded on December 29, 1913 in New York City]
+Audio: By the Sapphire Sea, by Herbert C. Tilley Jr.                     10411
+  [Author: Ted Snyder (composer)]
+  [Author: Harry Smith (lyricist)]
+  [Author: Francis Wheeler (lyricist)]
+  [Editor: Thomas A. Edison]
+  [Recorded March 22, 1922 in New York City]
+The Powers and Maxine, by Charles Norris Williamson                      10410
+
+The Crisis of the Naval War, by John Rushworth Jellicoe                  10409
+Audio: Bring Back my Blushing Rose ("Sally Won't You Come Back")         10408
+  [Subtitle: Foxtrot Medley]
+  [Author: Broadway Dance Orchestra]
+  [Author: Rudolf Friml (composer, "Bring...")]
+  [Author: Dave Stamper (composer, "Sally...")]
+  [Editor: Thomas A. Edison]
+  [Recorded June 28, 1921 in New York City]
+Audio: A Perfect Day, by Jaudas' Society Orchestra                       10407
+  [Subtitle: Waltz]
+  [Author: Eugene A. Jaudas (conductor)]
+  [Author: Carrie Jacobs Bond (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded January 23, 1917 in New York City.]
+Audio: Heart Bowed Down, by William Tuson                                10406
+  [Subtitle: The Bohemian Girl]
+  [Author: Michael William Balfe (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. April 1903 in New York City]
+Audio: Clarinet Squawk, by Louisiana Five                                10405
+  [Subtitle: One Step]
+  [Author: Lada, Nunez, Cawley (Composers)]
+  [Author: Alcide "Yellow" Nunez (clarinet); Joe Cawley (Piano);
+   Charlie Panelli (trombone); Karl Berger (banjo); Anton Lada (drummer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. September 1919 in New York City]
+
+Man Size, by William MacLeod Raine                                       10404
+Twixt France and Spain, by E. Ernest Bilbrough                           10403
+  [Subtitle: Or, A Spring in the Pyrenees]
+A Man and His Money, by Frederic Stewart Isham                           10402
+Personal Memoir Of Daniel Drayton, by Daniel Drayton                     10401
+  [Subtitle: For Four Years And Four Months A Prisoner (For Charity's Sake)
+   In Washington Jail]
+  [Including A Narrative Of The Voyage And Capture Of The Schooner Pearl]
+
+Historie van Mejuffrouw Sara Burgerhart, by Wolff en Deken               10400
+  [Language: Dutch]
+
+The Story of Louis Riel: The Rebel Chief, by Joseph Edmund Collins       10399
+The American Child, by Elizabeth McCracken                               10398
+Affairs of State, by Burton E. Stevenson                                 10397
+  [Subtitle: Being an Account of Certain Surprising Adventures Which
+   Befell an American Family in the Land of Windmills]
+Andy the Acrobat, by Peter T. Harkness                                   10396
+  [Subtitle: Out with the Greatest Show on Earth]
+
+Joy and Power, by Henry van Dyke                                         10395
+Stolen Treasure, by Howard Pyle                                          10394
+  [Illustrated by Howard Pyle]
+Making the House a Home, by Edgar A. Guest                               10393
+The Reminiscences Of Sir Henry Hawkins (Baron Brampton), by Brampton     10392
+  [Author: Henry Hawkins Brampton]
+  [Edited by Richard Harris, K.C.]
+The Wolf's Long Howl, by Stanley Waterloo                                10391
+The Edinburgh Lectures on Mental Science, by Thomas Troward              10390
+
+Northern Trails, Book I., by William J. Long                             10389
+Old English Plays, Vol. I, by Various                                    10388
+  [Subtitle: A Collection of Old English Plays]
+The Real America in Romance, Volume 6; A Century Too Soon, by Musick     10387
+  [Title: The Real America in Romance, Volume 6; A Century Too Soon (A
+   Story of Bacon's Rebellion)]
+  [Subtitle: The Age of Tyranny]
+  [Author: John R. Musick]
+  [HTML illustrations by Freeland A. Carter]
+Condition Of The Slaves In The British Colonies, by Thomas Clarkson      10386
+  [Title: Thoughts On The Necessity Of Improving The Condition Of
+   The Slaves In The British Colonies]
+  [Subtitle: With A View To Their Ultimate Emancipation; And On The
+   Practicability, The Safety, And The Advantages Of The Latter Measure]
+Histoire de la Revolution Francaise, III, by Adolphe Thiers              10385
+  [Language: French]
+
+Le Pays de l'or, by Henri Conscience                                     10384
+  [Language: French]
+The Maternal Management of Children, in Health and Disease, by Bull      10383
+  [Author: Thomas Bull, M.D.]
+Memoir of Wm Watts McNair, by J. E. Howard                               10382
+The History of a Crime, by Victor Hugo                                   10381
+  [Subtitle: The Testimony of an Eye-Witness]
+  [Translated by T.H. Joyce and Arthur Locker]
+
+Bible Stories and Religious Classics, by Philip P. Wells                 10380
+
+At Love's Cost, by Charles Garvice                                       10379
+Autobiography, by John Stuart Mill                                       10378
+The Evil Guest, by J. Sheridan Le Fanu                                   10377
+
+American Indian stories, by Zitkala-Sa                                   10376
+  [Author a.k.a.: Gertrude Bonnin]
+
+England's Antiphon, by George MacDonald                                  10375
+The Ramblin' Kid, by Earl Wayland Bowman                                 10374
+The Middle Temple Murder, by J.S. Fletcher                               10373
+Bunch Grass, by Horace Annesley Vachell                                  10372
+  [Subtitle: A Chronicle of Life on a Cattle Ranch]
+The Cinema Murder, by E. Phillips Oppenheim                              10371
+
+Sustained honor, by John R. Musick                                       10370
+  [Subtitle: The Age of Liberty Established]
+Memoir and Diary of John Yeardley, Minister of the Gospel,John Yeardley  10369
+The Vizier of the Two-Horned Alexander, by Frank R. Stockton             10368
+Poems, by Sir John Carr                                                  10367
+Freedom's Battle, by Mahatma Gandhi                                      10366
+  [Subtitle: Being a Comprehensive Collection of Writings and Speeches
+   on the Present Situation]
+
+Precaution, by James Fenimore Cooper                                     10365
+Yeast: A Problem, by Charles Kingsley                                    10364
+The Bravo, by J. Fenimore Cooper                                         10363
+Sketches of the East Africa Campaign, by Robert Valentine Dolbey         10362
+The Creative Process in the Individual, by Thomas Troward                10361
+
+Kitty's Class Day And Other Stories, by Louisa M. Alcott                 10360
+  [Author a.k.a.: Louisa May Alcott]
+Aunt Jane's Nieces at Millville, by Edith Van Dyne                       10359
+  [Author a.k.a.: L. Frank Baum]
+The Boss of Little Arcady, by Harry Leon Wilson                          10358
+Life Of Johnson, Volume 4 (of 6), by Boswell                             10357
+Travels in Morocco, Vol. 2., by James Richardson                         10356
+
+Travels in Morocco, Vol. 1., by James Richardson                         10355
+Die Laune des Verliebten, by J.W. Goethe                                 10354
+  [Language: German]
+Satyros oder Der Vergoetterte Waldteufel, by Johann Wolfgang von Goethe  10353
+  [Language: German]
+The Works of Samuel Johnson, Vol. 11., by Samuel Johnson                 10352
+  [Subtitle: Parliamentary Debates II.]
+The Works of Samuel Johnson, Vol. 10., by Samuel Johnson                 10351
+  [Subtitle: Parliamentary Debates I.]
+The Works of Samuel Johnson, Vol. 6, by Samuel Johnson                   10350
+  [Subtitle: Reviews, Political Tracts, and Lives of Eminent Persons]
+
+Naar het middelpunt der Aarde, by Jules Gabriel Verne                    10349
+  [Language: Dutch]
+Audio: Go to Sea Once More, by Roger McGuinn                             10348C
+  [Author: Brian Roberts (engineering and recording)]
+  [Author: KOOL FM Anchorage, Alaska (studio)]
+  [Recorded September 1997.]
+Free from School, by Rahul Alvares                                       10347C
+
+C'Etait ainsi..., by Cyriel Buysse                                       10346
+  [Language: French]
+
+~ ~ ~ ~ Posting Dates for the below eBooks:  1 Nov 2003 to 30 Nov 2003 ~ ~ ~ ~
+
+Domestic Manners of the Americans, by Fanny Trollope                     10345
+  [Author a.k.a.: Frances Milton Trollope 1780-1863]
+  [Note: Mother of Anthony Trollope]
+
+Autumn Anthem, by Joel A. Erickson (Musical score)                       10344C
+  [Musical score in Sibelius' .sib format]
+The Works of Charles and Mary Lamb, Vol. 2: Elia, by Charles Lamb        10343
+  [Subtitle: Elia; and The Last Essays of Elia] [Ed.: E. V. Lucas]
+The Velvet Glove, by Henry Seton Merriman                                10342
+  [Author a.k.a.: Hugh Stowell Scott]
+Great Events by Famous Historians, Vol. 21, Editor: Charles F. Horne     10341
+  [Subtitle: The Recent Days (1910-1914)]
+Dab Kinzer, by William O. Stoddard                                       10340
+  [Subtitle: A Story of a Growing Boy]
+
+An Antarctic Mystery, by Jules Verne                                     10339
+  [Title a.k.a.:  The Sphinx of the Ice Fields]
+  [Translator: Mrs. Cashel Hoey]
+With the Turks in Palestine, by Alexander Aaronsohn                      10338
+Lady Into Fox, by David Garnett                                          10337
+  [HTML files include images.]
+A Select Collection of Old English Plays, Vol. VII (4th edn.), Various   10336
+  [Subtitle: Originally published by Robert Dodsley in the Year 1744, Now
+   first chronologically arranged, revised and enlarged with the Notes of
+   all the Commentators, and new Notes; 1876.]
+  [Editor: Robert Dodsley]
+  [Contents:
+    Tancred and Gismunda, by Gentlemen of the Inner Temple
+    The Wounds of Civil War, by Thomas Lodge, Gent.
+    Mucedorus, by author unknown
+    The Two Angry Women of Abington, by Henry Porter, Gent.
+    Look about You, by unknown]
+Children's Rights, by Kate Douglas Wiggin and Nora A. Smith              10335
+  [Ed.: Kate Douglas Wiggin]
+  [Contents:
+    The Rights Of The Child
+    Children's Plays
+    Children's Playthings
+    What Shall Children Read?
+    Children's Stories, by Nora A. Smith
+    The Relation Of The Kindergarten To Social Reform
+    How Shall We Govern Our Children?, by Nora A. Smith
+    The Magic Of "Together.", by Nora A. Smith
+    The Relation Of The Kindergarten To The Public School
+    Other People's Children]
+
+Van 't viooltje dat weten wilde, by Maria Catherina Metz-Koning          10334
+  [Language: Dutch]
+The European Anarchy, by G. Lowes Dickinson                              10333
+The Mirror of Literature, Amusement, and Instruction, by Various         10332
+  [Subtitle: Volume XII. F, No. 325, August 2, 1828.]
+The Mirror of Literature, Amusement, and Instruction, by Various         10331
+  [Subtitle: Volume XII., No. 324, July 26, 1828]
+Fruitfulness, by Emile Zola                                              10330
+  [Original title: Fecondite]
+  [Translator: Ernest Alfred Vizetelly]
+
+Snubby Nose and Tippy Toes, by Laura Rountree Smith                      10329
+Poems, by Walter R. Cassels                                              10328
+Alias The Lone Wolf, by Louis Joseph Vance                               10327
+David, by Charles Kingsley                                               10326
+  [Subtitle: Five Sermons]
+The Gospel of the Pentateuch, by Charles Kingsley                        10325
+  [Subtitle: A Set of Parish Sermons]
+
+Bull Hunter, by Max Brand                                                10324
+  [Author a.k.a.: Frederick Faust]
+The Rover Boys at College, by Edward Stratemeyer                         10323
+Miss Prudence, by Jennie Maria (Drinkwater) Conklin                      10322
+  [Subtitle: A Story of Two Girls' Lives.]
+Dragon's blood, by Henry Milner Rideout                                  10321
+Dotty Dimple at Play, by Sophie May                                      10320
+
+Dave Darrin's Third Year at Annapolis, by H. Irving Hancock              10319
+  [Subtitle: Leaders of the Second Class Midshipmen]
+Damon and Delia, by William Godwin                                       10318
+  [Subtitle: A Tale]
+Betty Gordon at Boarding School, by Alice Emerson                        10317
+  [Subtitle: The Treasure of Indian Chasm]
+Roy Blakeley's Adventures in Camp, by Percy Keese Fitzhugh               10316
+Persian Literature, V1, The Shah Nameh, Rubaiyat, Divan, Gulistan        10315
+  [Title: Persian Literature, Volume 1, Comprising The Shah Nameh, The
+   Rubaiyat, The Divan, and The Gulistan]
+  [Author: Various; special introduction by Richard J. H. Gottheil]
+
+Sonnets, by Michael Angelo Buonarroti & Tommaso Campanella               10314
+  [Translator: John Addington Symonds]
+Audio: The Fifth Regiment March, by Issler's Orchestra                   10313
+  [Author: Walter H. Miller (technician)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. March 1889 in West Orange, New Jersey or local vicinity]
+  [NPS: EDIS 564]
+Audio: The Pattison Waltz, by Effie Stewart (vocal)                      10312
+  [Author: Theo Wangemann (piano)]
+  [Author: Theo Wangemann (technician)]
+  [Editor: Thomas A. Edison]
+  [Recorded Feb 25, 1889 at The Edison Laboratory, West Orange, New Jersey]
+  [NPS: EDIS 565]
+Audio: Around the World on the Phonograph, by Thomas A. Edison           10311
+  [Editor: Thomas A. Edison]
+  [Note: believed to be the earliest existing recording of Thomas Edison's
+   voice.]
+  [Recorded c. late Oct 1888 at West Organge, New Jersey or local vicinity]
+  [NPS: EDIS 566]
+Audio: After Dinner Toast at Little Menlo, by Arthur Sullivan            10310
+  [Author: Col. George Gouraud (Introduction)]
+  [Editor: Thomas A. Edison]
+  [Recorded October 5, 1888 at Little Menlo, London, England]
+
+Audio: The Lost Chord, by Arthur Sullivan (Composer)                     10309
+  [Author: Performers Unknown]
+  [Author: Col. George Gouraud (technician)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. August 1888 at London, England]
+Audio: Handel Festival, by August Manns (conductor)                      10308
+  [Subtitle: Israel in Egypt (excerpt)]
+  [Author: George Frideric Handel (composer)]
+  [Author: Col. George Gouraud (technician)]
+  [Editor: Thomas A. Edison]
+  [Note: earliest known recorded music in existence; A chorus of 4000
+   voices recorded with phonograph over 100 yards away.]
+  [Recorded June 29, 1888 at the Crystal Palace, London, England]
+Audio: At the Moving Picture Ball, by Maurice Burkhart                   10307
+  [Author: Joseph H. Santly (composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1920]
+  [NPS: EDIS 75987]
+Audio: Moonlight Bay, by The Premier Quartet                             10306
+  [Author a.k.a.: The American Quartet]
+  [Author: Percy Wenrich (Composer); Edward Madden (Lyricist)]
+  [Editor: Thomas A. Edison]
+  [Note: Recorded c. 1915]
+  [Note: Robert D. Amour or John Young (first tenor); Billy Murray (second
+   tenor); Steve Porter (baritone); William F. Hooley (bass)]
+  [NPS: EDIS 40555]
+Audio: Alexander's Ragtime Band, by Billy Murray                         10305
+  [Author: Irving Berlin (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. November 1911]
+  [NPS: EDIS 36065]
+
+Audio: Some of These Days, by Sophie Tucker                              10304
+  [Subtitle: From Honky Tonk]
+  [Author: Shelton Brooks (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. June 1911]
+  [NPS: EDIS 35979]
+Audio: Jere Sanford's Yodeling and Whistling Specialty, by Jere Sanford  10303
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1910]
+  [NPS: EDIS 36577]
+Audio: Just Because She Made Dem Goo-Goo Eyes, by John Dobbs             10302
+  [Author: John Queen, Hughie Cannon (Composers)]
+  [Editor: Thomas A. Edison]
+  [Recorded December 29, 1901]
+  [NPS: EDIS 4778]
+Audio: Who Threw the Overalls in Mrs. Murphy's Chowder?, Edward M. Favor 10301
+  [Author: George L. Giefer (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. February 1901]
+  [NPS: EDIS 24893]
+
+Audio: Snyder, Does Your Mother Know You're Out?, by George P. Watson    10300
+  [Editor: Thomas A. Edison]
+  [Recorded c. July 1899]
+  [NPS: EDIS 4765]
+
+Audio: Poet and Peasant Overture, by Eddie Peabody (banjo)               10299
+  [Author: Fanz von Suppe (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded on March 4, 1925]
+  [NPS: EDIS 42876]
+Audio: Flow Gently Sweet Afton and Bonnie, Sweet Bonnie                  10298
+  [Author: Robert Trucksess (American Guitar)]
+  [Author: J. E. Spilman (Composer, Flow...)]
+  [Author: J. L. B. Gilbert (Composer, Bonnie...)]
+  [Editor: Thomas A. Edison]
+  [Recorded September 12, 1921]
+  [NPS: EDIS 42253]
+Audio: Saxema, by Rudy Wiedoeft                                          10297
+  [Author: Rudy Wiedoeft (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1920]
+  [NPS: EDIS 68208]
+Audio: Swing Low, Sweet Chariot, by Fisk University Jubilee Quartette    10296
+  [Author a.k.a.: The Southern Four]
+  [Editor: Thomas A. Edison]
+  [Recorded December 7, 1921]
+  [NPS: EDIS 42717]
+Audio: The Band of Gideon, by Fisk University Jubilee Quartette          10295
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1912]
+  [NPS: EDIS 36410]
+
+Verse and Prose for Beginners in Reading, Horace Elisha Scudder, editor  10294
+  [Subtitle: Selected from English and American Literature]
+Relacion historica de la rebelion de Tupac-Amaru, by Anonymous           10293
+  [Title: Relacion historica de los sucesos de la rebelion de
+   Jose Gabriel Tupac-Amaru en las provincias del Peru, el ano de 1780]
+  [Language: Spanish]
+Punchinello, Vol. 2, No. 36, December 3, 1870, by Various                10292
+In The Fourth Year, by H.G. Wells                                        10291
+  [Subtitle: Anticipations of a World Peace (1918)]
+Confession de Minuit, by Georges Duhamel                                 10290
+  [Subtitle: Roman]
+  [Language: French]
+
+Le Chat du Neptune, by Ernest D'Hervilly                                 10289
+  [Language: French]
+Audio: Ragtime Echoes, by Samuel Siegel (mandolin)                       10288
+  [Editor: Thomas A. Edison]
+  [Author: Marie Caveny (ukelele)]
+  [Author: Samuel Siegel (Composer)]
+  [Recorded c. 1918]
+  [NPS: EDIS 76220]
+Audio: New York Blues, by Pietro Frosini (accordion)                     10287
+  [Editor: Thomas A. Edison]
+  [Author: Pietro Frosini (Composer)]
+  [Recorded c. 1916]
+  [NPS: EDIS 41040]
+Audio: Arbucklenian Polka, by Bohumir Kryl (coronet)                     10286
+  [Editor: Thomas A. Edison]
+  [Recorded c. January 1903]
+  [NPS: EDIS 37408]
+Audio: Ma Rag Time Baby, by Peerless Orchestra                           10285
+  [Editor: Thomas A. Edison]
+  [Author: Fred S. Stone (Composer)]
+  [Recorded c. 1903]
+  [NPS: EDIS 37289]
+
+Audio: Spring of Love, by Jaudas (violin)                                10284
+  [Author: Sam Ehrlich (composer)]
+  [Author: Eugene]
+  [Editor: Thomas A. Edison]
+  [Flute: Louis Atz]
+  [Recorded c. 1903]
+  [NPS: EDIS 4791]
+Audio: Dinah Polka, by Charles P. Lowe (xylophone)                       10283
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1900]
+  [NPS: EDIS 4815]
+Audio: Polish National Dance, by Charles D'Almaine (violin)              10282
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1900]
+  [NPS: EDIS 4788]
+Audio: Antony's Address Over the Body of Caesar, by Harry E. Humphrey    10281
+  [Subtitle: Julius Caesar]
+  [Editor: Thomas A. Edison]
+  [Author: William Shakespeare (Writer)]
+  [Recorded c. 1914]
+  [NPS: EDIS 40512]
+Audio: In de Mornin' and Jes Gib Him One Ob Mine, Edward Sterling Wright 10280
+  [Author: Paul Lawrence Dunbar (Writer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. April 1914]
+  [Note: Wright was an African-American actor educated at Emerson College
+   of Oratory in Boston.  His recitations helped to introduce and puplarize
+   the works of African-American poet Dunbar.]
+  [NPS: EDIS 34435]
+
+Audio: Uncle Tom's Cabin, by Len Spencer                                 10279
+  [Author: And Company]
+  [Author: Harriet Beecher Stowe (Writer)]
+  [Editor: Thomas A. Edison]
+  [Subtitle: Entrance of Topsy]
+  [Recorded c. December 1910]
+  [NPS: EDIS 36848]
+  [See Also: eBook #203]
+Audio: Sei Forse L'Angelo Fedele, by Claudia Muzio (soprano)             10278
+  [Author: Pytor Ilyich Tchaikovsky (Composer)]
+  [Editor: Thomas A. Edison]
+  [Subtitle: Eugene Onegin]
+  [Recorded c. 1920]
+  [NPS: EDIS 44126]
+  [Language: Russian]
+Audio: Hallelujah Chorus, by Oratorio Chorus                             10277
+  [Author: George Frideric Handel (Composer)]
+  [Editor: Thomas A. Edison]
+  [Subtitle: Messiah]
+  [Recorded c. 1916]
+  [NPS: EDIS 43552]
+Audio: Gloria, by Gregorian Choir                                        10276
+  [Subtitle: The Twelfth Mass]
+  [Author: Wolfgang Amadeus Mozart (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1915]
+  [NPS: EDIS 43552]
+  [Language: Latin]
+Audio: La Gioconda, by Paola Koraleck                                    10275
+  [Author: Preste Benedetti]
+  [Author: Amilcare Ponchielli (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. July 1911]
+  [NPS: EDIS 83615]
+  [Language: Italian]
+
+Sermons on Evil-Speaking, by Isaac Barrow                                10274
+  [Editor: Henry Morley]
+Audio: Ah! Fors' e Lui, by Lucrezia Bori (soprano)                       10273
+  [Subtitle: La Traviata]
+  [Author: Giuseppe Verdi (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. August 1910]
+  [NPS: EDIS 87690-a]
+  [Language: Italian]
+Audio: Sono Un Poeta, by Florencio Constantino (tenor)                   10272
+  [Subtitle: La Boheme]
+  [Author: Giacomo Puccini (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. July 1908]
+  [NPS: EDIS 38051]
+  [Language: Italian]
+Audio: Hochstes Vertrauen, by Heinrich Knote (tenor)                     10271
+  [Subtitle: Lohengrin]
+  [Author: Richard Wagner (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. February 1906]
+  [NPS: EDIS 38238]
+  [Language: German]
+Audio: What Band Is This?, by Hann's Emperors of Song                    10270
+  [Editor: Thomas A. Edison]
+  [Recorded January 4, 1926]
+  [NPS: EDIS 78332]
+
+Audio: Pharoah's Army Got Drowned, by "Colored Quartet" (name unknown)   10269
+  [Editor: Thomas A. Edison]
+  [Recorded July 9, 1924]
+  [NPS: EDIS 87051]
+Patty at Home, by Carolyn Wells                                          10268
+The Outdoor Chums, by Captain Quincy Allen                               10267
+  [Subtitle: The First Tour of the Rod, Gun and Camera Club]
+The Glands Regulating Personality, by Louis Berman, M.D                  10266
+Audio: Anssin Jukka Ja Harman Haat, by Otto Pyykkonen                    10265
+  [Editor: Thomas A. Edison]
+  [Recorded March 8, 1928]
+  [Language: Finnish]
+  [NPS: EDIS 44417]
+
+Audio: Skamba Kankliah ir Trimintia, by Jouzas Suildauskas (baritonas)   10264
+  [Author: Mikas Petraushas (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded on May 22, 1925]
+  [NPS: EDIS 41305]
+  [Language: Lithuanian]
+Audio: Envoyons d'l'avant nos gens!, by Charles Marchand (basse)         10263
+  [Subtitle: Folklore du Canada]
+  [Author: Harm, D'Amedee Tremblay (Composer)]
+  [Author: Ernest Patience (au piano)]
+  [Editor: Thomas A. Edison]
+  [Recorded May 12, 1925]
+  [NPS: EDIS 44392]
+  [Language: French]
+Audio: Que Partes El Alma, by Juan de la Cruz (tenor)                    10262
+  [Subtitle: Rumba Son]
+  [Author: Manuel Mendez (Composer)]
+  [Author: Bienvenido Leon (baritono)]
+  [Editor: Thomas A. Edison]
+  [Recorded on September 29, 1924]
+  [NPS: EDIS 41247]
+  [Language: Spanish]
+Audio: La Bella Cubano, by El Trio Cubano                                10261
+  [Subtitle: Habenera]
+  [Editor: Thomas A. Edison]
+  [Recorded on September 18, 1924]
+  [Note: Violins and piano]
+  [NPS: EDIS 77575]
+  [Language: Spanish]
+Audio: Narodowe Melodye, by Aleksander Iwanowski (Harmonika)             10260
+  [Subtitle: Polka]
+  [Editor: Thomas A. Edison]
+  [Recorded on July 24, 1922]
+  [NPS: EDIS 71105]
+  [Language: Polish]
+
+Audio: Smes Esko - Slovackych Pisni, by Milan Lusk (houslove solo)       10259
+  [Subtitle: Cis 1]
+  [Author: Ludmila Vojackova (Wetche, klavirni doprovod)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1921]
+  [NPS: EDIS 41274]
+  [Language: Slovak]
+Audio: Nataligino Kolo, by Jugoslavensko Tamburasko Drustvo              10258
+  [Author a.k.a.: Jugo-Slav Tamburitza Orchestra (English Translation)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1920]
+  [NPS: EDIS 41283]
+  [Language: Hungarian]
+Audio: Mazel Tov, by I. J. Hochman's Yiddisher Orchester                 10257
+  [Editor: Thomas A. Edison]
+  [Recorded on December 11, 1918]
+  [NPS: EDIS 44419]
+  [Language: Yiddish]
+Audio: O, Tannenbaum, by Nebe Quartett                                   10256
+  [Author: Richard Wagner (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1907]
+  [NPS: EDIS 38244]
+  [Language: German]
+Audio: La Paloma, by Banda de Zapadores de Mexico                        10255
+  [Author: Sebastian Yradier (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded in July 1905]
+  [NPS: EDIS 38222]
+  [Language: Spanish]
+
+Audio: The Birth of the Telephone, by Thomas A. Watson                   10254
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1914 at the Edison Motion Picture Film Studio, Bronx, New
+   York]
+  [Note: The motion picture element of this sound film is believed lost.]
+  [NPS: EDIS 4634]
+Audio: Andrew Carnegie, by Andrew Carnegie                               10253
+  [Editor: Thomas A. Edison]
+  [Author: Daniel Higham (Director)]
+  [Recorded on January 20, 1914]
+  [Recorded at the Edison Motion Picture Film Studio, Bronx, New
+   York]
+  [Note: The motion picture element of this sound film is believed lost.]
+  [NPS: EDIS 4640]
+Audio: The Old Violin, by Daniel Higham (Director)                       10252
+  [Editor: Thomas A. Edison]
+  [Recorded January 1914 at the Edison Motion Picture Film Studio in Bronx,
+   New York]
+  [NPS: EDIS 4627]
+Town Geology, by Charles Kingsley                                        10251
+Audio: The Five Bachelors, by Ramsay (Director)                          10250
+  [Editor: Thomas A. Edison]
+  [Recorded December 7, 1912 or February 16, 1913, at the Edison Motion
+   Picture Film Studio, Bronx, New York]
+  [NPS: EDIS 4632]
+
+Audio: The St. Louis Blues, by Frank Ferera                              10249
+  [Author: W. C. Handy (Composer)]
+  [Author: John Paaluhi]
+  [Editor: Thomas A. Edison]
+  [Recorded on September 4, 1925]
+  [NPS: EDIS 78255]
+Audio: Blues my Naughty Sweetie Gives to Me,by Raderman's Jazz Orchestra 10248
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1920]
+  [NPS: EDIS 76868]
+Audio: Dixieland, by Lopez and Hamilton's Kings of Harmony               10247
+  [Subtitle: One-Step]
+  [Author: Dixieland Jazz Band (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1920]
+  [NPS: EDIS 76857]
+Audio: Sensation Jazz, by The All Star Trio                              10246
+  [Subtitle: One-Step]
+  [Author: Dixieland Jazz Band (Composer)]
+  [Editor: Thomas A. Edison]
+  [Note: saxophone, xylophone, and piano]
+  [Recorded c. 1919]
+  [NPS: EDIS 42041]
+Audio: Jazz de Luxe, by Earl Fuller's Famous Jazz Band                   10245
+  [Subtitle: Fox Trot]
+  [Author: Earl Fuller (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1919]
+  [NPS: EDIS 42041]
+
+Audio: Johnson "jass" Blues, by Friscoe "Jass" Band                      10244
+  [Subtitle: Fox Trot]
+  [Author: E. Arnold Johnson (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded on May 10, 1917]
+  [NPS: EDIS 41060]
+Audio: Radio Program for WAAM, Newark, New Jersey, Scott (organ, vocal)  10243
+  [Author: Mr. Greenfield]
+  [Editor: Thomas A. Edison]
+  [Organ and vocals by John A. Scott]
+  [Recorded April 12, 1928, at Columbia Street Studio, Edison Laboratory,
+   West Orange, New Jersey; this was an experimental slow speed (30 RPM)
+   record used for an experimental pre-recorded radio broadcast.]
+  [NPS: EDIS 78047]
+Audio: Plaque No. 6, by Losey's Orchestra                                10242
+  [Subtitle: Exp. No. 27, Recorder #20]
+  [Editor: Thomas A. Edison]
+  [Recorded December 16, 1925, at Columbia Street Studio, Edison Laboratory,
+   West Orange, New Jersey, with an experimental 125 ft long recording horn]
+  [NPS: EDIS 77947]
+Audio: Plaque No. 2, by Losey's Orchestra                                10241
+  [Subtitle: Exp. No. 5-6-7-8, Recorder #20]
+  [Editor: Thomas A. Edison]
+  [Recorded December 8, 1925, at Columbia Street Studio, Edison Laboratory,
+   West Orange, New Jersey, with an experimental 125 ft long recording horn.]
+  [NPS: EDIS 77879]
+Audio: Plaque No. 1, by Losey's Orchestra                                10240
+  [Subtitle: Exp. No. 1-2-3-4, Recorder #20]
+  [Editor: Thomas A. Edison]
+  [Recorded December 8, 1925, at Columbia Street Studio, Edison Laboratory,
+   West Orange, New Jersey, with an experimental 125 ft long recording horn.]
+  [NPS: EDIS 77879]
+
+Audio: 2nd Record, by Losey's Orchestra                                  10239
+  [Author: A. Paganucci (director)]
+  [Editor: Thomas A. Edison]
+  [Recorded September 15, 1924 at the Columbia Street Studio, Edison
+   Laboratory, West Orange, New Jersey, using an experimental 125 foot
+   recording horn.]
+  [NPS: EDIS 87052]
+Audio: Ediphone School Record No. 2, by Thomas A. Edison                 10238
+  [Subtitle: 90 WPM-1]
+  [Recorded c. 1943]
+Audio: Siegel-Myers School of Music - Vocal Record F,by Thomas A. Edison 10237
+  [Recorded c. 1906]
+  [NPS: EDIS 103642]
+Audio: International Correspondence School - Spanish Lesson #9,by Edison 10236
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1902]
+  [NPS: EDIS 38902-a]
+  [Language: English/Spanish]
+Audio: Discussion on Edison's Monoid Theory, by Theodore M. Edison       10235
+  [Note: Theodore M. Edison is the son of Thomas A. Edison]
+  [Recorded July 26, 1970 at Glenmont (Edison's home), 2nd Floor Library, West
+   Orange, New Jersey]
+
+Old Creole Days, by George Washington Cable                              10234
+Audio: Transcontinental Telephone Address to Thomas A. Edison,Hutchinson 10233
+  [Author: Miller Reese Hutchinson]
+  [Editor: Thomas A. Edison]
+  [Recorded c. October 17, 1915]
+  [Note: On October 21, 1915 a group of Thomas Edison's friends and
+   business associates played this recording in the library of the Edison
+   Laboratory in West Orange, New Jersey and transmitted it to Edison at the
+   Panama-Pacific International Exposition in San Francisco, California via
+   the American Telephone and Telegraph Company's newly completed
+   transcontinental telephone line.]
+  [NPS: EDIS 584]
+Audio: Remarks from a Visit to Edison Laboratory,General Nelson A. Miles 10232
+  [Editor: Thomas A. Edison]
+  [Recorded on December 28, 1914]
+  [Note: Nelson A. Miles was a Major General of Volunteers for the Union
+   Army during the Civil War.  In 1866 he led the defeat of Apache leader
+   Geronimo.  He was Commander of the United States Army during the
+   Spanish-American War.]
+  [NPS: EDIS 5062]
+Audio: Remarks from a Visit to Edison Laboratory, by Daniels             10231
+  [Author: Addie Worth nee Bagley Daniels]
+  [Editor: Thomas A Edison]
+  [Recorded on October 10, 1914]
+  [Note: Daniels was the wife of the then Secretary of the Navy]
+  [NPS: EDIS 5061]
+Audio: Remarks from a Visit to Edison Laboratory, by Josephus Daniels    10230
+  [Editor: Thomas A. Edison]
+  [Recorded October 10, 1914]
+  [Note: Daniels was then the US Secretary of the Navy]
+  [NPS: EDIS 5060]
+
+Audio: My South Polar Expedition, by Lt. Ernest H. Shackleton            10229
+  [Editor: Thomas A. Edison]
+  [Recorded March 30, 1910]
+Audio: El Presidente Diaz al Senor Edison, by Porfirio Diaz              10228
+  [Editor: Thomas A. Edison]
+  [Recorded c. August 1909 in Mexico]
+  [Note: Diaz was the president of Mexico]
+  [NPS: EDIS 39847]
+  [Language: Spanish]
+Audio: Tolstoy's Plower Story, by John Wanamaker                         10227
+  [Editor: Thomas A. Edison]
+  [Recorded November 5, 1908]
+  [NPS: EDIS 39834]
+Beautiful Joe, by Marshall Saunders                                      10226
+  [Subtitle: An Autobiography of a Dog]
+Their Crimes, by Various                                                 10225
+
+Kalitan, Our Little Alaskan Cousin, by Mary F. Nixon-Roulet              10224
+Meyers Konversationslexikon Volume 15                                    10223
+  [Language: German]
+The Pilgrims of New England, by Mrs. J. B. Webb                          10222
+  [Subtitle: A Tale Of The Early American Settlers]
+Purple Springs, by Nellie L. McClung                                     10221
+Daddy Takes Us Skating, by Howard R. Garis                               10220
+
+The Poetical Works of William Wordsworth, Vol. 1, Ed. by William Knight  10219
+Stauder, by G.N. Brandt                                                  10218
+  [Language: Danish]
+The Land Of Little Rain, by Mary Hunter Austin                           10217
+Poems, by Marietta Holley                                                10216
+Manfredo Palavicino, by Giuseppe Rovani                                  10215
+  [Subtitle: o I Francesi e gli Sforzeschi]
+  [Language: Italian]
+
+Introduction to the Philosophy and Writings of Plato, by Thomas Taylor   10214
+The Everlasting Whisper, by Jackson Gregory                              10213
+Peck's Bad Boy at the Circus, by George W. Peck                          10212
+At Whispering Pine Lodge, by Lawrence J. Leslie                          10211
+Wolves of the Sea, by Randall Parrish                                    10210
+  [Subtitle: Being a Tale of the Colonies From the Manuscript of One
+   Geoffry Carlyle, Seaman, Narrating Certain Strange Adventures Which
+   Befell Him Aboard the Pirate Craft "Namur"]
+
+Audio: Electricity and Progress, by Thomas A. Edison                     10209
+  [Subtitle: Opening of the New York Electrical Show]
+  [Recorded October 3, 1908]
+  [NPS: EDIS 39385]
+Audio: The Rights of Labor, by William H. Taft                           10208
+  [Editor: Thomas A. Edison]
+  [Note: Taft was a candidate for US President]
+  [Recorded Aug 3, 1908, at the Homestead Hotel of Hot Springs, Virginia]
+  [NPS: EDIS 39851]
+Audio: The Railroad Question, by William Jennings Bryan                  10207
+  [Editor: Thomas A. Edison]
+  [Note: Bryan was a candidate for US President]
+  [Recorded May 1908 at Bryan's home in Lincoln, Nebraska]
+  [NPS: EDIS 37849]
+Audio: The Liver Complaint Story, by Thomas A. Edison                    10206
+  [Recorded 1906]
+  [NPS: EDIS 39838]
+Audio: Words of Welcome, by Garrett A. Hobart                            10205
+  [Subtitle: Opening of the Electrical Exposition of New York City]
+  [Editor: Thomas A. Edison]
+  [Recorded on May 1, 1898, in Washington D.C.]
+  [NPS: EDIS 39849]
+
+Audio: Charge of the Light Brigade, by Trumpeter Landfrey                10204
+  [Editor: Thomas A. Edison]
+  [Note: Landfrey was a bugler in the Light Brigade at the Battle of
+   Balaklava, October 25, 1854, of the Crimean War.  On this recording
+   Landfrey plays a trumpet that was used at the battle of Waterloo,
+   June 18, 1815, of the Napoleonic Wars.]
+  [Recorded August 2, 1890, in London, England]
+Audio: Big Ben Clock Tower of Westminster, by Miss. Ferguson             10203
+  [Subtitle: Striking half past 10, quarter to 11, and 11 o'clock]
+  [Author: Graham Hope]
+  [Editor: Thomas A. Edison]
+  [Recorded July 16, 1890, at Westminster, London, England]
+  [NPS: EDIS 39839]
+Maria Mitchell: Life, Letters, and Journals, by Maria Mitchell           10202
+The Desert of Wheat, by Zane Grey                                        10201
+
+Audio: To Edison from Colonel Gouraud, Introducing Mr. Gladstone         10200
+  [Subtitle: The Phonograph's Salutation]
+  [Author: William E. Gladstone; Intro. by George Gouraud]
+  [Editor: Thomas A. Edison]
+  [Note: Mr. Gladstone was the British Prime Minister at the time]
+  [Recorded on December 18, 1888, in London, England]
+  [NPS: EDIS 39852]
+
+Audio: Down in a Georgia Jail, by Posey Rorer                            10199
+  [Author: His North Carolina Ramblers]
+  [Editor: Thomas A. Edison]
+  [Recorded on September 26, 1928]
+  [NPS: EDIS 81450]
+Audio: Barbara Allen, by Frank Luther                                    10198
+  [Author: His Pards]
+  [Editor: Thomas A. Edison]
+  [Recorded August 15, 1928]
+  [NPS: EDIS 81262]
+Audio: He Was Nailed to the Cross for Me, by Earnest V. Stoneman         10197
+  [Author: His Dixie Mountineers]
+  [Editor: Thomas A. Edison]
+  [Recorded April 24, 1928]
+  [NPS: EDIS 80960]
+Audio: Cluck Old Hen, by Fiddlin' Powers and Family                      10196
+  [Editor: Thomas A. Edison]
+  [Recorded on October 6, 1925]
+  [NPS: EDIS 78487]
+Audio: Lonesome Road Blues, by The Blue Ridge Duo                        10195
+  [Author a.k.a.: Gene Austin; George Reneau]
+  [Editor: Thomas A. Edison]
+  [Recorded on September 22, 1924]
+  [NPS: EDIS 42868]
+
+Audio: Opera Reel with Calls, by Jasper Bisbee (Fiddle)                  10194
+  [Author: Beulah Bisbee-Schuler (Piano)]
+  [Editor: Thomas A. Edison]
+  [Recorded November 24, 1923]
+  [NPS: EDIS 42632]
+Audio: Backyard Conversation Between Mrs. Reilly & Mrs. Finnegan, Jones  10193
+  [Author: Ada Jones, Steve Porter]
+  [Editor: Thomas A. Edison]
+  [Recorded 1920]
+  [NPS: EDIS 43047]
+Audio: Interruptions, by Tom Woottwell                                   10192
+  [Subtitle: Comic Sketch]
+  [Editor: Thomas A. Edison]
+  [Recorded 1909]
+  [NPS: EDIS 36622]
+Audio: Fourth of July at Punkin Center, by Cal Stewart                   10191
+  [Editor: Thomas A. Edison]
+  [Recorded July 1911]
+  [NPS: EDIS 36009]
+Audio: A Bunch of Nonsense, by Murray K. Hill                            10190
+  [Subtitle: Vaudeville Specialty]
+  [Editor: Thomas A. Edison]
+  [Recorded November 1908]
+  [NPS: EDIS 36631]
+
+Audio: Three Rubes Seeing New York, by Edison Vaudeville Company         10189
+  [Editor: Thomas A. Edison]
+  [Recorded November 1907]
+  [NPS: EDIS 38839]
+Audio: Two Rubes at the Vaudeville, by Byron G. Harlan                   10188
+  [Author: Frank C. Stanley]
+  [Editor: Thomas A. Edison]
+  [Recorded July 1904]
+  [NPS: EDIS 4776]
+Audio: Reuben Haskin's ride on the Cyclone Auto, by Len Spencer          10187
+  [Editor: Thomas A. Edison]
+  [Recorded February 1904]
+  [NPS: EDIS 4779]
+Audio: Schultz at the Paris Exposition, by Frank Kennedy                 10186
+  [Editor: Thomas A. Edison]
+  [Recorded September 1900]
+  [NPS: EDIS 24876]
+Audio: Minstrel Potpourri, by Edison Minstrels                           10185
+  [Editor: Thomas A. Edison]
+  [Recorded c. July 1899]
+  [NPS: EDIS 4751]
+
+Audio: Quartet in G, 1st Movement, Pt. 1, by Roth String Quartet         10184
+  [Author: Wolfgang Amadeus Mozart (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded October 10, 1929]
+  [NPS: EDIS 84282]
+Audio: Etude Nouvelle in A Flat and Etude in C Major, Op. 10, No. 1      10183
+  [Author: Frederic Chopin (Composer)]
+  [Author: Moriz Rosenthal (Piano)]
+  [Editor: Thomas A. Edison]
+  [Recorded April 4, 1929]
+  [NPS: EDIS 44236]
+Audio: Trio No. 1 in B Flat, Pt. 1, by The New York Trio                 10182
+  [Subtitle: 1st Movement, allegro moderato, Op. 99]
+  [Author: Franz Schubert (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded May 23, 1928]
+  [NPS: EDIS 80125]
+Audio: Clair de Lune, by Hotel Commodore Ensemble                        10181
+  [Subtitle: Suite Bergamasque]
+  [Author: Claude Debussey (Composer)]
+  [Author:  Bernhard Levitow (Director)]
+  [Editor: Thomas A. Edison]
+  [Recorded July 21, 1927]
+  [NPS: EDIS 40629]
+Audio: Slavonic Dance, No. 1, by Carl Flesch (Violin)                    10180
+  [Author: Antonin Dvorak and Fritz Kreisler (Composers)]
+  [Author: Kurt Ruhrseitz (Piano)]
+  [Editor: Thomas A. Edison]
+  [Recorded March 5, 1926]
+  [NPS: EDIS 43934]
+
+Audio: Extracts from the Ballet-Suite Scherazada, Pt. 1                  10179
+  [Author: Nikolai Rimsky-Korsakow (Composer)]
+  [Performed by: American Concert Orchestra]
+  [Editor: Thomas A. Edison]
+  [Recorded on April 28, 1925]
+  [NPS: EDIS 43889]
+Audio: Moonlight Sonata, by Bellini Ensemble Unique                      10178
+  [Author: Ludwig von Beethoven (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1924]
+  [NPS: EDIS 41945]
+Audio: Ride of the Valkyries, by American Symphony Orchestra             10177
+  [Subtitle: From "Die Valkyrie"]
+  [Author: Richard Wagner (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1921]
+  [NPS: EDIS 41877]
+Audio: The Debutante, by Edna White (Trumpet)                            10176
+  [Subtitle: Caprice Brillante]
+  [Author: Herbert L. Clarke (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1920]
+  [NPS: EDIS 41889]
+Audio: Prelude in C Sharp Minor, Op. 3, by Sergie Rachmaninoff           10175
+  [Author: Sergie Rachmaninoff (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1919]
+  [NPS: EDIS 73898]
+
+Audio: William Tell Overture, Pt. 2, by Sodero's Band                    10174
+  [Author: Gioacchino Rossini (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1911?]
+  [NPS: EDIS 43455]
+Audio: Hungarian Rhapsody No. 2, Part 1, by Edison Concert Band          10173
+  [Author: Franz Liszt (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1913]
+  [NPS: EDIS 43462]
+Audio: Menuett G Flat Major and Valse Bluette, Kathleen Parlow (Violin)  10172
+  [Author: Ludwig van Beethoven (Composer)]
+  [Editor: Thomas A. Edison]
+  [Pianist: George Falkenstein]
+  [Recorded September 1912]
+  [NPS: EDIS 36520]
+Audio: Santa Lucia, by His Majesty's Irish Guards Band                   10171
+  [Author: Adolph Lotter (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded July 1912]
+  [NPS: EDIS 37943]
+Audio: Stars and Stripes Forever, by Sousa's Band                        10170
+  [Author: John Phillip Sousa (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded November 1909]
+  [NPS: EDIS 36682]
+
+Audio: Semper Fidelis March, by United States Marine Band                10169
+  [Author: John Phillip Sousa (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded June 1909]
+  [NPS: EDIS 35806]
+Audio: Kaiser Frederick March, by British Military Band                  10168
+  [Author: Carl Friedemann (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1905]
+  [NPS: EDIS 38237]
+Audio: Mr. Thomas Cat, by Edison Grand Concert Band                      10167
+  [Editor: Thomas A. Edison]
+  [Released December 1900]
+  [NPS: EDIS 4795]
+What Germany Thinks, by Thomas F. A. Smith                               10166
+  [Subtitle: The War as Germans see it]
+Across the Zodiac, by Percy Greg                                         10165
+  [Subtitle: The Story of a Wrecked Record]
+
+The Black Creek Stopping-House, by Nellie McClung                        10164
+Mohammedanism, by C. Snouck Hurgronje                                    10163
+  [Subtitle: Lectures on Its Origin, Its Religious and Political Growth,
+   and Its Present State]
+Dio's Rome, Vol. III, by Cassius Dio                                     10162
+  [Subtitle: An Historical Narrative Originally Composed In Greek During
+   The Reigns Of Septimius Severus, Geta And Caracalla, Macrinus,
+   Elagabalus And Alexander Severus]
+  [Translator: Herbert Baldwin Foster]
+English Poets of the Eighteenth Century, by Bernbaum                     10161
+  [Selected and Edited with an Introduction by Ernest Bernbaum]
+Pierre Noziere, by Anatole France                                        10160
+  [Language: French]
+
+England and the War, by Walter Raleigh                                   10159
+  [Speeches]
+Audio: Daybreak at Calamity Farm, by Gilbert Girard                      10158
+  [Editor: Thomas A. Edison]
+  [Recorded in 1915]
+  [NPS: EDIS 40809]
+Audio: Which Switch is the Switch, Miss, for Ipswich?, by Billy Murray   10157
+  [Subtitle: from Rosy Rapture]
+  [Author: Worton David, J. Barnett, Herman Darewski (Composers)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1915]
+  [NPS: EDIS 40585]
+Audio: M'appari - Martha, by Allesandro Bonci                            10156
+  [Author: Friedrich von Flotow (Composer)]
+  [Editor: Thomas A. Edison]
+  [Recorded 1914]
+  [NPS: EDIS 75936]
+Audio: The Right of the People to Rule, by Theodore Roosevelt            10155
+  [Editor: Thomas A. Edison]
+  [Recorded c. August 1912, Sagamore Hill (Roosevelt's home) in Oyster Bay,
+   New York]
+  [NPS: EDIS 39850]
+
+Audio: Voice Trial - Kinetophone Actor Audition,by Siegfried Von Schultz 10154
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1913, at Edison motion picture film studio, Bronx, NY]
+  [NPS: EDIS 44830]
+Audio: Voice Trial - Kinetophone Actor Audition, by Frank Lenord         10153
+  [Editor: Thomas A. Edison]
+  [Recorded c. 1913, at Edison Motion Picture Film Studio, Bronx, NY]
+  [NPS: EDIS 44830]
+Audio: Voice Trial - Kinetophone actor audition, by Bob Lett             10152
+  [Recorded June 24, 1913, the Edison motion picture film studio, Bronx, NY]
+  [NPS: EDIS 44833]
+The Great Events by Famous Historians, Volume 5, by Various              10151
+  [Subtitle: A Comprehensive and Readable Account of the World's History.
+   Emphasizing the More Important Events, and Presenting These as Complete
+   Narratives in the Master-Words of the Most Eminent Historians]
+  [Editor: Rossiter Johnson, Supervising Editor; Charles F. Horne and
+   John Rudd, Literary Editors; Walter F. Austin, Directing Editor]
+  [Contents:
+    An Outline Narrative of the Great Events, by Charles F. Horne
+    Feudalism: its Frankish Birth and English Development, by
+      William Stubbs
+    Decay of the Frankish Empire, by Francois P. G. Guizot
+    Career of Alfred the Great, by Thomas Hughes and John R. Green
+    Henry the Fowler Founds the Saxon Line of German Kings, by
+      Wolfgang Menzel
+    Conquest of Egypt by the Fatimites, by Stanley Lane-Poole
+    Growth and Decadence of Chivalry, by Leon Gautier
+    Conversion of Vladimir the Great, by A. N. Mouravieff
+    Leif Ericson Discovers America, by Charles C. Rafn
+    Mahometans in India, by Alexander Dow
+    Canute Becomes King of England, by David Hume
+    Henry III Deposes the Popes, by Ferdinand Gregorovius and Joseph Darras
+    Dissension and Separation of the Greek and Roman Churches, by Henry F.
+      Tozer and Joseph Deharbe
+    Norman Conquest of England, by Sir Edward S. Creasy
+    Triumphs of Hildebrand, by Arthur R. Pennington and Artaud de Montor
+    Completion of the Domesday Book, by Charles Knight
+    Decline of the Moorish Power in Spain, by S. A. Dunham
+    The First Crusade, by Sir George W. Cox
+    Foundation of the Order of Knights Templars, by Charles G. Addison
+    Stephen Usurps the English Crown, by Charles Knight
+    Antipapal Democratic Movement, by Johann A. W. Neander
+    Decline of the Byzantine Empire, by George Finlay
+    Universal Chronology, by John Rudd]
+Dracula's Guest, by Bram Stoker                                          10150
+
+Home as Found, by James Fenimore Cooper                                  10149
+  [Subtitle: Sequel to "Homeward Bound"]
+The Merry Adventures of Robin Hood, by Howard Pyle                       10148
+  [See also: #965]
+America's War for Humanity, by Thomas Herbert Russell                    10147
+  [Additional Contributors: General John J. Pershing; William Dunseath
+   Eaton, Contributing Editor; James Martin Miller]
+Reminiscences of Pioneer Days in St. Paul, by Frank Moore                10146
+  [Subtitle: A Collection of Articles Written for and Published in the
+   Daily Pioneer Press]
+Turkey: A Past and a Future, by Arnold Joseph Toynbee                    10145
+
+Punchinello, Vol. II., No. 35, November 26, 1870, by Various             10144
+Punch, Vol. 153, July 11, 1917, ed. by Sir Owen Seaman                   10143
+Maezli, by Johanna Spyri                                                 10142
+  [Subtitle: A Story of the Swiss Valleys]
+  [Translated by Elisabeth P. Stork]
+A Discourse on the Life, Character and Writings of Verplanck             10141
+  [Title: A Discourse on the Life, Character and Writings of Gulian
+   Crommelin Verplanck]
+  [Subtitle: Delivered before the New-York Historical Society, May 17th,
+   1870]
+  [Author: William Cullen Bryant]
+Rhetoric and Poetry in the Renaissance, by Donald Lemen Clark            10140
+  [Subtitle: A Study of Rhetorical Terms in English Renaissance
+   Literary Criticism]
+
+The Faith of the Millions (2nd series), by George Tyrrell                10139
+  [Subtitle: A Selection of Past Essays]
+The Atlantic Monthly, Vol. 1, No. 2, December, 1857, by Various          10138
+  [Subtitle: A Magazine of Literature, Art, and Politics]
+Audio: Mary Had a Little Lamb, by Thomas A. Edison                       10137
+  [Subtitle: Recording taken from Movietone Production news film]
+  [Note: Recorded August 12, 1927 at the Golden Jubilee of the Phonograph
+         Ceremony, held in Glenmont (Edison's Home), West Orange, New
+         Jersey]
+The Book of Household Management, by Mrs. Isabella Beeton                10136
+  [Subtitle: Comprising Information for the Mistress, Housekeeper, Cook,
+   Kitchen-Maid, Butler, Footman, Coachman, Valet, Upper And Under
+   House-Maids, Lady's-Maid, Maid-Of-All-Work, Laundry-Maid, Nurse And
+   Nurse-Maid, Monthly, Wet, And Sick Nurses, Etc. Etc.; Also, Sanitary,
+   Medical, & Legal Memoranda; With A History Of The Origin, Properties, And
+   Uses Of All Things Connected With Home Life And Comfort.]
+The Great English Short-Story Writers, Vol. 1, by Various                10135
+  [Author: Introductory essays by William Dawson and Coningsby W. Dawson]
+  [Contents:
+    The Apparition of Mrs. Veal, by Daniel Defoe
+    The Mysterious Bride, by James Hogg
+    The Devil and Tom Walker, by Washington Irving
+    Dr. Heidegger's Experiment, by Nathaniel Hawthorne
+    The Purloined Letter, by Edgar Allan Poe
+    Rab and His Friends, by Dr. John Brown
+    The Boots at the Holly-Tree Inn, by Charles Dickens
+    A Story of Seven Devils, by Frank R. Stockton
+    A Dog's Tale, by Mark Twain
+    The Outcasts of Poker Flat, by Bret Harte
+    The Three Strangers, by Thomas Hardy
+    Julia Bride, by Henry James
+    A Lodging for the Night, by Robert Louis Stevenson]
+
+John Wesley, Jr., by Dan B. Brummitt                                     10134
+  [Subtitle: The Story of an Experiment]
+The Vigil of Venus and Other Poems, by "Q"                               10133
+  [a.k.a.: Sir Arthur Thomas Quiller-Couch]
+The Sowers, by Henry Seton Merriman                                      10132
+Required Poems for Reading and Memorizing, by Anonymous                  10131
+  [Subtitle: Third and Fourth Grades, Prescribed by State Courses of Study]
+The Works of Charles and Mary Lamb, Vol. 3: Books for Children, by Lamb  10130
+  [Author: Charles and Mary Lamb] [Ed.: E. V. Lucas]
+
+Excellent Women, by Various                                              10129
+  [Note: compilation of Religious Tract Society publications, London,
+   late 1800s]
+  Contents:
+    Elizabeth Fry. By James Macaulay, M.A., M.D.
+    Selina, Countess Of Huntingdon. By Rev. R. Lovett, M.A.
+    Rachel, Lady Russell. By James Macaulay, M.A., M.D.
+    Frances Ridley Havergal. By Rev. J.P. Hobson, M.A.
+    Hannah More. By Henry Johnson.
+    Susanna Wesley. By Rev. J. Cunningham, M.A.
+    Mrs. Hemans. By Rev. S.F. Harris, M.A., B.C.L.
+    Madame Guyon. By William Nichols.
+    Ann Judson. By Fred. A. Mckenzie.
+    Mary Louisa Whately. By Rev. W.R. Bowman.
+    Agnes Jones. By Ellen L. Courtenay.
+    Elizabeth, Duchess Of Gordon. By Rev. S.F. Harris, M.A., B.C.L.]
+Great Events by Famous Historians, Vol. 17, by Charles Francis Horne     10128
+Abducted to Oz, by Bob Evans and Chris Dulabone                          10127C
+Home-Life of the Lancashire Factory Folk during the Cotton Famine, Waugh 10126
+  [Author: Edwin Waugh]
+The Best Letters of Charles Lamb, ed: Edward Gilpin Johnson              10125
+
+Aunt Jane's Nieces and Uncle John, by Edith Van Dyne                     10124
+  [Author a.k.a.: L. Frank Baum]
+Aunt Jane's Nieces, by Edith Van Dyne                                    10123
+  [Author a.k.a.: L. Frank Baum]
+Fairies and Fusiliers, by Robert Graves                                  10122
+Oriental Literature, by Anonymous                                        10121
+  [Subtitle: The Literature of Arabia]
+  [With Critical and Biographical Sketches by Epiphanius Wilson]
+England of My Heart--Spring, by Edward Hutton                            10120
+  [Illustrated by Gordon Home]
+
+Adonais, by Shelley                                                      10119
+  [Introduction and Notes by William Michael Rossetti]
+The Folk-lore of Plants, by T. F. Thiselton-Dyer                         10118
+Den siste atenaren, by Viktor Rydberg                                    10117
+  [Language: Swedish]
+All Saints' Day and Other Sermons, by Charles Kingsley                   10116
+  [Editor: Rev. W. Harrison]
+
+Two Centuries of Costume in America, Vol. 1 (1620-1820),                 10115
+ by Alice Morse Earle
+
+The Great Events by Famous Historians, Vol. 2, by Various                10114
+  [Subtitle: A Comprehensive and Readable Account of the World's History.
+   Emphasizing the More Important Events, and Presenting These as Complete
+   Narratives in the Master-Words of the Most Eminent Historians]
+  [Editor: Rossiter Johnson]
+  [Associate Editors: Charles Horne and John Rudd]
+De mannen van '80 aan het woord, by E. D'Oliveira                        10113
+  [Language: Dutch]
+American Political Ideas, by John Fiske                                  10112
+  [Title: American Political Ideas Viewed From The Standpoint Of
+   Universal History]
+Boys and Girls from Thackeray, by Kate Dickinson Sweetser                10111
+The Postmaster's Daughter, by Louis Tracy                                10110
+
+The Unspeakable Gentleman, by John P. Marquand                           10109
+A Treatise Of Daunses, by Anonymous                                      10108
+  [Subtitle: Wherin It Is Shewed, That They Are As It Were Accessories
+   And Dependants (Or Thynges Annexed) To Whoredome, (1581)]
+With British Guns in Italy, by Hugh Dalton                               10107
+  [Subtitle: A Tribute to Italian Achievement]
+Punchinello, Vol. II., No. 34, November 19, 1870, by Various             10106
+Punchinello, Vol. II., No. 33, November 12, 1870, by Various             10105
+
+Punchinello, Vol. 2, No. 32, November 5, 1870, by Various                10104
+The Great Events by Famous Historians, Vol. 8, by Rossiter Johnson       10103
+  [Subtitle: The Later Renaissance: From Gutenberg To The Reformation]
+  [Editor-in-Chief: Rossiter Johnson]
+The Czar's Spy, by William Le Queux                                      10102
+  [Subtitle: The Mystery of a Silent Love]
+A Little Boy Lost, by W.H. Hudson                                        10101
+
+Byron, by John Nichol                                                    10100
+
+Towards The Goal, by Mrs. Humphry Ward                                   10099
+How Jerusalem Was Won, by W.T. Massey                                    10098
+  [Subtitle: Being the Record of Allenby's Campaign in Palestine]
+The Healing of Nations, by Edward Carpenter                              10097
+  [Title: The Healing of Nations and the Hidden Sources of Their Strife]
+The Trojan Women of Euripides, by Euripides                              10096
+  [Translated by Gilbert Murray]
+The Twilight of the Gods, and Other Tales, by Richard Garnett            10095
+
+A Soldier of Virginia, by Burton Egbert Stevenson                        10094
+  [Subtitle: A Tale of Colonel Washington and Braddock's Defeat]
+The History of Gutta-Percha Willie, by George MacDonald                  10093
+  [Subtitle: The Working Genius]
+Punchinello Vol. II., No. 30, October 22, 1870, by Various               10092
+Punchinello, Vol. II., Issue 31, October 29, 1870, by Various            10091
+Peaceless Europe, by Francesco Saverio Nitti                             10090
+
+Elves and Heroes, by Donald A. MacKenzie                                 10089
+Thaumaturgia, by An Oxonian                                              10088
+  [Subtitle: Or, Elucidations of the Marvellous]
+Old Lady Number 31, by Louise Forsslund                                  10087
+  [Forsslund is a pseudonym for Mary Louise Foster, 1873-1910]
+The Minute Boys of the Mohawk Valley, by James Otis                      10086
+Moorish Literature, by Anonymous                                         10085
+  [Subtitle: Romantic Ballads, Tales Of The Berbers, Stories Of The Kabyles,
+   Folk-Lore, And National Traditions]
+  [Translated Into English By Rene Basset]
+
+Kazan, by James Oliver Curwood                                           10084
+The House of the Whispering Pines, by Anna Katharine Green               10083
+The Hampstead Mystery, by John R. Watson and Arthur J. Rees              10082
+The Boy Allies at Jutland, by Robert L. Drake                            10081
+  [Subtitle: Or, The Greatest Naval Battle of History]
+Mobilizing Woman-Power, by Harriot Stanton Blatch                        10080
+
+The Atlantic Monthly, Vol. 2, No. 9, July, 1858, by Various              10079
+  [Subtitle: A Magazine of Literature, Art, and Politics]
+Plain Words From America, by Douglas W. Johnson                          10078
+  [Subtitle: A Letter to a German Professor (1917)]
+The Atlantic Monthly, Vol. 10, No. 60, October 1862, by Various          10077
+Lister's Great Adventure, by Harold Bindloss                             10076
+A Narrative of the Life and Adventures of Venture, by Venture Smith      10075
+  [Title: A Narrative of the Life and Adventures of Venture, a Native of
+   Africa, But Resident above Sixty Years in the United States of America,
+   Related by Himself]
+
+The Mirror of Literature, Amusement, and Instruction, Vol. 10, Issue 269 10074
+  [Title: The Mirror of Literature, Amusement, and Instruction, Vol. 10,
+   Issue 269, August 18, 1827]
+  [Author: Various]
+The Century Vocabulary Builder, by Greever & Bachelor                    10073
+  [Author:  Garland Greever and Joseph M. Bachelor]
+English Housewifery Exemplified, by Elizabeth Moxon                      10072
+  [Subtitle: In above Four Hundred and Fifty Receipts Giving Directions
+   for most Parts of Cookery]
+By-Ways of Bombay, by S. M. Edwardes, C.V.O                              10071
+Stories of Great Americans for Little Americans, by Edward Eggleston     10070
+
+Account of the Romansh Language, by Joseph Planta, Esq. F. R. S          10069
+  [Subtitle: In a Letter to Sir John Pringle, Bart. P. R. S.]
+The Power and the Glory, by Grace MacGowan Cooke                         10068
+The Mystery Of The Boule Cabinet, by Burton Egbert Stevenson             10067
+  [Subtitle: A Detective Story]
+Gunman's Reckoning, by Max Brand                                         10066
+The Constitution of the United States, by James M. Beck                  10065
+  [Subtitle: A Brief Study of the Genesis, Formulation and Political
+   Philosophy of the Constitution]
+  [Preface by the Earl of Balfour]
+
+Beltane The Smith, by Jeffery Farnol                                     10064
+Happiness and Marriage, by Elizabeth (Jones) Towne                       10063
+The Iron Game, by Henry Francis Keenan                                   10062
+  [Subtitle: A Tale of the War]
+Les Heures Claires, by Emile Verhaeren                                   10061
+  [Language: French]
+Discourses, by Thomas H. Huxley                                          10060
+  [Subtitle: Biological and Geological Essays]
+
+Aunt Jane's Nieces on Vacation, by Edith Van Dyne                        10059
+The Divine Office, by Rev. E. J. Quigley                                 10058
+The Secret of the Tower, by Hope, Anthony                                10057
+Chinese Literature, by Anonymous                                         10056
+  [Subtitle: Comprising The Analects of Confucius, The Sayings of
+   Mencius, The Shi-King, The Travels of Fa-Hien, and The Sorrows of Han]
+  [With critical and biographical sketches by Epiphanius Wilson, A.M.]
+Hamburgische Dramaturgie, by Gotthold Ephraim Lessing                    10055
+  [Language: German]
+
+Nova analysis aquarum Medeviensium, by Joens Jacob Berzelius             10054
+  [Contributor: Anders Gustaf Ekeberg]
+  [Language: Latin]
+La vampire, by Paul H.C. Feval                                           10053
+  [Language: French]
+The Open Door, and the Portrait., by Margaret O. (Wilson) Oliphant       10052
+  [Subtitle: Stories of the Seen and the Unseen]
+Little Pilgrim: Further Experiences., by Margaret O. (Wilson) Oliphant   10051
+  [Subtitle: Stories of the Seen and the Unseen]
+A Little Pilgrim, by Margaret O. (Wilson) Oliphant                       10050
+  [Subtitle: Stories of the Seen and the Unseen]
+
+Old Lady Mary, by Margaret O. (Wilson) Oliphant                          10049
+  [Subtitle: A Story of the Seen and the Unseen]
+Billie Bradley and Her Inheritance, by Janet D. Wheeler                  10048
+  [Subtitle: The Queer Homestead at Cherry Corners]
+Punchinello, Vol. 2, No. 29, October 15, 1870, by Various                10047
+Salute to Adventurers, by John Buchan                                    10046
+Dave Darrin's Second Year at Annapolis, by H. Irving Hancock             10045
+  [Subtitle: Two Midshipmen as Naval Academy "Youngsters"]
+
+The Father of British Canada: A Chronicle of Carleton, by William Wood   10044
+  [Chronicles of Canada, Volume 12 of 32]
+  [Ed.: George M. Wrong and H. H. Langton]
+Klondyke Nuggets, by Joseph Ladue                                        10043
+  [Subtitle:A Brief Description of the Great Gold Regions in the Northwest]
+The Child Under Eight, by E.R. Murray and Henrietta Brown Smith          10042
+The Rivet in Grandfather's Neck, by James Branch Cabell                  10041
+  [Subtitle: A Comedy of Limitations]
+Alaska Indian Dictionary, by Charles A. Lee                              10040
+  [Subtitle: Aleutian Indian and English Dictionary: Common Words In The
+   Dialects Of The Aleutian Indian Language: As Spoken By The Oogashik,
+   Egashik, Egegik, Anangashuk And Misremie Tribes Around Sulima River
+   And Neighboring Parts Of The Alaska Peninsula]
+  [Language: Aleut]
+
+The Works of Aphra Behn, Vol. III, by Aphra Behn                         10039
+The Magnetic North, by Elizabeth Robins (C. E. Raimond)                  10038
+A Beautiful Possibility, by Edith Ferguson Black                         10037
+Punchinello, Vol. 2, No. 28, October 8, 1870, by Various                 10036
+Punchinello, Vol. 2, No. 27, October 1, 1870, by Various                 10035
+
+Punchinello, Vol. I, No. 26, September 24, 1870, by Various              10034
+Punchinello, Vol. I, No. 25, September 17, 1870, by Various              10033
+Punchinello, Vol. I, No. 24, September 10, 1870, by Various              10032
+Edgar Allan Poe's Complete Poetical Works, by Edgar Allan Poe            10031
+  [Edited by John H. Ingram]
+The Life of Hon. William F. Cody, by William F. Cody                     10030
+  [Subtitle: Known as Buffalo Bill The Famous Hunter, Scout and Guide]
+
+The Hunt Ball Mystery, by William Magnay                                 10029
+Spalding's Official Baseball Guide - 1913, Edited by John B. Foster      10028
+The Triple Alliance, by Harold Avery                                     10027
+  [Subtitle: Its Trials and Triumphs]
+The Mirror of Literature, Amusement, and Instruction, Vol. 10, Issue 268 10026
+Gaslight Sonatas, by Fannie Hurst                                        10025
+
+Beneath the Banner, by F. J. Cross                                       10024
+There's Pippins And Cheese To Come, by Charles S. Brooks                 10023
+White Queen of the Cannibals: The Story of Mary Slessor,A. J. Bueltmann  10022
+Tenterhooks, by Ada Leverson                                             10021
+The Strand Magazine, Vol. VII, No. 37, Jan 1894, Ed. by George Newnes    10020
+
+Punchinello, Vol. I, No. 22, August 27, 1870, by Various                 10019
+Punchinello, Vol. I, No. 5, April 30, 1870, by Various                   10018
+Punchinello, Vol. I, No. 23, September 3, 1870, by Various               10017
+Punchinello Vol. I, No. 21, August 20, 1870, by Various                  10016
+Punchinello, Vol. I, No. 19, August 6, 1870, by Various                  10015
+
+Punchinello, Vol. I, No. 18, July 30, 1870, by Various                   10014
+Punchinello, Vol. I, No. 9, May 28, 1870, by Various                     10013
+The Mountains of California, by John Muir                                10012
+365 Foreign Dishes, by Unknown Author                                    10011
+  [Subtitle: A Foreign Dish for every day in the year]
+The Eulogies of Howard, by William Hayley                                10010
+
+Wild Northern Scenes, by S. H. Hammond                                   10009
+  [Subtitle: Sporting Adventures with the Rifle and the Rod]
+The Mystery, by Stewart Edward White and Samuel Hopkins Adams            10008
+Carmilla, by J. Sheridan LeFanu                                          10007
+La Fiammetta, by Giovanni Boccaccio                                      10006
+  [Tr.: James C. Brogan]
+  (Note: contains introduction, prologue, and chapter 1 only)
+A Voyage to the Moon, by George Tucker (a.k.a. Joseph Atterley)          10005
+
+The Warriors, by Lindsay, Anna Robertson Brown                           10004
+My First Years As A Frenchwoman, 1876-1879, by Mary King Waddington      10003
+The House on the Borderland, by William Hope Hodgson                     10002
+
+Apocolocyntosis, by Lucius Seneca                                        10001
+  [English Translation By W.H.D. Rouse]
+
+END
+

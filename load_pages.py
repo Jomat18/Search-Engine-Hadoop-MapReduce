@@ -1,4 +1,14 @@
 
+def hashmap_pagerank():
+	hmap_pr = {}
+
+	f = open('part-00001', 'r')
+
+	for line in f:
+		row = line.split('\t')
+		hmap_pr[row[0]] = row[1]
+
+	return hmap_pr
 
 def hashmap():
 	words = {}

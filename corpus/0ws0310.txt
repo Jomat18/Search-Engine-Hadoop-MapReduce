@@ -1,0 +1,3507 @@
+project gutenberg s etext shakespeare s folio
+henry sixt
+rd edition plays index
+copyright laws changing world sure check
+copyright laws country posting files
+look important information header
+encourage file disk keeping
+electronic path open readers remove
+welcome world free plain vanilla electronic texts
+etexts readable humans computers
+etexts prepared hundreds volunteers donations
+information contacting project gutenberg etexts
+information included need donations
+henry sixt
+william shakespeare
+july etext
+project gutenberg s etext shakespeare s folio
+henry sixt
+file named ws txt ws zip
+corrected editions etexts new number ws txt
+versions based separate sources new letter ws txt
+project gutenberg etexts usually created multiple editions
+public domain united states unless
+copyright notice included usually
+books compliance particular paper edition
+trying release books month advance
+official release dates leaving time better editing
+note list contents final till
+midnight day month announcement
+official release date project gutenberg etexts
+midnight central time day stated month
+preliminary version posted suggestion comment
+editing wish sure
+date edition xxxxx x xxx check file sizes
+week month ftp program
+bug scrambles date tried fix failed
+look file size but try
+new copy byte
+information project gutenberg page
+produce million dollars hour work
+time takes conservative estimate fifty hours
+etext selected entered proofread edited copyright
+searched analyzed copyright letters written
+projected audience million readers value
+text nominally estimated dollar produce
+million dollars hour year release thirty text
+files month etexts total
+reach computerized population
+total reach billion etexts given away year
+goal project gutenberg away trillion etext
+files december x trillion
+thousand titles million readers
+present number computer users
+revised rates production reach
+goal end etexts unless
+manage real funding currently funding
+michael hart s salary carnegie mellon university
+assortment sporadic gifts salary good
+years looking replace
+don t want project gutenberg dependent person
+need donations
+donations project gutenberg cmu
+tax deductible extent allowable law cmu carnegie
+mellon university
+matters mail
+project gutenberg
+p o box
+champaign il
+email fails try executive director
+michael s hart hart pobox com
+hart pobox com forwards hart prairienet org archive org
+mail bounces archive org i
+bounces prairienet org better resend later
+prefer send information email
+access project gutenberg etexts use web browser
+view http promo net pg site lists etexts
+author title includes information
+involved project gutenberg
+download past newsletters subscribe
+major sites email hart pobox com
+complete list various sites
+directly etext collections use ftp
+web browser visit project gutenberg mirror mirror
+sites available continents mirrors listed
+http promo net pg
+mac users point click typing works better
+example ftp session
+ftp sunsite unc edu
+login anonymous
+password login
+cd pub docs books gutenberg
+cd etext etext
+dir files
+mget files set bin zip files
+gutindex year s listing books e g gutindex
+gutindex listing books
+information prepared project gutenberg legal advisor
+pages
+start small print public domain etexts start
+small print statement know lawyers
+tell sue wrong
+copy etext got free
+s wrong
+fault things small print statement
+disclaims liability tells
+distribute copies etext want
+use read etext
+using reading project gutenberg tm
+etext indicate understand agree accept
+small print statement receive
+refund money paid etext
+sending request days receiving person
+got received etext physical
+medium disk return request
+project gutenberg tm etexts
+project gutenberg tm etext like project gutenberg
+tm etexts public domain work distributed professor
+michael s hart project gutenberg association
+carnegie mellon university project
+things means owns united states copyright
+work project copy
+distribute united states permission
+paying copyright royalties special rules set forth
+apply wish copy distribute etext
+project s project gutenberg trademark
+create etexts project expends considerable
+efforts identify transcribe proofread public domain
+works despite efforts project s etexts
+medium contain defects
+things defects form incomplete inaccurate
+corrupt data transcription errors copyright
+intellectual property infringement defective damaged
+disk etext medium computer virus computer
+codes damage read equipment
+limited warranty disclaimer damages
+but right replacement refund described
+project party receive
+etext project gutenberg tm etext disclaims
+liability damages costs expenses including
+legal fees remedies negligence
+strict liability breach warranty contract
+including but limited indirect consequential punitive
+incidental damages notice
+possibility damages
+discover defect etext days
+receiving receive refund money
+paid sending explanatory note
+time person received received
+physical medium return note
+person choose alternatively replacement
+copy received electronically person
+choose alternatively second opportunity
+receive electronically
+etext provided
+warranties kind express implied
+etext medium including but
+limited warranties merchantability fitness
+particular purpose
+states allow disclaimers implied warranties
+exclusion limitation consequential damages
+disclaimers exclusions apply
+legal rights
+indemnity
+indemnify hold project directors
+officers members agents harmless liability cost
+expense including legal fees arise directly
+indirectly following cause
+distribution etext alteration modification
+addition etext defect
+distribution project gutenberg tm
+distribute copies etext electronically
+disk book medium delete
+small print references project gutenberg
+exact copies things
+requires remove alter modify
+etext small print statement
+wish distribute etext machine readable
+binary compressed mark proprietary form
+including form resulting conversion word pro
+cessing hypertext software but long
+etext displayed clearly readable
+contain characters
+intended author work tilde
+asterisk underline characters
+used convey punctuation intended
+author additional characters used
+indicate hypertext links
+etext readily converted reader
+expense plain ascii ebcdic equivalent
+form program displays etext
+case instance word processors
+provide agree provide request
+additional cost fee expense copy
+etext original plain ascii form ebcdic
+equivalent proprietary form
+honor etext refund replacement provisions
+small print statement
+pay trademark license fee project
+net profits derive calculated using method
+use calculate applicable taxes
+don t derive profits royalty royalties
+payable project gutenberg association carnegie mellon
+university days following
+date prepare legally required prepare
+annual equivalent periodic tax return
+want send money don t
+project gratefully accepts contributions money time
+scanning machines ocr software public domain etexts royalty
+free copyright licenses sort contribution
+think money paid project gutenberg
+association carnegie mellon university
+end small print public domain etexts ver end
+project gutenberg s etext shakespeare s
+henry sixt
+executive director s notes
+addition notes think
+spelling errors introduced printers time
+corrected lines hamlet
+presented
+barnardo s
+fran nay answer stand vnfold
+selfe
+bar long liue king
+i understand printers ran certain words
+letters packed cliche
+original meaning term cliche unwilling
+unpack cliches substitutions
+look odd exchanges u v v u
+wonder way presuming
+shakespeare actually write play manner
+answer packed liue cliche
+time v s possibly having used vv
+place w s common practice day
+print quite expensive didn t want spend
+wider selection characters
+find lot kinds errors text i
+mentioned times places scholars
+extreme attachment errors accorded
+high place canon shakespeare father read
+assortment available cambridge university
+england months glass room constructed
+purpose best knowledge read available
+great determined various changes
+shakespeare likely write nearly
+variety errors credit famous
+signing different spellings
+account reading comments
+volunteer prepared file errors
+errors
+caveat changed canon errors
+project gutenberg etext shakespeare s
+henry sixt
+michael s hart
+project gutenberg
+executive director
+scanner s notes isn t taken
+copy shakespeare s folio close i
+come ascii printed text
+elongated s s changed small s s
+conjoined ae changed ae i left spelling
+punctuation capitalization close possible
+printed text i corrected spelling mistakes i
+spelling dictionary devised spellings
+geneva bible shakespeare s folio unified
+spellings according template typo s expanded
+abbreviations i come
+brackets i added don t like
+delete brackets want
+purer shakespeare
+thing aware textual
+differences various copies folio
+differences i mentioned
+folio editions printer s
+habit setting type running number copies
+proofing printed copy correcting type
+continuing printing run proof run wasn t thrown away but
+incorporated printed copies way
+text i used composite different
+folio editions best pages
+find scanning errors typos punctuation
+errors disagree spelling choices feel
+free email errors i wish make best
+etext possible email address right haradda aol com
+davidr inconnect com i hope enjoy
+david reed
+henry sixt
+death duke yorke
+actus primus scoena prima
+alarum
+enter plantagenet edward richard norfolke mountague
+warwicke
+souldiers
+warwicke i wonder king escap d hands
+pl pursu d horsmen y north
+slyly stole away left men
+whereat great lord northumberland
+warlike eares neuer brooke retreat
+chear d vp drouping army himselfe
+lord clifford lord stafford brest
+charg d maine battailes breaking
+swords common souldiers slaine
+edw lord staffords father duke buckingham
+slaine wounded dangerous
+i cleft beauer right blow
+true father behold blood
+mount brother s earle wiltshires blood
+i encountred battels ioyn d
+rich speake thou tell i
+plan richard hath best deseru d sonnes
+but grace dead lord somerset
+hope haue line iohn gaunt
+rich i hope shake king henries head
+warw doe i victorious prince yorke
+i thee seated throne
+house lancaster vsurpes
+i vow heauen eyes shall neuer close
+pallace fearefull king
+regall seat possesse yorke
+thine king henries heires
+plant assist sweet warwick i
+hither haue broken force
+norf wee le assist flyes shall dye
+plant thankes gentle norfolke stay lords
+souldiers stay lodge night
+goe vp
+warw king comes offer violence
+vnlesse seeke thrust perforce
+plant queene day holds parliament
+but little thinkes shall counsaile
+words blowes let vs winne right
+rich arm d let s stay house
+warw bloody parliament shall call d
+vnlesse plantagenet duke yorke king
+bashfull henry depos d cowardize
+hath vs words enemies
+plant leaue lords resolute
+i meane possession right
+warw king loues best
+prowdest hee holds vp lancaster
+dares stirre wing warwick shake bells
+ile plant plantagenet root vp dares
+resolue thee richard clayme english crowne
+flourish enter king henry clifford northumberland
+westmerland exeter
+rest
+henry lords looke sturdie rebell sits
+euen chayre state belike meanes
+backt power warwicke false peere
+aspire vnto crowne reigne king
+earle northumberland slew thy father
+thine lord clifford haue vow d reuenge
+sonnes fauorites friends
+northumb i heauens reueng d
+clifford hope thereof makes clifford mourne
+steele
+westm shall suffer lets pluck
+heart anger burnes i brooke
+henry patient gentle earle westmerland
+clifford patience poultroones
+durst sit father liu d
+gracious lord parliament
+let vs assayle family yorke
+north hast thou spoken cousin
+henry ah know citie fauours
+haue troupes souldiers beck
+westm but duke slaine le quickly
+flye
+henry farre thought henries heart
+make shambles parliament house
+cousin exeter frownes words threats
+shall warre henry meanes vse
+thou factious duke yorke descend throne
+kneele grace mercie feet
+i thy soueraigne
+yorke i thine
+exet shame come downe thee duke
+yorke
+yorke inheritance earledome
+exet thy father traytor crowne
+warw exeter thou art traytor crowne
+following vsurping henry
+clifford hee follow but naturall
+king
+warw true clifford s richard duke yorke
+henry shall i stand thou sit throne
+yorke shall content thy selfe
+warw duke lancaster let king
+westm king duke lancaster
+lord westmerland shall maintaine
+warw warwick shall disproue forget
+chas d field
+slew fathers colours spread
+marcht citie pallace gates
+northumb yes warwicke i remember griefe
+soule thou thy house shall rue
+westm plantagenet thee thy sonnes
+thy kinsmen thy friends ile haue liues
+drops bloud fathers veines
+cliff vrge lest stead words
+i send thee warwicke messenger
+shall reuenge death i stirre
+warw poore clifford i scorne worthlesse
+threats
+plant shew title crowne
+swords shall pleade field
+henry title hast thou traytor crowne
+father thou art duke yorke
+thy grandfather roger mortimer earle march
+i sonne henry fift
+dolphin french stoupe
+seiz d vpon townes prouinces
+warw talke france sith thou hast lost
+henry lord protector lost i
+i crown d i but moneths old
+rich old
+thinkes loose
+father teare crowne vsurpers head
+edward sweet father doe set head
+mount good brother
+thou lou st honorest armes
+let s fight stand cauilling
+richard sound drummes trumpets
+king flye
+plant sonnes peace
+henry peace thou giue king henry leaue
+speake
+warw plantagenet shal speake heare lords
+silent attentiue
+interrupts shall liue
+hen think st thou i leaue kingly throne
+grandsire father sat
+shall warre vnpeople realme
+i colours borne france
+england hearts great sorrow
+shall winding sheet faint lords
+title s good better farre
+warw proue henry thou shalt king
+hen henry fourth conquest got crowne
+plant twas rebellion king
+henry i know say titles weake
+tell king adopt heire
+plant
+henry i lawfull king
+richard view lords
+resign d crowne henry fourth
+heire father i
+plant rose soueraigne
+resigne crowne perforce
+warw suppose lords vnconstrayn d
+thinke twere preiudiciall crowne
+exet resigne crowne
+but heire succeed reigne
+henry art thou vs duke exeter
+exet right pardon
+plant whisper lords answer
+exet conscience tells lawfull king
+henry reuolt turne
+northumb plantagenet clayme thou lay st
+thinke henry shall depos d
+warw depos d shall despight
+northumb thou art deceiu d
+tis thy southerne power
+essex norfolke suffolke kent
+makes thee presumptuous prowd
+set duke vp despight
+clifford king henry thy title right wrong
+lord clifford vowes fight thy defence
+ground gape swallow aliue
+i shall kneele slew father
+henry oh clifford thy words reuiue heart
+plant henry lancaster resigne thy crowne
+mutter conspire lords
+warw doe right vnto princely duke yorke
+i house armed men
+ouer chayre state sits
+write vp title vsurping blood
+stampes foot souldiers shew themselues
+henry lord warwick heare but word
+let life time reigne king
+plant confirme crowne heires
+thou shalt reigne quiet thou liu st
+henry i content richard plantagenet
+enioy kingdome decease
+clifford wrong vnto prince
+sonne
+warw good england himselfe
+westm base fearefull despayring henry
+clifford hast thou iniur d thy selfe vs
+westm i stay heare articles
+northumb i
+clifford come cousin let vs tell queene
+newes
+westm farwell faint hearted degenerate king
+cold blood sparke honor bides
+northumb thou prey vnto house yorke
+dye bands vnmanly deed
+cliff dreadfull warre st thou ouercome
+liue peace abandon d despis d
+warw turne way henry regard
+exeter seeke reuenge
+yeeld
+henry ah exeter
+warw sigh lord
+henry selfe lord warwick but sonne
+i vnnaturally shall dis inherite
+but i entayle
+crowne thee thine heires euer
+conditionally heere thou oath
+cease ciuill warre whil st i liue
+honor thy king soueraigne
+neyther treason hostilitie
+seeke downe reigne thy selfe
+plant oath i willingly performe
+warw long liue king henry plantagenet embrace
+henry long liue thou thy forward
+sonnes
+plant yorke lancaster reconcil d
+exet accurst seekes make foes
+senet come downe
+plant farewell gracious lord ile castle
+warw ile keepe london souldiers
+norf i norfolke followers
+mount i vnto sea i came
+henry i griefe sorrow court
+enter queene
+exeter heere comes queene
+lookes bewray anger
+ile steale away
+henry exeter i
+queene nay goe i follow thee
+henry patient gentle queene i stay
+queene patient extreames
+ah wretched man i dy maid
+neuer seene thee neuer borne thee sonne
+seeing thou hast prou d vnnaturall father
+hath deseru d loose birth right
+hadst thou but lou d halfe i
+felt paine i
+nourisht i blood
+thou st haue left thy dearest heart blood
+haue sauage duke thine heire
+dis inherited thine onely sonne
+prince father dis inherite
+king i succeede
+henry pardon margaret pardon sweet sonne
+earle warwick duke enforc t
+quee enforc t thee art thou king wilt forc t
+i shame heare thee speake ah timorous wretch
+thou hast vndone thy selfe thy sonne
+giu n vnto house yorke head
+thou shalt reigne but sufferance
+entayle heires vnto crowne
+but make thy sepulcher
+creepe farre thy time
+warwick chancelor lord callice
+sterne falconbridge commands narrow seas
+duke protector realme
+shalt thou safe safetie findes
+trembling lambe inuironned wolues
+i beene silly woman
+souldiers haue toss d pikes
+i haue granted act
+but thou preferr st thy life thine honor
+seeing thou st i diuorce selfe
+thy table henry thy bed
+vntill act parliament repeal d
+sonne dis inherited
+northerne lords haue forsworne thy colours
+follow spread
+spread shall thy foule disgrace
+vtter ruine house yorke
+doe i leaue thee come sonne let s away
+army ready come wee le
+henry stay gentle margaret heare speake
+queene thou hast spoke thee
+gone
+henry gentle sonne edward thou wilt stay
+queene i murther d enemies
+prince i returne victorie field
+ile grace till ile follow
+queene come sonne away linger
+henry poore queene
+loue sonne
+hath breake termes rage
+reueng d hatefull duke
+haughtie spirit winged desire
+cost crowne like emptie eagle
+tyre flesh sonne
+losse lords torments heart
+ile write vnto entreat faire
+come cousin shall messenger
+exet i i hope shall reconcile
+enter
+flourish enter richard edward mountague
+richard brother i bee youngest giue mee
+leaue
+edward i better play orator
+mount but i haue reasons strong forceable
+enter duke yorke
+yorke sonnes brother strife
+quarrell began
+edward quarrell but slight contention
+yorke
+rich concernes grace vs
+crowne england father
+yorke boy till king henry dead
+richard right depends life death
+edward heire enioy
+giuing house lancaster leaue breathe
+runne father end
+yorke i tooke oath hee quietly
+reigne
+edward but kingdome oath broken
+i breake thousand oathes reigne yeere
+richard god forbid grace forsworne
+yorke i shall i clayme open warre
+richard ile proue contrary le heare mee
+speake
+yorke thou canst sonne impossible
+richard oath moment tooke
+true lawfull magistrate
+hath authoritie ouer sweares
+henry but vsurpe place
+seeing twas depose
+oath lord vaine friuolous
+armes father doe but thinke
+sweet thing weare crowne
+circuit elizium
+poets faine blisse ioy
+doe linger i rest
+vntill white rose i weare dy
+euen luke warme blood henries heart
+yorke richard ynough i king dye
+brother thou shalt london presently
+whet warwick enterprise
+thou richard shalt duke norfolke
+tell priuily intent
+edward shall vnto lord cobham
+kentishmen willingly rise
+i trust souldiors
+wittie courteous liberall spirit
+imploy d resteth
+but i seeke occasion rise
+king priuie drift
+house lancaster
+enter gabriel
+but stay newes comm st thou
+poste
+gabriel queene
+northerne earles lords
+intend besiege castle
+hard twentie thousand men
+fortifie hold lord
+yorke i sword
+think st thou feare
+edward richard shall stay
+brother mountague shall poste london
+let noble warwicke cobham rest
+haue left protectors king
+powrefull pollicie strengthen themselues
+trust simple henry oathes
+mount brother i goe ile winne feare
+humbly i doe leaue
+exit mountague
+enter mortimer brother
+york sir iohn sir hugh mortimer vnckles
+come sandall happie houre
+armie queene meane besiege vs
+iohn shee shall neede wee le meete
+field
+yorke fiue thousand men
+richard i fiue father neede
+woman s generall feare
+march afarre
+edward i heare drummes
+let s set men order
+issue forth bid battaile straight
+yorke fiue men twentie oddes great
+i doubt vnckle victorie
+battaile haue i wonne france
+enemie hath beene tenne
+i haue like successe
+alarum exit
+enter rutland tutor
+rutland ah shall i flye scape hands
+ah tutor looke bloody clifford comes
+enter clifford
+clifford chaplaine away thy priesthood saues thy life
+brat accursed duke
+father slew father shall dye
+tutor i lord beare company
+clifford souldiers away
+tutor ah clifford murther innocent child
+thou hated god man
+enter
+clifford dead alreadie
+feare makes close eyes
+ile open
+rutland looks pent vp lyon o wretch
+trembles vnder deuouring pawes
+walkes insulting o prey
+comes rend limbes asunder
+ah gentle clifford kill thy sword
+cruell threatning looke
+sweet clifford heare speake i dye
+i meane subiect thy wrath
+thou reueng d men let liue
+clifford vaine thou speak st poore boy
+fathers blood hath stopt passage
+thy words enter
+rutland let fathers blood open againe
+man clifford cope
+clifford i thy brethren liues thine
+reuenge sufficient
+i digg d vp thy fore fathers graues
+hung rotten coffins vp chaynes
+slake ire ease heart
+sight house yorke
+furie torment soule
+till i root accursed line
+leaue aliue i liue hell
+rutland oh let pray i death
+thee i pray sweet clifford pitty
+clifford pitty rapiers point affords
+rutland i neuer thee harme wilt thou slay
+clifford thy father hath
+rutland but twas ere i borne
+thou hast sonne sake pitty
+reuenge thereof sith god iust
+miserably slaine i
+ah let liue prison dayes
+i giue occasion offence
+let dye thou hast cause
+clifford cause thy father slew father
+dye
+rutland dij faciant laudis summa sit ista tu
+clifford plantagenet i come plantagenet
+thy sonnes blood cleauing blade
+shall rust vpon weapon till thy blood
+congeal d doe make wipe
+enter
+alarum enter richard duke yorke
+yorke army queene hath got field
+vnckles slaine rescuing
+followers eager foe
+turne flye like ships winde
+lambes pursu d hunger starued wolues
+sonnes god knowes hath bechanced
+but i know haue demean d themselues
+like men borne renowne life death
+times richard make lane
+thrice cry courage father fight
+oft came edward
+purple faulchion painted hilt
+blood encountred
+hardyest warriors retyre
+richard cry charge giue foot ground
+cry crowne glorious tombe
+scepter earthly sepulchre
+charg d againe but alas
+bodg d againe i haue seene swan
+bootlesse labour swimme tyde
+spend strength ouer matching waues
+short alarum
+ah hearke fatall followers doe pursue
+i faint flye furie
+i strong i shunne furie
+sands numbred makes vp life
+i stay life end
+enter queene clifford northumberland young prince
+souldiers
+come bloody clifford rough northumberland
+i dare quenchlesse furie rage
+i butt i abide shot
+northumb yeeld mercy proud plantagenet
+clifford i mercy ruthlesse arme
+downe right payment shew d vnto father
+ph ton hath tumbled carre
+euening tide prick
+yorke ashes phoenix bring forth
+bird reuenge vpon
+hope i throw eyes heauen
+scorning ere afflict
+come multitudes feare
+cliff cowards fight flye
+doues doe peck faulcons piercing tallons
+desperate theeues hopelesse liues
+breathe inuectiues gainst officers
+yorke oh clifford but bethinke thee againe
+thy thought ore run time
+thou canst blushing view face
+bite thy tongue slanders cowardice
+frowne hath thee faint flye ere
+clifford i bandie thee word word
+but buckler thee blowes twice
+queene hold valiant clifford thousand causes
+i prolong traytors life
+wrath makes deafe speake thou northumberland
+northumb hold clifford doe honor
+prick thy finger wound heart
+valour curre doth grinne
+thrust hand betweene teeth
+spurne foot away
+warres prize vantages
+tenne impeach valour
+clifford i i striues woodcocke
+gynne
+northumb doth connie struggle
+net
+york triumph theeues vpon conquer d booty
+true men yeeld robbers o matcht
+northumb grace haue vnto
+queene braue warriors clifford northumberland
+come make stand vpon mole hill
+raught mountaines stretched armes
+parted but shadow hand
+englands king
+t reuell d parliament
+preachment high descent
+messe sonnes
+wanton edward lustie george
+s valiant crook prodigie
+dickie boy grumbling voyce
+wont cheare dad mutinies
+rest darling rutland
+looke yorke i stayn d napkin blood
+valiant clifford rapiers point
+issue bosome boy
+thine eyes water death
+i giue thee drie thy cheekes withall
+alas poore yorke but i hate thee deadly
+i lament thy miserable state
+i prythee grieue make merry yorke
+hath thy fierie heart parcht thine entrayles
+teare fall rutlands death
+art thou patient man thou st mad
+i make thee mad doe mock thee
+stampe raue fret i sing dance
+thou st fee d i make sport
+yorke speake vnlesse weare crowne
+crowne yorke lords bow lowe
+hold hands whilest i doe set
+i marry sir lookes like king
+i tooke king henries chaire
+adopted heire
+but great plantagenet
+crown d soone broke solemne oath
+i bethinke king
+till king henry shooke hands death
+pale head henries glory
+rob temples diademe
+life holy oath
+oh tis fault vnpardonable
+crowne crowne head
+whilest breathe time doe dead
+clifford office fathers sake
+queene nay stay let s heare orizons hee
+makes
+yorke shee wolfe france
+but worse wolues france
+tongue poysons adders tooth
+ill beseeming thy sex
+triumph like amazonian trull
+vpon woes fortune captiuates
+but thy face vizard like vnchanging
+impudent vse euill deedes
+i assay prowd queene make thee blush
+tell thee thou cam st deriu d
+shame shame thee
+wert thou shamelesse
+thy father beares type king naples
+sicils ierusalem
+wealthie english yeoman
+hath poore monarch taught thee insult
+needes bootes thee prowd queene
+vnlesse adage verify d
+beggers mounted runne horse death
+tis beautie doth oft make women prowd
+but god knowes thy share thereof small
+tis vertue doth make admir d
+contrary doth make thee wondred
+tis gouernment makes seeme diuine
+want thereof makes thee abhominable
+thou art opposite euery good
+antipodes vnto vs
+south septentrion
+oh tygres heart wrapt womans hide
+st thou drayne life blood child
+bid father wipe eyes withall
+seene beare womans face
+women soft milde pittifull flexible
+thou sterne obdurate flintie rough remorselesse
+bidst thou rage thou hast thy wish
+st haue weepe thou hast thy
+raging wind blowes vp incessant showers
+rage allayes raine begins
+teares sweet rutlands obsequies
+euery drop cryes vengeance death
+gainst thee fell clifford thee false french woman
+northumb beshrew but passions moues
+hardly i check eyes teares
+yorke face
+hungry caniballs haue toucht
+haue stayn d blood
+but inhumane inexorable
+oh tenne times tygers hyrcania
+ruthlesse queene haplesse fathers teares
+cloth thou dipd st blood sweet boy
+i teares doe wash blood away
+keepe thou napkin goe boast
+thou tell st heauie storie right
+vpon soule hearers shed teares
+yea euen foes shed fast falling teares
+say alas pittious deed
+crowne crowne curse
+thy need comfort come thee
+i reape thy cruell hand
+hard hearted clifford world
+soule heauen blood vpon heads
+northumb slaughter man kinne
+i life but weepe
+inly sorrow gripes soule
+queen weeping ripe lord northumberland
+thinke but vpon wrong vs
+quickly drie thy melting teares
+clifford heere s oath heere s fathers
+death
+queene heere s right gentle hearted
+king
+yorke open thy gate mercy gracious god
+soule flyes wounds seeke thee
+queene head set yorke gates
+yorke ouer looke towne yorke
+flourish exit
+march enter edward richard power
+edward i wonder princely father scap t
+scap t away
+cliffords northumberlands pursuit
+ta ne haue heard newes
+beene slaine haue heard newes
+scap t thinkes haue heard
+happy tidings good escape
+fares brother sad
+richard i ioy vntill i resolu d
+right valiant father
+i saw battaile range
+watcht singled clifford forth
+thought bore thickest troupe
+doth lyon heard neat
+beare encompass d round dogges
+hauing pincht cry
+rest stand aloofe barke
+far d father enemies
+fled enemies warlike father
+thinkes tis prize sonne
+morning opes golden gates
+takes farwell glorious sunne
+resembles prime youth
+trimm d like yonker prauncing loue
+ed dazle eyes doe i sunnes
+rich glorious sunnes perfect sunne
+seperated racking clouds
+but seuer d pale cleare shining skye
+ioyne embrace seeme kisse
+vow d league inuiolable
+but lampe light sunne
+heauen figures euent
+edward tis wondrous strange
+like neuer heard
+i thinke cites vs brother field
+wee sonnes braue plantagenet
+alreadie blazing meedes
+notwithstanding ioyne lights
+ouer shine earth world
+ere bodes forward i beare
+vpon targuet faire shining sunnes
+richard nay beare daughters
+leaue i speake
+loue breeder better male
+enter blowing
+but art thou heauie lookes fore tell
+dreadfull story hanging thy tongue
+mess ah wofull looker
+noble duke yorke slaine
+princely father louing lord
+edward oh speake i haue heard
+richard say dy i heare
+mess enuironed foes
+stood hope troy
+greekes haue entred troy
+but hercules himselfe yeeld oddes
+stroakes little axe
+hewes downe fells hardest tymber d oake
+hands father subdu d
+but onely slaught red irefull arme
+vn relenting clifford queene
+crown d gracious duke high despight
+laugh d face griefe wept
+ruthlesse queene gaue dry cheekes
+napkin steeped harmelesse blood
+sweet young rutland rough clifford slaine
+scornes foule taunts
+tooke head gates yorke
+set doth remaine
+saddest spectacle ere i view d
+edward sweet duke yorke prop leane vpon
+thou art gone wee haue staffe stay
+oh clifford boyst rous clifford thou hast slaine
+flowre europe cheualrie
+trecherously hast thou vanquisht
+hand hand haue vanquisht thee
+soules pallace prison
+ah breake body
+ground closed vp rest
+neuer henceforth shall i ioy againe
+neuer oh neuer shall i ioy
+rich i weepe bodies moysture
+scarse serues quench furnace burning hart
+tongue vnloade hearts great burthen
+selfe winde i speake withall
+kindling coales fires brest
+burnes vp flames tears quench
+weepe make lesse depth greefe
+teares babes blowes reuenge mee
+richard i beare thy ile venge thy death
+dye renowned attempting
+ed valiant duke hath left thee
+dukedome chaire left
+rich nay thou princely eagles bird
+shew thy descent gazing gainst sunne
+chaire dukedome throne kingdome say
+thine thou wer t
+march enter warwicke marquesse mountacute army
+warwick faire lords faire
+newes abroad
+rich great lord warwicke recompt
+balefull newes words deliuerance
+stab poniards flesh till told
+words adde anguish wounds
+o valiant lord duke yorke slaine
+edw o warwicke warwicke plantagenet
+held thee deerely soules redemption
+sterne lord clifford death
+war dayes ago i drown d newes teares
+adde measure woes
+i come tell things sith befalne
+bloody fray wakefield fought
+braue father breath d latest gaspe
+tydings swiftly postes runne
+brought losse depart
+i london keeper king
+muster d soldiers gathered flockes friends
+marcht s aint albons intercept queene
+bearing king behalfe
+scouts i aduertised
+comming intent
+dash late decree parliament
+touching king henries oath succession
+short tale make s aint albons met
+battailes ioyn d sides fiercely fought
+but twas coldnesse king
+look d gently warlike queene
+robb d soldiers heated spleene
+twas report successe
+common feare cliffords rigour
+thunders captiues blood death
+i iudge but conclude truth
+weapons like lightning came went
+souldiers like night owles lazie flight
+like lazie thresher flaile
+fell gently downe strucke friends
+i cheer d vp iustice cause
+promise high pay great rewards
+but vaine heart fight
+hope win day
+fled king vnto queene
+lord george brother norfolke selfe
+haste post haste come ioyne
+marches heere heard
+making head fight againe
+ed duke norfolke gentle warwick
+came george burgundy england
+war miles duke soldiers
+brother lately sent
+kinde aunt dutchesse burgundie
+ayde souldiers needfull warre
+rich twas oddes belike valiant warwick fled
+oft haue i heard praises pursuite
+but ne till scandall retire
+war scandall richard dost thou heare
+thou shalt know strong right hand
+plucke diadem faint henries head
+wring awefull scepter fist
+famous bold warre
+fam d mildnesse peace prayer
+rich i know lord warwick blame
+tis loue i beare thy glories make speake
+but troublous time s
+shall throw away coates steele
+wrap bodies blacke mourning gownes
+numb ring aue maries beads
+shall helmets foes
+tell deuotion reuengefull armes
+say i lords
+war warwick came seek
+comes brother mountague
+attend lords proud insulting queene
+clifford haught northumberland
+feather moe proud birds
+haue wrought easie melting king like wax
+swore consent succession
+oath enrolled parliament
+london crew gone
+frustrate oath
+make house lancaster
+power i thinke thirty thousand strong
+helpe norfolke selfe
+friends thou braue earle march
+st louing welshmen st procure
+but fiue thousand
+london march
+againe bestride foaming steeds
+againe cry charge vpon foes
+but neuer againe turne backe flye
+rich i thinks i heare great warwick speak
+ne liue sun shine day
+cries retire warwicke bid stay
+ed lord warwicke thy shoulder i leane
+thou failst god forbid houre
+edward fall perill heauen forefend
+war longer earle march but duke yorke
+degree englands royall throne
+king england shalt thou proclaim d
+euery burrough passe
+throwes vp cap ioy
+shall fault make forfeit head
+king edward valiant richard mountague
+stay longer dreaming renowne
+but sound trumpets taske
+rich clifford thy heart hard steele
+thou hast shewne flintie thy deeds
+i come pierce giue thee
+ed strike vp drums god s aint george vs
+enter messenger
+war newes
+mes duke norfolke sends word
+queene comming puissant hoast
+craues company speedy counsell
+war sorts braue warriors let s away
+exeunt omnes
+flourish enter king queene clifford northum berland
+yong
+prince drumme trumpettes
+qu welcome lord braue town yorke
+yonders head arch enemy
+sought incompast crowne
+doth obiect cheere heart lord
+k i rockes cheare feare wrack
+sight irkes soule
+hold reuenge deere god tis fault
+wittingly haue i infring d vow
+clif gracious liege lenity
+harmfull pitty layd aside
+lyons cast gentle lookes
+beast vsurpe den
+hand forrest beare doth licke
+spoyles yong face
+scapes lurking serpents mortall sting
+sets foot vpon backe
+smallest worme turne troden
+doues pecke safegard brood
+ambitious yorke leuell thy crowne
+thou smiling knit angry browes
+but duke haue sonne king
+raise issue like louing sire
+thou king blest goodly sonne
+st yeeld consent disinherit
+argued thee vnlouing father
+vnreasonable creatures feed young
+mans face fearefull eyes
+protection tender ones
+hath seene euen wings
+haue vs d fearfull flight
+make warre climb d vnto nest
+offering owne liues yongs defence
+shame liege make president
+pitty goodly boy
+loose birth right fathers fault
+long heereafter say vnto childe
+great grandfather grandsire got
+carelesse father fondly gaue away
+ah shame looke boy
+let manly face promiseth
+successefull fortune steele thy melting heart
+hold thine owne leaue thine owne
+king hath clifford plaid orator
+inferring arguments mighty force
+but clifford tell st thou neuer heare
+things ill got euer bad successe
+happy alwayes sonne
+father hoording went hell
+ile leaue sonne vertuous deeds behinde
+father left
+rest held rate
+brings thousand fold care keepe
+possession iot pleasure
+ah cosin yorke thy best friends know
+doth greeue thy head heere
+qu lord cheere vp spirits foes nye
+soft courage makes followers faint
+promist knighthood forward sonne
+vnsheath sword dub presently
+edward kneele downe
+king edward plantagenet arise knight
+learne lesson draw thy sword right
+prin gracious father kingly leaue
+ile draw apparant crowne
+quarrell vse death
+clif spoken like prince
+enter messenger
+mess royall commanders readinesse
+band thirty thousand men
+comes warwicke backing duke yorke
+townes march
+proclaimes king flye
+darraigne battell hand
+clif i highnesse depart field
+queene hath best successe absent
+qu i good lord leaue vs fortune
+king s fortune ile stay
+north resolution fight
+prin royall father cheere noble lords
+hearten fight defence
+vnsheath sword good father cry s aint george
+march enter edward warwicke richard clarence norfolke
+mountague
+soldiers
+edw periur d henry wilt thou kneel grace
+set thy diadem vpon head
+bide mortall fortune field
+qu rate thy minions proud insulting boy
+thee bold termes
+thy soueraigne thy lawfull king
+ed i king bow knee
+i adopted heire consent
+cla oath broke i heare
+king weare crowne
+haue caus d new act parliament
+blot owne sonne
+clif reason
+succeede father but sonne
+rich butcher o i speake
+clif i crooke i stand answer thee
+proudest thy sort
+rich twas kill d yong rutland
+clif i old yorke satisfied
+rich gods sake lords giue signall fight
+war say st thou henry
+wilt thou yeeld crowne
+qu long tongu d warwicke dare speak
+i met s aint albons
+legges better seruice hands
+war twas turne fly tis thine
+clif said fled
+war twas valor clifford droue
+manhood durst make stay
+rich northumberland i hold thee reuerently
+breake parley scarse i refraine
+execution big swolne heart
+vpon clifford cruell child killer
+clif i slew thy father cal st thou child
+rich i like dastard treacherous coward
+thou didd st kill tender brother rutland
+but ere sunset ile make thee curse deed
+king haue words lords heare
+speake
+qu defie els hold close thy lips
+king i prythee giue limits tongue
+i king priuiledg d speake
+clif liege wound bred meeting
+cur d words
+rich executioner vnsheath thy sword
+vs i resolu d
+cliffords manhood lyes vpon tongue
+ed say henry shall i haue right
+thousand men haue broke fasts day
+ne shall dine vnlesse thou yeeld crowne
+war thou deny blood vpon thy head
+yorke iustice s armour
+pr ed right warwick saies right
+wrong but euery thing right
+war euer got thee thy mother stands
+i wot thou hast thy mothers tongue
+qu but thou art neyther like thy sire damme
+but like foule mishapen stygmaticke
+mark d destinies auoided
+venome toades lizards dreadfull stings
+rich iron naples hid english gilt
+father beares title king
+channell call d sea
+sham st thou knowing thou art extraught
+let thy tongue detect thy base borne heart
+ed wispe straw worth thousand crowns
+make shamelesse callet know selfe
+helen greece fayrer farre thou
+thy husband menelaus
+ne agamemnons brother wrong d
+false woman king thee
+father reuel d heart france
+tam d king dolphin stoope
+match d according state
+haue kept glory day
+but tooke begger bed
+grac d thy poore sire bridall day
+euen sun shine brew d showre
+washt fathers fortunes forth france
+heap d sedition crowne home
+hath broach d tumult but thy pride
+st thou bene meeke title slept
+pitty gentle king
+slipt claime vntill age
+cla but saw sunshine thy spring
+thy summer bred vs increase
+set axe thy vsurping roote
+edge hath hit selues
+know thou haue begun strike
+wee l neuer leaue till haue hewne thee downe
+bath d thy growing heated bloods
+edw resolution i defie thee
+willing longer conference
+thou denied st gentle king speake
+sound trumpets let bloody colours waue
+victorie graue
+qu stay edward
+ed wrangling woman wee l longer stay
+words cost thousand liues day
+exeunt omnes
+alarum excursions enter warwicke
+war fore spent toile runners race
+i lay downe little breath
+strokes receiu d blowes repaid
+haue robb d strong knit sinewes strength
+spight spight needs i rest
+enter edward running
+ed smile gentle heauen strike vngentle death
+world frownes edwards sunne clowded
+war lord happe hope
+good
+enter clarence
+cla hap losse hope but sad dispaire
+rankes broke ruine followes vs
+counsaile giue shall flye
+ed bootlesse flight follow vs wings
+weake shun pursuite
+enter richard
+rich ah warwicke hast y withdrawn thy selfe
+thy brothers blood thirsty earth hath drunk
+broach d steely point cliffords launce
+pangs death cryde
+like dismall clangor heard farre
+warwicke reuenge brother reuenge death
+vnderneath belly steeds
+stain d fetlockes smoaking blood
+noble gentleman gaue vp ghost
+war let earth drunken blood
+ile kill horse i flye
+stand like soft hearted women heere
+wayling losses whiles foe doth rage
+looke vpon tragedie
+plaid iest counterfetting actors
+heere knee i vow god aboue
+ile neuer pawse againe neuer stand
+till death hath clos d eyes
+fortune giuen measure reuenge
+ed oh warwicke i bend knee thine
+vow chaine soule thine
+ere knee rise earths cold face
+i throw hands eyes heart thee
+thou setter vp plucker downe kings
+beseeching thee thy stands
+foes body prey
+thy brazen gates heauen ope
+giue sweet passage sinfull soule
+lords leaue vntill meete againe
+ere heauen earth
+rich brother
+giue thy hand gentle warwicke
+let imbrace thee weary armes
+i neuer weepe melt wo
+winter cut spring time
+war away away
+sweet lords farwell
+cla let vs altogether troopes
+giue leaue flye stay
+call pillars stand vs
+thriue promise rewards
+victors weare olympian games
+plant courage quailing breasts
+hope life victory
+foreslow longer make amaine
+exeunt
+excursions enter richard clifford
+rich clifford i haue singled thee
+suppose arme duke yorke
+rutland bound reuenge
+wer t thou inuiron d brazen wall
+clif richard i thee heere
+hand stabb d thy father yorke
+hand slew thy brother rutland
+s heart triumphs death
+cheeres hands slew thy sire brother
+execute like vpon thy selfe
+haue thee
+fight warwicke comes clifford flies
+rich nay warwicke single chace
+i selfe hunt wolfe death
+exeunt
+alarum enter king henry
+hen battell fares like mornings warre
+dying clouds contend growing light
+time shepheard blowing nailes
+call perfect day night
+swayes way like mighty sea
+forc d tide combat winde
+swayes way like selfe sea
+forc d retyre furie winde
+flood preuailes winde
+better best
+tugging victors brest brest
+conqueror conquered
+equall poise fell warre
+heere mole hill i sit downe
+god victorie
+margaret queene clifford
+haue chid battell swearing
+prosper best i
+i dead gods good
+world but greefe woe
+oh god thinkes happy life
+better homely swaine
+sit vpon hill i
+carue dialls queintly point point
+minutes runne
+makes houre compleate
+houres brings day
+dayes finish vp yeare
+yeares mortall man liue
+knowne diuide times
+houres i tend flocke
+houres i rest
+houres i contemplate
+houres i sport selfe
+dayes ewes haue bene yong
+weekes ere poore fooles eane
+yeares ere i shall sheere fleece
+minutes houres dayes monthes yeares
+past ouer end created
+bring white haires vnto quiet graue
+ah life sweet louely
+giues hawthorne bush sweeter shade
+shepheards looking silly sheepe
+doth rich imbroider d canopie
+kings feare subiects treacherie
+oh yes doth thousand fold doth
+conclude shepherds homely curds
+cold thinne drinke leather bottle
+wonted sleepe vnder fresh trees shade
+secure sweetly enioyes
+farre princes delicates
+viands sparkling golden cup
+bodie couched curious bed
+care mistrust treason waits
+alarum enter sonne hath kill d father doore
+father hath kill d sonne doore
+son ill blowes winde profits body
+man hand hand i slew fight
+possessed store crownes
+i haply
+ere night yeeld life
+man dead man doth
+s oh god fathers face
+conflict i vnwares haue kill d
+oh heauy times begetting euents
+london king i prest forth
+father earle warwickes man
+came yorke prest master
+i hands receiu d life
+haue hands life bereaued
+pardon god i knew i
+pardon father i knew thee
+teares shall wipe away bloody markes
+words till haue flow d
+king o pitteous spectacle o bloody times
+whiles lyons warre battaile dennes
+poore harmlesse lambes abide enmity
+weepe wretched man ile ayde thee teare teare
+let hearts eyes like ciuill warre
+blinde teares break ore charg d griefe
+enter father bearing sonne
+fa thou stoutly hath resisted
+giue thy gold thou hast gold
+i haue bought blowes
+but let foe mans face
+ah onely sonne
+ah boy life left thee
+throw vp thine eye showres arise
+blowne windie tempest heart
+vpon thy wounds killes eye heart
+o pitty god miserable age
+stratagems fell butcherly
+erreoneous mutinous vnnaturall
+deadly quarrell daily doth beget
+o boy thy father gaue thee life soone
+hath bereft thee thy life late
+king wo aboue wo greefe n common greefe
+o death stay ruthfull deeds
+o pitty pitty gentle heauen pitty
+red rose white face
+fatall colours striuing houses
+purple blood right resembles
+pale cheekes thinkes presenteth
+wither rose let flourish
+contend thousand liues wither
+son mother fathers death
+ne satisfi d
+fa wife slaughter sonne
+shed seas teares ne satisfi d
+king country woful chances
+mis thinke king satisfied
+son euer sonne rew d fathers death
+fath euer father bemoan d sonne
+hen euer king greeu d subiects woe
+sorrow times
+son ile beare thee i weepe
+fath armes shall thy winding sheet
+heart sweet boy shall thy sepulcher
+heart thine image ne shall
+sighing brest shall thy funerall bell
+obsequious thy father
+men losse thee hauing
+priam valiant sonnes
+ile beare thee let fight
+i haue murthered i kill
+exit
+hen sad hearted men ouergone care
+heere sits king wofull
+alarums excursions enter queen prince exeter
+prin fly father flye friends fled
+warwicke rages like chafed bull
+away death doth hold vs pursuite
+qu mount lord barwicke post amaine
+edward richard like brace grey hounds
+hauing fearfull flying hare sight
+fiery eyes sparkling wrath
+bloody steele graspt yrefull hands
+backes amaine
+exet away vengeance comes
+nay stay expostulate make speed
+come ile away
+hen nay thee good sweet exeter
+i feare stay but loue
+queene intends forward away
+exeunt
+lowd alarum enter clifford wounded
+clif heere burnes candle i heere dies
+whiles lasted gaue king henry light
+o lancaster i feare thy ouerthrow
+bodies parting soule
+loue feare glew d friends thee
+i fall thy tough commixtures melts
+impairing henry strength ning misproud yorke
+flye gnats but sunne
+shines but henries enemies
+o phoebus st thou neuer giuen consent
+ph ton checke thy fiery steeds
+thy burning carre neuer scorch d earth
+henry st thou sway d kings
+thy father father
+giuing ground vnto house yorke
+neuer sprung like sommer flyes
+i thousand lucklesse realme
+left mourning widdowes death
+thou day st kept thy chaire peace
+doth cherrish weeds but gentle ayre
+makes robbers bold but lenity
+bootlesse plaints curelesse wounds
+way flye strength hold flight
+foe mercilesse pitty
+hands i haue deseru d pitty
+ayre hath got deadly wounds
+effuse blood doth make faint
+come yorke richard warwicke rest
+i stab d fathers bosomes split brest
+alarum retreat enter edward warwicke richard
+soldiers montague
+clarence
+ed breath lords good fortune bids vs pause
+smooth frownes war peacefull lookes
+troopes pursue bloody minded queene
+led calme henry king
+doth saile d fretting gust
+command argosie stemme waues
+but thinke lords clifford fled
+war tis impossible escape
+face i speake words
+brother richard markt graue
+wheresoere hee s surely dead
+clifford grones
+rich soule takes hir heauy leaue
+deadly grone like life deaths departing
+ed battailes ended
+friend foe let gently vsed
+rich reuoke doome mercy tis clifford
+contented lopp d branch
+hewing rutland leaues forth
+but set murth ring knife vnto roote
+tender spray sweetly spring
+i meane princely father duke yorke
+war gates yorke fetch y head
+fathers head clifford placed
+stead whereof let supply roome
+measure measure answered
+ed bring forth fatall schreechowle house
+sung but death vs
+death shall stop dismall threatning sound
+ill boading tongue shall speake
+war i thinke vnderstanding bereft
+speake clifford dost thou know speakes thee
+darke cloudy death ore shades beames life
+sees heares vs say
+rich o doth
+tis but policy counterfet
+auoid bitter taunts
+time death gaue father
+cla thou think st
+vex eager words
+rich clifford aske mercy obtaine grace
+ed clifford repent bootlesse penitence
+war clifford deuise excuses thy faults
+cla deuise fell tortures thy faults
+rich thou didd st loue yorke i son yorke
+edw thou pittied st rutland i pitty thee
+cla s captaine margaret fence
+war mocke thee clifford
+sweare thou t wont
+ric oath nay world s hard
+clifford spare friends oath
+i know s dead soule
+right hand buy houres life
+i despight rayle
+hand chop issuing blood
+stifle villaine vnstanched thirst
+yorke yong rutland satisfie
+war i but s dead traitors head
+reare place fathers stands
+london triumphant march
+crowned englands royall king
+shall warwicke cut sea france
+aske ladie bona thy queene
+shalt thou sinow lands
+hauing france thy friend thou shalt dread
+scattred foe hopes rise againe
+greatly sting hurt
+looke haue buz offend thine eares
+i coronation
+britanny ile crosse sea
+effect marriage lord
+ed euen thou wilt sweet warwicke let bee
+thy shoulder i builde seate
+neuer i vndertake thing
+thy counsaile consent wanting
+richard i create thee duke gloucester
+george clarence warwicke selfe
+shall vndo pleaseth best
+rich let duke clarence george gloster
+glosters dukedome ominous
+war tut s foolish obseruation
+richard duke gloster london
+honors possession
+exeunt
+enter sinklo humfrey crosse bowes hands
+sink vnder thicke growne brake wee l shrowd selues
+laund anon deere come
+couert make stand
+culling principall deere
+hum ile stay aboue hill shoot
+sink noise thy crosse bow
+scarre heard shoot lost
+heere stand ayme best
+time shall seeme tedious
+ile tell thee befell day
+selfe place meane stand
+sink heere comes man let s stay till past
+enter king prayer booke
+hen scotland i stolne euen pure loue
+greet owne land wishfull sight
+harry harry tis land thine
+thy place d thy scepter wrung thee
+thy balme washt wherewith thou annointed
+bending knee call thee c sar
+humble suters prease speake right
+man comes redresse thee
+i helpe selfe
+sink i heere s deere skin s keepers fee
+quondam king let s seize vpon
+hen let embrace sower aduersaries
+wise men say wisest course
+hum linger let vs lay hands vpon
+sink forbeare wee l heare little
+hen queene son gone france aid
+i heare great commanding warwicke
+i thither gone craue french kings sister
+wife edward newes true
+poore queene sonne labour but lost
+warwicke subtle orator
+lewis prince soone wonne mouing words
+account margaret winne
+s woman pittied
+sighes make batt ry brest
+teares pierce marble heart
+tyger milde whiles doth mourne
+nero tainted remorse
+heare plaints brinish teares
+i but shee s come begge warwicke giue
+shee left crauing ayde henrie
+right asking wife edward
+shee weepes sayes henry depos d
+smiles sayes edward instaul d
+poore wretch greefe speake
+whiles warwicke tels title smooths wrong
+inferreth arguments mighty strength
+conclusion winnes king
+promise sister
+strengthen support king edwards place
+o margaret twill thou poore soule
+art forsaken thou went st forlorne
+hum say art thou talk st kings queens
+king i seeme lesse i born
+man lesse i
+men talke kings i
+hum i but thou talk st thou wer t king
+king i minde s
+hum but thou king thy crowne
+king crowne heart head
+deck d diamonds indian stones
+seene crowne call d content
+crowne sildome kings enioy
+hum king crown d content
+crowne content contented
+vs thinke
+king king edward hath depos d
+subiects sworne allegeance
+apprehend enemie
+king but neuer sweare breake oath
+hum neuer oath
+king dwell i k ing england
+hum heere country remaine
+king i annointed king monthes old
+father grandfather kings
+sworne true subiects vnto
+tell haue broke oathes
+sin subiects but wer king
+king i dead i breath man
+ah simple men know sweare
+looke i blow feather face
+ayre blowes againe
+obeying winde i blow
+yeelding blowes
+commanded alwayes greater gust
+lightnesse common men
+but breake oathes sinne
+milde intreatie shall make guiltie
+king shall commanded
+kings command ile obey
+sinklo true subiects king
+king edward
+king againe henrie
+seated king edward
+sinklo charge gods kings
+vs vnto officers
+king gods lead kings obeyd
+god let king performe
+i humbly yeeld vnto
+exeunt
+enter k ing edward gloster clarence lady gray
+king brother gloster s aint albons field
+ladyes husband sir richard grey slaine
+land seiz d conqueror
+suit repossesse lands
+wee iustice deny
+quarrell house yorke
+worthy gentleman lose life
+rich highnesse shall doe graunt suit
+dishonor deny
+king lesse but ile make pawse
+rich yea
+i lady hath thing graunt
+king graunt humble suit
+clarence hee knowes game true hee keepes
+winde
+rich silence
+king widow consider suit
+come time know minde
+wid right gracious lord i brooke delay
+highnesse resolue
+pleasure shall satisfie
+rich i widow ile warrant lands
+pleases shall pleasure
+fight closer good faith le catch blow
+clarence i feare vnlesse chance fall
+rich god forbid hee le vantages
+king children hast thou widow tell
+clarence i thinke meanes begge child
+rich nay whip hee le giue
+wid gracious lord
+rich shall haue foure le rul d
+king twere pittie lose fathers
+lands
+wid pittifull dread lord graunt
+king lords giue vs leaue ile trye widowes
+wit
+rich i good leaue haue haue leaue
+till youth leaue leaue crutch
+king tell madame doe loue
+children
+wid i dearely i loue selfe
+king doe doe
+good
+wid doe good i sustayne
+harme
+king husbands lands doe
+good
+wid i came vnto maiestie
+king ile tell lands got
+wid shall bind highnesse seruice
+king seruice wilt thou doe i giue
+wid command rests doe
+king but exceptions boone
+wid gracious lord i doe
+king i but thou canst doe i meane aske
+wid i doe grace commands
+rich hee plyes hard raine weares
+marble
+clar red nay wax melt
+wid stoppes lord shall i heare
+taske
+king easie taske tis but loue king
+wid s soone perform d i subiect
+king thy husbands lands i freely giue
+thee
+wid i leaue thousand thankes
+rich match shee seales cursie
+king but stay thee tis fruits loue i meane
+wid fruits loue i meane louing liege
+king i but i feare sence
+loue think st thou i sue
+wid loue till death humble thanks prayers
+loue vertue begges vertue graunts
+king troth i meane loue
+wid meane i thought
+king but partly perceiue minde
+wid minde neuer graunt i perceiue
+highnesse aymes i ayme aright
+king tell thee plaine i ayme lye thee
+wid tell plaine i lye prison
+king thou shalt haue thy husbands
+lands
+wid honestie shall dower
+losse i purchase
+king thou wrong st thy children mightily
+wid highnesse wrongs
+but mightie lord merry inclination
+accords sadnesse suit
+dismisse eyther i
+king i thou wilt say i request
+thou st say demand
+wid lord suit end
+rich widow likes shee knits
+browes
+clarence hee bluntest wooer christendome
+king looks doth argue replete modesty
+words doth shew wit incomparable
+perfections challenge soueraigntie
+way shee king
+shee shall loue queene
+say king edward thee queene
+wid tis better said gracious lord
+i subiect fit ieast withall
+but farre vnfit soueraigne
+king sweet widow state i sweare thee
+i speake soule intends
+enioy thee loue
+wid i yeeld vnto
+i know i meane queene
+good concubine
+king cauill widow i meane queene
+wid twill grieue grace sonnes call
+father
+king daughters
+call thee mother
+thou art widow thou hast children
+gods mother i but batchelor
+haue tis happy thing
+father vnto sonnes
+answer thou shalt queene
+rich ghostly father hath shrift
+clarence hee shriuer twas shift
+king brothers muse chat wee haue
+rich widow likes shee lookes
+sad
+king ld thinke strange i marrie
+clarence lord
+king clarence selfe
+rich tenne dayes wonder
+clarence s day longer wonder lasts
+rich wonder extremes
+king ieast brothers i tell
+suit graunted husbands lands
+enter noble man
+nob gracious lord henry foe taken
+brought prisoner pallace gate
+king conuey d vnto tower
+goe wee brothers man tooke
+question apprehension
+widow goe lords vse honourable
+exeunt
+manet richard
+rich i edward vse women honourably
+wasted marrow bones
+loynes hopefull branch spring
+crosse golden time i looke
+betweene soules desire
+lustfull edwards title buryed
+clarence henry sonne young edward
+vnlook d issue bodies
+roomes ere i place selfe
+cold premeditation purpose
+i doe but dreame soueraigntie
+like stands vpon promontorie
+spyes farre shore hee tread
+wishing foot equall eye
+chides sea sunders
+saying hee le lade dry haue way
+doe i wish crowne farre
+i chide meanes keepes
+i say ile cut causes
+flattering impossibilities
+eyes quicke heart o weenes
+vnlesse hand strength equall
+say kingdome richard
+pleasure world affoord
+ile make heauen ladies lappe
+decke body gay ornaments
+witch sweet ladies words lookes
+oh miserable thought vnlikely
+accomplish twentie golden crownes
+loue forswore mothers wombe
+i deale soft lawes
+shee corrupt frayle nature bribe
+shrinke arme vp like wither d shrub
+make enuious mountaine
+sits deformitie mocke body
+shape legges vnequall size
+dis proportion euery
+like chaos vn lick d beare whelpe
+carryes impression like damme
+i man belou d
+oh monstrous fault harbour thought
+earth affoords ioy
+but command check o beare
+better person selfe
+ile make heauen dreame vpon crowne
+whiles i liue t account world but hell
+vntill mis shap d trunke beares head
+round impaled glorious crowne
+i know crowne
+liues stand betweene home
+i like lost thornie wood
+rents thornes rent thornes
+seeking way straying way
+knowing finde open ayre
+but toyling desperately finde
+torment selfe catch english crowne
+torment i free selfe
+hew way bloody axe
+i smile murther whiles i smile
+cry content grieues heart
+wet cheekes artificiall teares
+frame face occasions
+ile drowne saylers mermaid shall
+ile slay gazers basiliske
+ile play orator nestor
+deceiue slyly vlisses
+like synon troy
+i adde colours camelion
+change shapes proteus aduantages
+set murtherous macheuill schoole
+i doe crowne
+tut farther ile plucke downe
+enter
+flourish enter lewis french king sister bona
+admirall
+call d bourbon prince edward queene margaret earle
+oxford
+lewis sits riseth vp againe
+lewis faire queene england worthy margaret
+sit downe vs ill befits thy state
+birth thou st stand lewis doth sit
+marg mightie king france margaret
+strike sayle learne serue
+kings command i i confesse
+great albions queene golden dayes
+but mischance hath trod title downe
+dis honor layd ground
+i like seat vnto fortune
+humble seat conforme selfe
+lewis say faire queene springs
+deepe despaire
+marg cause fills eyes teares
+stops tongue heart drown d cares
+lewis ere thou like thy selfe
+sit thee
+seats
+yeeld thy necke fortunes yoake
+but let thy dauntlesse minde ride triumph
+ouer mischance
+plaine queene margaret tell thy griefe
+shall eas d france yeeld reliefe
+marg gracious words
+reuiue drooping thoughts
+giue tongue ty d sorrowes leaue speake
+knowne noble lewis
+henry sole possessor loue
+king banisht man
+forc d liue scotland forlorne
+prowd ambitious edward duke yorke
+vsurpes regall title seat
+englands true anoynted lawfull king
+cause i poore margaret
+sonne prince edward henries heire
+come craue thy iust lawfull ayde
+thou faile vs hope
+scotland hath helpe but helpe
+people peeres mis led
+treasure seiz d souldiors flight
+thou seest selues heauie plight
+lewis renowned queene
+patience calme storme
+bethinke meanes breake
+marg wee stay stronger growes
+foe
+lewis i stay ile succour thee
+marg o but impatience waiteth true sorrow
+comes breeder sorrow
+enter warwicke
+lewis s hee approacheth boldly presence
+marg earle warwicke edwards greatest
+friend
+lewis welcome braue warwicke brings thee
+france
+hee descends shee ariseth
+marg i begins second storme rise
+hee moues winde tyde
+warw worthy edward king albion
+lord soueraigne thy vowed friend
+i come kindnesse vnfayned loue
+doe greetings thy royall person
+craue league amitie
+lastly confirme amitie
+nuptiall knot thou vouchsafe graunt
+vertuous lady bona thy faire sister
+englands king lawfull marriage
+marg goe forward henries hope
+warw gracious madame
+speaking bona
+kings behalfe
+i commanded leaue fauor
+humbly kisse hand tongue
+tell passion soueraignes heart
+fame late entring heedfull eares
+hath plac d thy beauties image thy vertue
+marg king lewis lady bona heare speake
+answer warwicke demand
+springs edwards meant honest loue
+but deceit bred necessitie
+tyrants safely gouerne home
+vnlesse abroad purchase great allyance
+proue tyrant reason suffice
+henry liueth but hee dead
+prince edward stands king henries sonne
+looke lewis league mariage
+thou draw thy danger dis honor
+vsurpers sway rule
+heau ns iust time suppresseth wrongs
+warw iniurious margaret
+edw queene
+warw thy father henry vsurpe
+thou art prince shee queene
+oxf warwicke disanulls great iohn gaunt
+subdue greatest spaine
+iohn gaunt henry fourth
+wisdome mirror wisest
+wise prince henry fift
+prowesse conquered france
+henry lineally descends
+warw oxford haps smooth discourse
+told henry sixt hath lost
+henry fift gotten
+thinkes peeres france smile
+but rest tell pedigree
+threescore yeeres silly time
+make prescription kingdomes worth
+oxf warwicke canst thou speak thy liege
+thou obeyd st thirtie yeeres
+bewray thy treason blush
+warw oxford euer fence right
+buckler falsehood pedigree
+shame leaue henry call edward king
+oxf call king iniurious doome
+elder brother lord aubrey vere
+death father
+euen downe fall mellow d yeeres
+nature brought doore death
+warwicke life vpholds arme
+arme vpholds house lancaster
+warw i house yorke
+lewis queene margaret prince edward oxford
+vouchsafe request stand aside
+i vse conference warwicke
+stand aloofe
+marg heauens graunt warwickes wordes bewitch
+lew warwicke tell euen vpon thy conscience
+edward true king i loth
+linke lawfull chosen
+warw thereon i pawne credit honor
+lewis but hee gracious peoples eye
+warw henry vnfortunate
+lewis dissembling set aside
+tell truth measure loue
+vnto sister bona
+war seemes
+beseeme monarch like himselfe
+selfe haue heard say sweare
+loue externall plant
+whereof root fixt vertues ground
+leaues fruit maintain d beauties sunne
+exempt enuy but disdaine
+vnlesse lady bona quit paine
+lewis sister let vs heare firme resolue
+bona graunt denyall shall
+i confesse ere day
+speaks war wicke
+i haue heard kings desert recounted
+eare hath tempted iudgement desire
+lewis warwicke
+sister shall edwards
+forthwith shall articles drawne
+touching ioynture king make
+dowrie shall counter poys d
+draw neere queene margaret witnesse
+bona shall wife english king
+pr edw edward but english king
+marg deceitfull warwicke thy deuice
+alliance make void suit
+thy comming lewis henries friend
+lewis friend margaret
+but title crowne weake
+appeare edwards good successe
+tis but reason i releas d
+giuing ayde late i promised
+shall haue kindnesse hand
+estate requires yeeld
+warw henry liues scotland ease
+hauing lose
+selfe quondam queene
+haue father able maintaine
+better twere troubled france
+mar peace impudent shamelesse warwicke
+proud setter vp puller downe kings
+i till talke teares
+truth i make king lewis behold
+thy slye conueyance thy lords false loue
+post blowing horne
+birds selfe feather
+lewes warwicke poste vs thee
+enter poste
+post lord ambassador
+letters
+speakes warwick
+sent brother marquesse montague
+king vnto maiesty
+lewis
+madam
+margaret
+i know
+reade letters
+oxf i like faire queene mistris
+smiles newes warwicke frownes
+prince ed nay marke lewis stampes
+netled i hope s best
+lew warwicke thy newes
+faire queene
+mar heart vnhop d ioyes
+war sorrow hearts discontent
+lew king married lady grey
+sooth forgery
+sends paper perswade patience
+th alliance seekes france
+dare presume scorne vs manner
+mar i told maiesty
+proueth edwards loue warwickes honesty
+war king lewis i heere protest sight heauen
+hope i haue heauenly blisse
+i cleere misdeed edwards
+king dishonors
+but himselfe shame
+i forget house yorke
+father came vntimely death
+i let passe th abuse neece
+i impale regall crowne
+i henry natiue right
+i guerdon d shame
+shame himselfe desert honor
+repaire honor lost
+i heere renounce returne henry
+noble queene let grudges passe
+henceforth i thy true seruitour
+i reuenge wrong lady bona
+replant henry state
+mar warwicke
+words haue turn d hate loue
+i forgiue quite forget old faults
+ioy thou becom st king henries friend
+war friend i vnfained friend
+king lewis vouchsafe furnish vs
+bands chosen soldiours
+ile vndertake land coast
+force tyrant seat warre
+tis new bride shall succour
+clarence letters tell
+hee s likely fall
+matching wanton lust honor
+strength safety country
+bona deere brother shall bona reueng d
+but thy helpe distressed queene
+mar renowned prince shall poore henry liue
+vnlesse thou rescue foule dispaire
+bona quarrel english queens
+war faire lady bona ioynes
+lew thine margarets
+i firmely resolu d
+shall haue ayde
+mar let giue humble thankes
+lew englands messenger returne poste
+tell false edward thy supposed king
+lewis france sending ouer maskers
+reuell new bride
+thou seest s past feare thy king withall
+bona tell hope hee l proue widower shortly
+i weare willow garland sake
+mar tell mourning weeds layde aside
+i ready armor
+war tell hath wrong
+ile vn crowne er t long
+s thy reward gone
+exit post
+lew but warwicke
+thou oxford fiue thousand men
+shall crosse seas bid false edward battaile
+occasion serues noble queen
+prince shall follow fresh supply
+ere thou but answer doubt
+pledge haue thy firme loyalty
+war shall assure constant loyalty
+queene young prince agree
+ile ioyne eldest daughter ioy
+forthwith holy wedlocke bands
+mar yes i agree thanke motion
+sonne edward faire vertuous
+delay giue thy hand warwicke
+thy hand thy faith irreuocable
+onely warwickes daughter shall thine
+prin ed yes i accept deserues
+heere pledge vow i giue hand
+giues hand warw icke
+lew stay soldiers shalbe leuied
+thou lord bourbon high admirall
+shall waft ouer royall fleete
+i long till edward fall warres mischance
+mocking marriage dame france
+exeunt manet warwicke
+war i came edward ambassador
+but i returne sworne mortall foe
+matter marriage charge gaue
+but dreadfull warre shall answer demand
+make stale but
+but i shall turne iest sorrow
+i cheefe rais d crowne
+ile cheefe bring downe againe
+i pitty henries misery
+but seeke reuenge edwards mockery
+enter
+enter richard clarence somerset mountague
+rich tell brother clarence thinke
+new marriage lady gray
+hath brother worthy choice
+cla alas know tis farre france
+stay till warwicke returne
+som lords forbeare talke heere comes
+king
+flourish enter king edward lady grey penbrooke stafford
+hastings
+foure stand foure
+rich chosen bride
+clarence i minde tell plainly i thinke
+king brother clarence
+like choyce
+stand pensiue halfe malecontent
+clarence lewis france
+earle warwicke
+weake courage iudgement
+le offence abuse
+king suppose offence cause
+but lewis warwicke i edward
+king warwickes haue
+rich shall haue king
+hastie marriage seldome proueth
+king yea brother richard offended
+rich i
+god forbid i wish seuer d
+god hath ioyn d
+i twere pittie sunder
+yoake
+king setting skornes mislike aside
+tell reason lady grey
+wife englands queene
+somerset mountague
+speake freely thinke
+clarence opinion
+king lewis enemie
+mocking marriage
+lady bona
+rich warwicke gaue charge
+dis honored new marriage
+king lewis warwick appeas d
+inuention i deuise
+mount haue ioyn d france alliance
+haue strength ned commonwealth
+gainst forraine stormes home bred marriage
+hast knowes mountague selfe
+england safe true selfe
+mount but safer tis d france
+hast tis better vsing france trusting france
+let vs d god seas
+hath giu n fence impregnable
+helpes onely defend selues
+selues safetie lyes
+clar speech lord hastings deserues
+haue heire lord hungerford
+king i graunt
+shall stand law
+rich thinks grace hath
+giue heire daughter lord scales
+vnto brother louing bride
+shee better haue fitted clarence
+but bride burie brotherhood
+clar haue bestow d heire
+lord bonuill new wiues sonne
+leaue brothers goe speede
+king alas poore clarence wife
+thou art malecontent i prouide thee
+clarence chusing selfe
+shew d iudgement
+shallow shall giue leaue
+play broker owne behalfe
+end i shortly minde leaue
+king leaue tarry edward king
+ty d vnto brothers
+lady grey lords pleas d maiestie
+rayse state title queene
+doe but right confesse
+i ignoble descent
+meaner selfe haue like fortune
+but title honors
+dislikes i pleasing
+doth cloud ioyes danger sorrow
+king loue forbeare fawne vpon frownes
+danger sorrow befall thee
+long edward thy constant friend
+true soueraigne obey
+nay shall obey loue thee
+vnlesse seeke hatred hands
+doe i keepe thee safe
+shall feele vengeance wrath
+rich i heare say but thinke
+enter poste
+king messenger letters newes
+france
+post soueraigne liege letters words
+but i speciall pardon
+dare relate
+king goe wee pardon thee
+briefe tell words
+neere thou canst guesse
+answer makes king lewis vnto letters
+post depart words
+goe tell false edward supposed king
+lewis france sending ouer maskers
+reuell new bride
+king lewis braue belike thinkes henry
+but said lady bona marriage
+post words vtt red mild disdaine
+tell hope hee le proue widower shortly
+ile weare willow garland sake
+king i blame say little lesse
+wrong but said henries queene
+i haue heard place
+post tell quoth
+mourning weedes
+i readie armour
+king belike minds play amazon
+but said warwicke iniuries
+post incens d maiestie
+rest discharg d words
+tell hath wrong
+ile vncrowne er t long
+king ha durst traytor breath prowd words
+i arme fore warn d
+shall haue warres pay presumption
+but say warwicke friends margaret
+post i gracious soueraigne
+link d friendship
+yong prince edward marryes warwicks daughter
+clarence belike elder
+clarence haue younger
+brother king farewell sit fast
+i warwickes daughter
+i want kingdome marriage
+i proue inferior selfe
+loue warwicke follow
+exit clarence somerset followes
+rich i
+thoughts ayme matter
+i stay loue edward but crowne
+king clarence somerset gone warwicke
+i arm d worst happen
+haste needfull desp rate case
+pembrooke stafford behalfe
+goe leuie men make prepare warre
+alreadie quickly landed
+selfe person straight follow
+exeunt pembrooke stafford
+but ere i goe hastings mountague
+resolue doubt twaine rest
+neere warwicke bloud allyance
+tell loue warwicke
+depart
+i wish foes hollow friends
+but minde hold true obedience
+giue assurance friendly vow
+i neuer haue suspect
+mount god helpe mountague hee proues
+true
+hast hastings hee fauours edwards cause
+king brother richard stand vs
+rich i despight shall withstand
+king i sure victorie
+let vs lose howre
+till wee meet warwicke forreine powre
+exeunt
+enter warwicke oxford england french souldiors
+warw trust lord hitherto goes
+common people numbers swarme vs
+enter clarence somerset
+but somerset clarence comes
+speake suddenly lords wee friends
+clar feare lord
+warw gentle clarence welcome vnto warwicke
+welcome somerset i hold cowardize
+rest mistrustfull noble heart
+hath pawn d open hand signe loue
+i thinke clarence edwards brother
+but fained friend proceedings
+but welcome sweet clarence daughter shall thine
+rests but nights couerture
+thy brother carelessely encamp d
+souldiors lurking towne
+but attended simple guard
+wee surprize pleasure
+scouts haue found aduenture easie
+vlysses stout diomede
+sleight manhood stole rhesus tents
+brought thracian fatall steeds
+wee couer d nights black mantle
+vnawares beat downe edwards guard
+seize himselfe i say slaughter
+i intend but onely surprize
+follow attempt
+applaud henry leader
+cry henry
+let s way silent sort
+warwicke friends god saint george
+exeunt
+enter watchmen guard kings tent
+watch come masters man stand
+king set downe sleepe
+watch bed
+watch hath solemne vow
+neuer lye naturall rest
+till warwicke himselfe quite supprest
+watch morrow belike shall day
+warwicke neere men report
+watch but say i pray noble man
+king resteth tent
+watch tis lord hastings kings chiefest
+friend
+watch o but commands king
+chiefe followers lodge townes
+himselfe keepes cold field
+watch tis honour dangerous
+watch i but giue worship quietnesse
+i like better dangerous honor
+warwicke knew estate stands
+tis doubted waken
+watch vnlesse halberds shut vp passage
+watch i wherefore guard royall tent
+but defend person night foes
+enter warwicke clarence oxford somerset french
+souldiors silent
+warw tent stand guard
+courage masters honor neuer
+but follow edward shall
+watch goes
+watch stay thou dyest
+warwicke rest cry warwicke warwicke set vpon
+guard flye crying arme arme warwicke rest
+following
+drumme playing trumpet sounding enter warwicke
+somerset
+rest bringing king gowne sitting chaire
+richard
+hastings flyes ouer stage
+som flye
+warw richard hastings let goe heere
+duke
+k edw duke
+warwicke wee parted
+thou call dst king
+warw i but case alter d
+disgrac d embassade
+i degraded king
+come create duke yorke
+alas gouerne kingdome
+know vse embassadors
+contented wife
+vse brothers brotherly
+studie peoples welfare
+shrowd selfe enemies
+k edw yea brother clarence
+art thou
+nay i edward needs downe
+warwicke despight mischance
+thee thy selfe thy complices
+edward alwayes beare himselfe king
+fortunes mallice ouerthrow state
+minde exceedes compasse wheele
+warw minde edward englands king
+takes crowne
+but henry shall weare english crowne
+true king indeede thou but shadow
+lord somerset request
+forthwith duke edward conuey d
+vnto brother arch bishop yorke
+i haue fought pembrooke fellowes
+ile follow tell answer
+lewis lady bona send
+farewell good duke yorke
+leade forcibly
+k ed fates impose men needs abide
+boots resist winde tide
+exeunt
+oxf remaines lords vs
+but march london soldiers
+war i s thing haue
+free king henry imprisonment
+seated regall throne
+enter
+enter riuers lady gray
+riu madam makes sodain change
+gray brother riuers learne
+late misfortune befalne king edward
+riu losse pitcht battell
+warwicke
+gray but losse owne royall person
+riu soueraigne slaine
+gray i slaine taken prisoner
+betrayd falshood guard
+foe surpriz d vnawares
+i haue vnderstand
+new committed bishop yorke
+fell warwickes brother foe
+riu newes i confesse greefe
+gracious madam beare
+warwicke loose hath wonne day
+gray till faire hope hinder liues decay
+i waine dispaire
+loue edwards spring wombe
+makes bridle passion
+beare mildnesse misfortunes crosse
+i i i draw teare
+stop rising blood sucking sighes
+sighes teares i blast drowne
+king edwards fruite true heyre th english crowne
+riu but madam
+warwicke
+gray i inform d comes london
+set crowne henries head
+guesse thou rest king edwards friends downe
+but preuent tyrants violence
+trust hath broken faith
+ile forthwith vnto sanctuary
+saue heire edwards right
+shall i rest secure force fraud
+come let vs flye flye
+warwicke vs sure dye
+exeunt
+enter richard lord hastings sir william stanley
+rich lord hastings sir william stanley
+leaue wonder i drew hither
+cheefest thicket parke
+stand case know king brother
+prisoner bishop hands
+hath good vsage great liberty
+but attended weake guard
+come hunting way disport himselfe
+i haue aduertis d secret meanes
+houre make way
+vnder colour vsuall game
+shall heere finde friends horse men
+set free captiuitie
+enter king edward huntsman
+huntsman way lord
+way lies game
+king edw nay way man
+huntsmen stand
+brother gloster lord hastings rest
+stand close steale bishops deere
+rich brother time case requireth hast
+horse stands ready parke corner
+king ed but shall
+hast lyn lord
+shipt flanders
+rich wel guest beleeue meaning
+k ed stanley i requite thy forwardnesse
+rich but wherefore stay tis time talke
+k ed huntsman say st thou
+wilt thou
+hunts better tarry hang d
+rich come away lets ha adoo
+k ed bishop farwell
+sheeld thee warwickes frowne
+pray i possesse crowne
+exeunt
+flourish enter king henry sixt clarence warwicke
+somerset young
+henry oxford mountague lieutenant
+k hen m aster lieutenant god friends
+haue shaken edward regall seate
+turn d captiue state libertie
+feare hope sorrowes vnto ioyes
+enlargement thy fees
+lieu subiects challenge sou rains
+but humble prayer preuaile
+i craue pardon maiestie
+k hen lieutenant vsing
+nay thou sure ile requite thy kindnesse
+imprisonment pleasure
+i pleasure incaged birds
+conceiue moody thoughts
+notes houshold harmonie
+quite forget losse libertie
+but warwicke god thou set st free
+chiefely i thanke god thee
+author thou instrument
+i conquer fortunes spight
+liuing low fortune hurt
+people blessed land
+punisht thwarting starres
+warwicke head weare crowne
+i resigne gouernment thee
+thou art fortunate thy deeds
+warw grace hath beene fam d vertuous
+seeme wise vertuous
+spying auoiding fortunes malice
+men rightly temper starres
+thing let blame grace
+chusing clarence place
+clar warwicke thou art worthy sway
+heau ns thy natiuitie
+adiudg d oliue branch lawrell crowne
+likely blest peace warre
+i yeeld thee free consent
+warw i chuse clarence onely protector
+king warwick clarence giue hands
+ioyne hands hands hearts
+dissention hinder gouernment
+i make protectors land
+i selfe lead priuate life
+deuotion spend dayes
+sinnes rebuke creators prayse
+warw answeres clarence soueraignes
+clar consents warwicke yeeld consent
+thy fortune i repose selfe
+warw loth i content
+wee le yoake like double shadow
+henries body supply place
+i meane bearing weight gouernment
+enioyes honor ease
+clarence needfull
+forthwith edward pronounc d traytor
+lands goods confiscate
+clar succession determined
+warw i clarence shall want
+king but chiefe affaires
+let entreat i command
+margaret queene sonne edward
+sent returne france speed
+till i doubtfull feare
+ioy libertie halfe eclips d
+clar shall bee soueraigne
+speede
+king lord somerset youth
+seeme haue tender care
+somers liege young henry earle richmond
+king come hither englands hope
+layes hand head
+secret powers suggest but truth
+diuining thoughts
+prettie lad proue countries blisse
+lookes peacefull maiestie
+head nature fram d weare crowne
+hand wield scepter himselfe
+likely time blesse regall throne
+make lords hee
+helpe hurt mee
+enter poste
+warw newes friend
+poste edward escaped brother
+fled hee heares burgundie
+warw vnsauorie newes but escape
+poste conuey d richard duke gloster
+lord hastings attended
+secret ambush forrest
+bishops huntsmen rescu d
+hunting dayly exercise
+warw brother carelesse charge
+but let vs soueraigne prouide
+salue sore betide
+exeunt
+manet somerset richmond oxford
+som lord i like flight edwards
+doubtlesse burgundie yeeld helpe
+shall haue warres befor t long
+henries late presaging prophecie
+glad heart hope young richmond
+doth heart mis giue conflicts
+befall harme
+lord oxford preuent worst
+forthwith wee le send brittanie
+till stormes past ciuill enmitie
+oxf i edward possesse crowne
+tis like richmond rest shall downe
+som shall shall brittanie
+come let s speedily
+exeunt
+flourish enter edward richard hastings souldiers
+edw brother richard lord hastings rest
+farre fortune maketh vs amends
+sayes i shall enterchange
+wained state henries regall crowne
+haue pass d pass d seas
+brought desired helpe burgundie
+remaines arriu d
+rauenspurre hauen gates yorke
+but enter dukedome
+rich gates fast
+brother i like
+men stumble threshold
+fore told danger lurkes
+edw tush man aboadments affright vs
+faire foule meanes enter
+hither friends repaire vs
+hast liege ile knocke summon
+enter walls maior yorke brethren
+maior lords
+fore warned comming
+shut gates safetie selues
+owe allegeance vnto henry
+edw but master maior henry king
+edward duke yorke
+maior true good lord i know
+lesse
+edw i challenge but dukedome
+content
+rich but fox hath got nose
+hee le soone finde meanes make body follow
+hast master maior stand doubt
+open gates king henries friends
+maior i say gates shall opened
+descends
+rich wise stout captaine soone perswaded
+hast good old man faine wel
+twere long but entred
+i doubt i but shall soone perswade
+brothers vnto reason
+enter maior aldermen
+edw master maior gates shut
+but night time warre
+feare man but yeeld vp keyes
+takes keyes
+edward defend towne thee
+friends deine follow mee
+march enter mountgomerie drumme souldiers
+rich brother sir iohn mountgomerie
+trustie friend vnlesse i deceiu d
+edw welcome sir iohn but come
+armes
+mount helpe king edward time storme
+euery loyall subiect ought doe
+edw thankes good mountgomerie
+but forget title crowne
+onely clayme dukedome
+till god send rest
+mount fare i againe
+i came serue king duke
+drummer strike vp let vs march away
+drumme begins march
+edw nay stay sir iohn wee le debate
+safe meanes crowne recouer d
+mount talke debating words
+le proclaime selfe king
+ile leaue fortune gone
+keepe come succour
+shall fight pretend title
+rich brother wherefore stand nice
+points
+edw wee grow stronger
+wee le make clayme
+till tis wisdome conceale meaning
+hast away scrupulous wit armes
+rule
+rich fearelesse minds clyme soonest vnto crowns
+brother proclaime hand
+bruit thereof bring friends
+edw tis right
+henry but vsurpes diademe
+mount i soueraigne speaketh like himselfe
+i edwards champion
+hast sound trumpet edward shal proclaim d
+come fellow souldior make thou proclamation
+flourish sound
+soul edward fourth grace god king
+england france lord ireland c
+mount whosoe gainsayes king edwards right
+i challenge single fight
+throwes downe gauntlet
+long liue edward fourth
+edw thankes braue mountgomery
+thankes vnto
+fortune serue ile requite kindnesse
+night let s harbor yorke
+morning sunne shall rayse carre
+aboue border horizon
+wee le forward warwicke mates
+i wot henry souldier
+ah froward clarence euill beseemes thee
+flatter henry forsake thy brother
+wee wee le meet thee warwicke
+come braue souldiors doubt day
+gotten doubt large pay
+exeunt
+flourish enter king warwicke mountague clarence
+oxford
+somerset
+war counsaile lords edward belgia
+hastie germanes blunt hollanders
+hath pass d safetie narrow seas
+troupes doth march amaine london
+giddie people flock
+king let s leuie men beat backe againe
+clar little quickly trodden
+suffer d riuers quench
+war warwickshire i haue true hearted friends
+mutinous peace bold warre
+i muster vp thou sonne clarence
+shalt stirre vp suffolke norfolke kent
+knights gentlemen come thee
+thou brother mountague buckingham
+northampton leicestershire shalt find
+men enclin d heare thou command st
+thou braue oxford wondrous belou d
+oxfordshire shalt muster vp thy friends
+soueraigne louing citizens
+like iland gyrt ocean
+modest dyan circled nymphs
+shall rest london till come
+faire lords leaue stand reply
+farewell soueraigne
+king farewell hector troyes true hope
+clar signe truth i kisse highnesse hand
+king minded clarence thou fortunate
+mount comfort lord i leaue
+oxf i seale truth bid adieu
+king sweet oxford louing mountague
+happy farewell
+war farewell sweet lords let s meet couentry
+exeunt
+king pallace i rest
+cousin exeter thinkes lordship
+thinkes power edward hath field
+able encounter
+exet doubt seduce rest
+king s feare meed hath got fame
+i haue stopt eares demands
+posted suites slow delayes
+pittie hath beene balme heale wounds
+mildnesse hath allay d swelling griefes
+mercie dry d water flowing teares
+i haue desirous wealth
+opprest great subsidies
+forward reuenge err d
+loue edward
+exeter graces challenge grace
+lyon fawnes vpon lambe
+lambe neuer cease follow
+shout lancaster lancaster
+exet hearke hearke lord shouts
+enter edward souldiers
+edw seize shamefac d henry beare
+againe proclaime vs king england
+fount makes small brookes flow
+stops thy spring sea shall suck dry
+swell higher ebbe
+tower let speake
+exit king henry
+lords couentry bend course
+peremptorie warwicke remaines
+sunne shines hot vse delay
+cold biting winter marres hop d hay
+rich away betimes forces ioyne
+great growne traytor vnawares
+braue warriors march amaine couentry
+exeunt
+enter warwicke maior couentry messengers
+vpon
+walls
+war post came valiant oxford
+farre thy lord honest fellow
+mess dunsmore marching hitherward
+war farre brother mountague
+post came mountague
+mess daintry puissant troope
+enter someruile
+war say someruile sayes louing sonne
+thy guesse nigh clarence
+someru southam i leaue forces
+doe expect howres
+war clarence hand i heare drumme
+someru lord southam lyes
+drum honor heares marcheth warwicke
+war belike vnlook d friends
+someru hand shall quickly know
+march flourish enter edward richard souldiers
+edw goe trumpet walls sound parle
+rich surly warwicke mans wall
+war oh vnbid spight sportfull edward come
+slept scouts seduc d
+heare newes repayre
+edw warwicke wilt thou ope citie gates
+speake gentle words humbly bend thy knee
+call edward king hands begge mercy
+shall pardon thee outrages
+war nay wilt thou draw thy forces
+confesse set thee vp pluckt thee downe
+call warwicke patron penitent
+thou shalt remaine duke yorke
+rich i thought haue said king
+make ieast
+war dukedome sir goodly gift
+rich i faith poore earle giue
+ile doe thee seruice good gift
+war twas i gaue kingdome thy brother
+edw tis but warwickes gift
+war thou art atlas great weight
+weakeling warwicke takes gift againe
+henry king warwicke subiect
+edw but warwickes king edwards prisoner
+gallant warwicke doe but answer
+body head
+rich alas warwicke fore cast
+but whiles thought steale single
+king slyly finger d deck
+left poore henry bishops pallace
+tenne le meet tower
+edw tis euen warwicke
+rich come warwicke
+time kneele downe kneele downe
+nay strike iron cooles
+war i chop hand blow
+fling thy face
+beare low sayle strike thee
+edw sayle thou canst
+haue winde tyde thy friend
+hand fast wound thy coale black hayre
+shall whiles thy head warme new cut
+write dust sentence thy blood
+wind changing warwicke change
+enter oxford drumme colours
+war oh chearefull colours oxford comes
+oxf oxford oxford lancaster
+rich gates open let vs enter
+edw foes set vpon backs
+stand good array doubt
+issue againe bid vs battaile
+citie but small defence
+wee le quickly rowze traitors
+war oh welcome oxford want thy helpe
+enter mountague drumme colours
+mount mountague mountague lancaster
+rich thou thy brother shall buy treason
+euen dearest blood bodies beare
+edw harder matcht greater victorie
+minde presageth happy gaine conquest
+enter somerset drumme colours
+som somerset somerset lancaster
+rich thy dukes somerset
+haue sold liues vnto house yorke
+thou shalt sword hold
+enter clarence drumme colours
+war loe george clarence sweepes
+force bid brother battaile
+vpright zeale right preuailes
+nature brothers loue
+come clarence come thou wilt warwicke call
+clar father warwicke know meanes
+looke i throw infamie thee
+i ruinate fathers house
+gaue blood lyme stones
+set vp lancaster trowest thou warwicke
+clarence harsh blunt vnnaturall
+bend fatall instruments warre
+brother lawfull king
+thou wilt obiect holy oath
+keepe oath impietie
+iephah sacrific d daughter
+i sorry trespas
+deserue brothers hands
+i proclayme selfe thy mortall foe
+resolution wheresoe i meet thee
+i meet thee thou stirre abroad
+plague thee thy foule mis leading
+prowd hearted warwicke i defie thee
+brother turne blushing cheekes
+pardon edward i make amends
+richard doe frowne vpon faults
+i henceforth vnconstant
+edw welcome times belou d
+thou neuer hadst deseru d hate
+rich welcome good clarence brother like
+warw oh passing traytor periur d vniust
+edw warwicke
+wilt thou leaue towne fight
+shall beat stones thine eares
+warw alas i coop d defence
+i away barnet presently
+bid thee battaile edward thou dar st
+edw yes warwicke edward dares leads way
+lords field saint george victorie
+exeunt
+march warwicke companie followes
+alarum excursions enter edward bringing forth warwicke
+wounded
+edw lye thou dye thou dye feare
+warwicke bugge fear d vs
+mountague sit fast i seeke thee
+warwickes bones keepe thine companie
+enter
+warw ah nigh come friend foe
+tell victor yorke warwicke
+aske i mangled body shewes
+blood want strength sicke heart shewes
+i yeeld body earth
+fall conquest foe
+yeelds cedar axes edge
+armes gaue shelter princely eagle
+vnder shade ramping lyon slept
+branch ouer peer d ioues spreading tree
+kept low shrubs winters pow rfull winde
+eyes dim d deaths black veyle
+haue beene piercing mid day sunne
+search secret treasons world
+wrinckles browes d blood
+lik ned oft kingly sepulchers
+liu d king but i digge graue
+durst smile warwicke bent brow
+loe glory smear d dust blood
+parkes walkes mannors i
+euen forsake lands
+left but bodies length
+pompe rule reigne but earth dust
+liue dye
+enter oxford somerset
+som ah warwicke warwicke wert thou
+recouer losse againe
+queene france hath brought puissant power
+euen heard newes ah st thou flye
+warw i flye ah mountague
+thou sweet brother hand
+thy lippes keepe soule
+thou lou st brother thou st
+thy teares wash cold congealed blood
+glewes lippes let speake
+come quickly mountague i dead
+som ah warwicke mountague hath breath d
+latest gaspe cry d warwicke
+said commend valiant brother
+haue said spoke
+sounded like cannon vault
+mought distinguisht but
+i heare deliuered groane
+oh farewell warwicke
+warw sweet rest soule
+flye lords saue selues
+warwicke bids farewell meet heauen
+oxf away away meet queenes great power
+beare away body exeunt
+flourish enter king edward triumph richard clarence
+rest
+king farre fortune keepes vpward course
+grac d wreaths victorie
+but midst bright shining day
+i spy black suspicious threatning cloud
+encounter glorious sunne
+ere attaine easefull westerne bed
+i meane lords powers queene
+hath rays d gallia haue arriued coast
+heare march fight vs
+clar little gale soone disperse cloud
+blow source came
+thy beames dry vapours vp
+euery cloud engenders storme
+rich queene valued thirtie thousand strong
+somerset oxford fled
+haue time breathe assur d
+faction strong
+king aduertis d louing friends
+doe hold course tewksbury
+hauing best barnet field
+thither straight willingnesse rids way
+march strength augmented
+euery countie goe
+strike vp drumme cry courage away
+exeunt
+flourish march enter queene young edward somerset
+oxford
+souldiers
+qu great lords wise men ne r sit waile losse
+but chearely seeke redresse harmes
+mast blowne ouer boord
+cable broke holding anchor lost
+halfe saylors swallow d flood
+liues pilot t meet hee
+leaue helme like fearefull lad
+tearefull eyes adde water sea
+giue strength hath
+whiles moane ship splits rock
+industrie courage haue sau d
+ah shame ah fault
+say warwicke anchor
+mountague mast
+slaught red friends tackles
+oxford anchor
+somerset goodly mast
+friends france shrowds tacklings
+vnskilfull ned i
+allow d skilfull pilots charge
+helme sit weepe
+but keepe course rough winde say
+shelues rocks threaten vs wrack
+good chide waues speake faire
+edward but ruthlesse sea
+clarence but quick sand deceit
+richard but raged fatall rocke
+enemies poore barke
+say swim alas tis but
+tread sand quickly sinke
+bestride rock tyde wash
+famish s fold death
+speake i lords let vnderstand
+case flye vs
+s hop d mercy brothers
+ruthlesse waues sands rocks
+courage auoided
+twere childish weakenesse lament feare
+prince thinkes woman valiant spirit
+coward heard speake words
+infuse breast magnanimitie
+make naked foyle man armes
+i speake doubting
+i but suspect fearefull man
+haue leaue goe away betimes
+need infect
+make like spirit himselfe
+god forbid
+let depart neede helpe
+oxf women children high courage
+warriors faint twere perpetuall shame
+oh braue young prince thy famous grandfather
+doth liue againe thee long st thou liue
+beare image renew glories
+som fight hope
+goe home bed like owle day
+arise mock d wondred
+qu thankes gentle somerset sweet oxford thankes
+prince thankes hath
+enter messenger
+mess prepare lords edward hand
+readie fight resolute
+oxf i thought lesse policie
+haste fast finde vs vnprouided
+som but hee s deceiu d readinesse
+qu cheares heart forwardnesse
+oxf pitch battaile budge
+flourish march enter edward richard clarence
+souldiers
+edw braue followers yonder stands thornie wood
+heauens assistance strength
+roots hew ne vp ere night
+i need adde fuell
+i wot ye blaze burne
+giue signall fight lords
+qu lords knights gentlemen i say
+teares gaine say euery word i speake
+ye i drinke water eye
+but henry soueraigne
+prisoner foe state vsurp d
+realme slaughter house subiects slaine
+statutes cancell d treasure spent
+yonder wolfe makes spoyle
+fight iustice gods lords
+valiant giue signall fight
+alarum retreat excursions exeunt
+flourish enter edward richard queene clarence oxford
+somerset
+edw period tumultuous broyles
+away oxford hames castle straight
+somerset guiltie head
+goe beare i heare speake
+oxf ile trouble thee words
+som i but stoupe patience fortune
+exeunt
+qu sadly troublous world
+meet ioy sweet ierusalem
+edw proclamation finds edward
+shall haue high reward life
+rich loe youthfull edward comes
+enter prince
+edw bring forth gallant let vs heare speake
+young thorne begin prick
+edward satisfaction canst thou make
+bearing armes stirring vp subiects
+trouble thou hast turn d
+prince speake like subiect prowd ambitious yorke
+suppose i fathers mouth
+resigne thy chayre i stand kneele thou
+whil st i propose selfe words thee
+traytor thou st haue answer
+qu ah thy father beene resolu d
+rich haue worne petticoat
+ne haue stolne breech lancaster
+prince let aesop fable winters night
+currish riddles sorts place
+rich heauen brat ile plague ye word
+qu i thou wast borne plague men
+rich gods sake away captiue scold
+prince nay away scolding crooke backe
+edw peace wilfull boy i charme tongue
+clar vntutor d lad thou art malapert
+prince i know dutie vndutifull
+lasciuious edward thou periur d george
+thou mis shapen dicke i tell ye
+i better traytors ye
+thou vsurp st fathers right
+edw likenesse rayler
+stabs
+rich sprawl st thou end thy agonie
+rich ard stabs
+clar ther s twitting periurie
+clar ence stabs
+qu oh kill
+rich marry shall
+offers kill
+edw hold richard hold haue
+rich shee liue world
+words
+edw doth shee swowne vse meanes
+recouerie
+rich clarence excuse king brother
+ile london matter
+ere ye come sure heare newes
+cla
+rich tower tower
+enter
+qu oh ned sweet ned speake thy mother boy
+st thou speake o traitors murtherers
+stabb d c sar shed blood
+offend worthy blame
+foule deed equall
+man respect childe
+men ne spend fury childe
+s worse murtherer i
+heart burst i speake
+i speake heart burst
+butchers villaines bloudy caniballes
+sweet plant haue vntimely cropt
+haue children butchers
+thought haue stirr d vp remorse
+but euer chance haue childe
+looke youth haue cut
+deathsmen haue rid sweet yong prince
+king away beare perforce
+qu nay neuer beare dispatch heere
+sheath thy sword ile pardon thee death
+wilt thou clarence thou
+cla heauen i thee ease
+qu good clarence sweet clarence thou
+cla st thou heare sweare i
+qu i but thou vsest forsweare thy selfe
+twas sin but tis charity
+wilt y diuels butcher richard
+hard fauor d richard richard art thou
+thou art heere murther thy almes deed
+petitioners blood thou ne st backe
+ed away i say i charge ye beare
+qu come prince
+exit queene
+ed s richard gone
+cla london post i guesse
+make bloody supper tower
+ed s sodaine thing comes head
+march discharge common sort
+pay thankes let s away london
+gentle queene fares
+i hope hath sonne
+enter
+enter henry sixt richard lieutenant
+walles
+rich good day lord booke
+hard
+hen i good lord lord i say
+tis sinne flatter good little better
+good gloster good deuill alike
+preposterous good lord
+rich sirra leaue vs selues conferre
+hen flies wreaklesse shepherd y wolfe
+harmlesse sheepe doth yeeld fleece
+throate vnto butchers knife
+scene death hath rossius acte
+rich suspition alwayes haunts guilty minde
+theefe doth feare bush officer
+hen bird hath bin limed bush
+trembling wings misdoubteth euery bush
+i haplesse male sweet bird
+haue fatall obiect eye
+poore yong lim d caught kill d
+rich peeuish foole creet
+taught sonne office fowle
+wings foole drown d
+hen i dedalus poore boy icarus
+thy father minos deni course
+sunne sear d wings sweet boy
+thy brother edward thy selfe sea
+enuious gulfe swallow vp life
+ah kill thy weapon words
+brest better brooke thy daggers point
+eares tragicke history
+but wherefore dost thou come t life
+rich think st thou i executioner
+hen persecutor i sure thou art
+murthering innocents executing
+thou art executioner
+rich thy son i kill d presumption
+hen hadst thou bin kill d y didst presume
+thou st liu d kill sonne
+i prophesie thousand
+mistrust parcell feare
+old mans sighe widdowes
+orphans water standing eye
+men sonnes wiues husbands
+orphans parents timeles death
+shall rue houre euer thou t borne
+owle shriek d thy birth euill signe
+night crow cry aboding lucklesse time
+dogs howl d hiddeous tempest shook trees
+rauen rook d chimnies
+chatt ring pies dismall discords sung
+thy mother felt mothers paine
+brought forth lesse mothers hope
+wit indigested deformed lumpe
+like fruit goodly tree
+teeth st thou thy head thou t borne
+signifie thou cam st bite world
+rest true i haue heard
+thou cam st
+rich ile heare
+dye prophet thy speech
+stabbes
+st rest i ordain d
+hen i slaughter
+o god forgiue sinnes pardon thee
+dyes
+rich aspiring blood lancaster
+sinke ground i thought haue mounted
+sword weepes poore kings death
+o purple teares alway shed
+wish downfall house
+sparke life remaining
+downe downe hell say i sent thee thither
+stabs againe
+i haue neyther pitty loue feare
+tis true henrie told
+i haue heard mother say
+i came world legges forward
+i reason thinke ye make hast
+seeke ruine vsurp d right
+midwife wonder d women cri
+o iesus blesse vs borne teeth
+i plainly signified
+i snarle bite play dogge
+heauens haue shap d body
+let hell make crook d minde answer
+i haue brother i like brother
+word loue gray beards call diuine
+resident men like
+i selfe
+clarence beware thou keept st light
+but i sort pitchy day thee
+i buzze abroad prophesies
+edward shall fearefull life
+purge feare ile thy death
+king henry prince son gone
+clarence thy turne rest
+counting selfe but bad till i best
+ile throw thy body roome
+triumph henry thy day doome
+enter
+flourish enter king queene clarence richard hastings nurse
+attendants
+king sit englands royall throne
+purchac d blood enemies
+valiant foe men like autumnes corne
+haue mow d downe tops pride
+dukes somerset threefold renowne
+hardy vndoubted champions
+cliffords father sonne
+northumberlands brauer men
+ne spurr d coursers trumpets sound
+braue beares warwick montague
+chaines fetter d kingly lyon
+forrest tremble roar d
+haue swept suspition seate
+footstoole security
+come hither besse let kisse boy
+yong ned thee thine vnckles selfe
+haue armors watcht winters night
+went afoote summers scalding heate
+thou st repossesse crowne peace
+labours thou shalt reape gaine
+rich ile blast haruest head laid
+i look d world
+shoulder ordain d thicke heaue
+heaue shall waight breake backe
+worke thou way shalt execute
+king clarence gloster loue louely queene
+kis princely nephew brothers
+cla duty i owe vnto maiesty
+i seale vpon lips sweet babe
+cla thanke noble clarence worthy brother thanks
+rich i loue tree fro m y sprang st
+witnesse louing kisse i giue fruite
+say truth iudas kist master
+cried haile meant harme
+king i seated soule delights
+hauing countries peace brothers loues
+cla grace haue margaret
+reynard father king france
+hath pawn d sicils ierusalem
+hither haue sent ransome
+king away waft france
+rests but spend time
+stately triumphes mirthfull comicke shewes
+befits pleasure court
+sound drums trumpets farwell sowre annoy
+heere i hope begins lasting ioy
+exeunt omnes
+finis henry sixt death duke
+yorke

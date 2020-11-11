@@ -1,0 +1,584 @@
+*This is the Project Gutenberg Newsletter for Wednesday, July 7, 1999*
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+*Check out our Websites at promo.net, and ask me for our FTP servers.*
+
+
+***This is Project Gutenberg's 29th Fourth of July on the Internet!***
+**Help us celebrate by keeping us alive as a continuing institution!**
+
+We have about 50 Etext releases for you in this Newsletter!
+
+With so many entering the Etext field this year, we are one endangered
+species I don't think the world can do as well without. . .everyone is
+saying they can put a million Etexts online, but none of them actually
+have DONE even a thousand. . .they mostly just copy from others. . .as
+much as I *LIKE* having our files copied around the world. . .I do NOT
+want that to be our undoing. . .if you can help, please read below!!!!
+
+There are nearly 50 new Etexts listed below, all but one produced by a
+volunteer corps at Project Gutenberg; you won't find that kind of text
+production anywhere else, and we are now in our 29th year of doing it.
+
+Etexts Readable By Both Humans and Computers Since Before The Internet
+[Usually sent the first Wednesday of each month, delayed if by relay.]
+Main URL is promo.net    Webmaster is Pietro di Miceli, of Rome, Italy
+
+Anniversary News Items:
+
+1.  More Languages [Japanese, Chinese, Swedish, Danish, DNA. . .more.]
+2.  The Human Genome Project [11% complete at 375 Megabytes]
+3.  We need help getting incorporated as a 501 (C) 3, need a lawyer.
+    [We had a volunteer lawyer, but lost email contact]
+4.  We need help getting major grants. . .grant writers needed!
+5.  We need help with Public Relations. . .I lost the address
+    of our new PR person in the big crash, please email me again!
+6.  New site at:  www.instinct.org/gutenberg/
+7.  New source for Project Gutenberg CDROMs.
+8.  We have a new German/Fraktur Team. . .and we need volunteers.
+9.  We still need help finished up Austen's Pride and Prejudice.
+
+*
+
+But First. . .Current Requests for Assistance From Our Volunteers:
+
+1.  We still need PERL writers, and I lost my list of them in the crash.
+
+2.  The 1999 CIA World Factbook should be completed just about now;
+if any of you can send me a copy, it would be greatly appreciated.
+
+3.  We may still need more proofers for Anna Karenina; will those
+currently working on it please contact me.
+
+4.  We have a copy of Martin Luther's publication of the Bible,
+in German fractur. . .and will need some serious help on it. . . .
+I would LIKE to think there is already an Etext of it available,
+if anyone can help us find it.
+
+5.  From:   "Whiting, Jenifer" <jenifer.whiting@PTSEM.EDU>
+A request for the text "The Flying Inn" by G.K. Chesterton
+Most likely found in older editions in UK and Australia,
+but any edition that credits its content as originally
+from before 1923 will do just fine.  Her copy was stolen,
+along with lots of other things, in a car break in. . .mh
+[I think we have a copy coming, but this was not confirmed]
+
+
+6.  I am working on a 4 volume collection of Samuel Adams' writings
+(H. A. Cushing, ed., 1904). The collection covers the years 1764-1802.
+
+I would like to thank Richard Fane and Daniel Moore for all their work
+getting  volume III done, and half of volume IV.  We can still use several
+scanners and especially proofreaders in order to be able to do volumes I
+and II.
+
+Even a few pages of proofreading would be helpful.
+
+If you can help, please email me:
+Regina Azucena <razucena@netway.com>
+
+
+7.  The Human Genome Project:  we are going to need volunteers
+to help us with this, unless we can find a way to FTP those 24
+chromosomes directly into our /etext00 directories. . .*these*
+files are large. . .more details below.
+
+[Different Numbering System for Requests than other items]
+
+
+8. Found an etext of The Golden Bowl by Henry James,
+http://www.newpaltz.edu/~hathaway/goldenbowl1.html
+If anyone can find a pre-1923 matching paper edition,
+then we can post it.
+
+
+*
+
+1.  More Languages [Japanese, Chinese, Swedish, Danish, DNA. . .more.]
+
+1.  We would LOVE to post one file in a language we have not worked
+with before in each of the remaining months of 1999, and perhaps in
+2000, if we can.  No matter what format, we are willing to post it,
+but would also like to post in the simplest possible format as well
+. . .when this is possible.  We may still need help with posting
+our Swedish and Danish Bibles. . .just to make sure we haven't
+mangled the files.
+
+
+2.  The Human Genome Project [11% complete at 375 Megabytes]
+
+2.  If you would like to join our Human Genome Project Team,
+please email Eliana Brown at one of the following, and cc:me
+Eliana Brown <eliana_b68@yahoo.com><brown12@students.uiuc.edu>
+We need help getting them to prairienet.org, and perhaps with
+putting the headers on them. . .the files are large. . .and we
+don't have an easy internal way to get them there. . .thanks!
+
+
+We have successfully downloaded our first chromosomes, and the
+smallest one we could, the Y chromosome, is 3.5 Megabytes.  We
+have reserved 26 slots for June, 2000, for the 24 files and a
+few instructions and commentaries on how to read and use them.
+This will eventually total some 3.38 Gigabytes, so we could use
+some programming help to create a compression program that would
+take only 2 bits to store any of the GATC amino acids, and would
+unpack them for our readers. . .otherwise this one item will at
+least quadruple the size of Project Gutenberg.  Zip is currently
+compressing at 70%, I have not tried the higher compression zip
+options yet. . . .  However, even if we represented each character
+with two bits, it would be hard to get much beyond 75%, unless we
+used a particularly good algorithm.  We tried one combination of
+our own plus zip and got 77%. . .not sure if worth the hassle.
+
+
+3.  We need help getting incorporated as a 501 (C) 3, need a lawyer.
+    [We had a volunteer lawyer, but lost email contact]
+
+This would probably be done in Illinois, and it is obvious we need
+to do this, or we won't get the donations required to do more than
+our original goal of 10,000 books. . .we are currently doing Etext
+at a rate that will reach 3,333 by the end of 2001. . .not bad for
+an unincorporated bunch of volunteers whose Executive Director has
+not had any paychecks for 6 months and probably won't for the next
+6 months, and went through this same situation only two years ago.
+
+
+4.  We need help getting major grants. . .grant writers needed!
+
+We will get our 10,000 Etexts done, whether we receive any funding
+of a major nature or not, but we could do 1,000,000 Etexts in just
+20 more years, if we could get some 10 million dollar grants.  The
+truth is that if we are going to spend time on other than Etext, I
+would prefer that we go all out in this direction.
+
+
+5.  We need help with Public Relations. . .I lost the address
+of our new PR person in the big crash, please email me again!
+We have an excellent opportunity to be the cover story on the
+Sunday Supplement of a very major newspaper, very shortly.  We
+did the preliminary interview last weekend, and we should also
+prepare a press release for our 2,000th Etext, Human Genome,
+and our new language efforts.  Which reminds me, we may still
+need help with Swedish and Danish.
+
+6.  You may want to try our new site at:  www.instinct.org/gutenberg/
+
+7.  From Daniel Meyers:  Here's what I'm ready to offer.
+The most up-to-date possible, full texts from Project
+Gutenberg on a two CD set for $39.95 (+$5.00 S/H).
+Interested parties should send e-mail to
+gutenberg@monogames.com and they will be notified
+when and where they can order on-line.
+
+Project Gutenberg will receive $34.95 of the above amount.
+Major credit cards and checks will be accepted.
+
+8.  We have a new German/Fraktur Team. . .and we need volunteers.
+Mike Pullen <globaltraveler5565@yahoo.com>  German and Fraktur Team
+
+9.  We still need help finished up Austen's Pride and Prejudice.
+Please contact me if you can find any edition from before 1923.
+
+***
+
+This past, as in most months, we have made noticeable corrections to files:
+
+Dec 1998 The Crystal Stopper, by Maurice LeBlanc           [cstprxxx.xxx]1563
+Dec 1998 Timaeus, by Plato, Benjamin Jowett, Translator #3 [tmeusxxx.xxx]1572
+Feb 2000 Memoirs of the Comtesse du Barry by Lamothe-Langon[dbrryxxx.xxx]2082
+Mar 1998 The Three Musketeers, by Alexandre Dumas [Pere #2][1muskxxx.xxx]1257
+Mar 1998 Twenty Years After, by Alexandre Dumas   [Pere #4][3muskxxx.xxx]1259
+Jan 2000 Iphigenie auf Tauris, Johann von Goethe[#4] German[iphgnxxx.xxx]2054
+Dec 1999 The Outlet, by Andy Adams                         [outltxxx.xxx]1987
+
+Each of the above files has a version 11 now posted, our files get a higher #
+when we have made enough corrections to call it a revised edition. . .if your
+system supports FTP [File Transfer Protocol] you can find ALL our corrections
+by just searching for filename ?????11.*, 12.*, 13,*, etc.
+
+
+Here Are The New Etexts Presented On Our 28th Anniversary and Extras!!
+
+Feb 2000 Tao Hua Yuan Ji, by Tao YuanMing [Chinese/English][peachxxx.xxx]2090
+Feb 2000 Peach Blossom Shangri-la, by Tao YuanMing [short] [peachxxx.xxx]2090
+Feb 2000 The Reception of the Origin of Species, T H Huxley[oroosxxx.xxx]2089
+Feb 2000 Life and Letters of Charles Darwin, Volume II [#8][2llcdxxx.xxx]2088
+2088 is Reserved for                         ^^^^^^^^
+Feb 2000 Life and Letters of Charles Darwin, Volume I  [#7][1llcdxxx.xxx]2087
+
+Feb 2000 The Slowcoach, by E. V. Lucas                     [slwchxxx.xxx]2086
+mary starr <marystarr@earthlink.net>
+Feb 2000 Cyropaedia, by Xenophon [Transl. H. G. Dakyns] #14[cyrusxxx.xxx]2085
+Feb 2000 The Way of All Flesh, by Samuel Butler  [Butler#3][wflshxxx.xxx]2084
+Feb 2000 In Search of the Castaways, by Jules Verne [JV#11][cstwyxxx.xxx]2083
+^^^This version includes some markup, need volunteers to unmark to plain text
+
+Feb 2000 Memoirs of the Comtesse du Barry by Lamothe-Langon[dbrryxxx.xxx]2082
+by Baron Etienne Leon Lamothe-Langon, using a pseudonym*****
+Version 10 is the binary version with French accents.
+Version 11 is the Plain Vanilla ASCII version without accents.
+
+Feb 2000 The Blithedale Romance, by Nathaniel Hawthorne[#7][blthdxxx.xxx]2081
+Feb 2000 Later Poems, by Alice Meynell[2 books/1 file][#10][2almyxxx.xxx]2080
+Feb 2000 Flower of the Mind, by Alice Meynell  [Maynell #9][2almyxxx.xxx]2080
+Feb 2000 Memoirs of a Minister of France, by Stanley Weyman[moamfxxx.xxx]2079
+From the Memoirs of a Minister of France, by Stanley Weyman [Weyman #4]
+
+Feb 2000 Thais, by Anatole France, Trans. by Douglas [AF#2][thaisxxx.xxx]2078
+Feb 2000 The Nabob, by Alphonse Daudet  Transl. W. Blaydes [nabobxxx.xxx]2077
+Feb 2000 The Civilization of China, by Herbert A. Giles    [cvchnxxx.xxx]2076
+Feb 2000 Crotchet Castle, by Thomas Love Peacock[Peacock#2][ccstlxxx.xxx]2075
+
+Feb 2000 Civilization of Renaissance in Italy, J Burckhardt[coriixxx.xxx]2074
+Feb 2000 The Valet's Tragedy et al, by Andrew Lang[Lang#22][vlttrxxx.xxx]2073
+Contains stories about The Man In The Iron Mask, etc. . . .
+Feb 2000 Michael, by E. F. Benson                          [mikelxxx.xxx]2072
+Feb 2000 Stories by English Authors in Germany, Scribners  [sbeagxxx.xxx]2071
+Includes:
+The Bird On Its Journey, by Beatrice Harraden
+Koosje: A Study of Dutch Life, by John Strange Winter
+A Dog of Flanders, by Ouida
+Markheim, by Robert Louis Stevenson
+Queen Tita's Wager, by William Black
+
+Feb 2000 To The Last Man, by Zane Grey      [Zane Grey #12][lstmnxxx.xxx]2070
+Feb 2000 The Religion of Babylonia and Assyria, by Pinches [xrbaaxxx.xxx]2069
+^^^^Available as both 7-bit version 7rbaa10.* and 8-bit version 8rbaa10.*^^^^
+Feb 2000 Keziah Coffin, by Joseph C. Lincoln               [kziacxxx.xxx]2068
+Feb 2000 Beasts, Men and Gods, by F. Ossendowski           [bmgdsxxx.xxx]2067
+
+Feb 2000 Wildfire, by Zane Grey             [Zane Grey #11][wldfrxxx.xxx]2066
+Feb 2000 Dick Hamiliton's Airship, by Howard R. Garis      [arshpxxx.xxx]2065
+Feb 2000 Journey Scotland's Western Isles, Saumeul Johnson [jwsctxxx.xxx]2064
+[A Journey to the Western Isles of Scotland  [Johnson #3]] was listed as 2038
+Feb 2000 The Trail of the White Mule, by B.M. Bower[BMB#11][tttwmxxx.xxx]2063
+
+Feb 2000 All For Love, by John Dryden      [John Dryden #1][al4lvxxx.xxx]2062
+Feb 2000 Shorter Prose Pieces by Oscar Wilde[Oscar Wilde22][wldspxxx.xxx]2061
+Feb 2000 The History of Caliph Vathek, by William Beckford [cvthkxxx.xxx]2060
+Feb 2000 The Little Shepherd of Kingdom Come by John Fox Jr[lsokcxxx.xxx]2059
+
+Feb 2000 Messer Marco Polo, by Brian Oswald Donn-Byrne     [mpoloxxx.xxx]2058
+Feb 2000 The Last of the Plainsmen, by Zane Grey [Grey #10][plnsmxxx.xxx]2057
+Feb 2000 Life of William Carey, by George Smith            [wmcryxxx.xxx]2056
+Feb 2000 Two Years Before the Mast, by Richard Henry Dana  [2yb4mxxx.xxx]2055
+
+**Extras From Future Collections We Will Be Posting In Coming Months**
+
+We have posted the following Chromosomes from the Human Genome Project
+Be advised, we have started with the smallest files, which will update
+the most often, but we will probably update only every few months.  In
+our header is information on how to update the files yourself, if your
+interest requires the very latest information.  WARNING!!!  Totals 36M
+if you download both the .txt and .zip files of these 6 "small" files.
+
+Jun 2000 Human Genome Project, Y Chromosome    [#24]       [0yhgpxxx.xxx]2224
+Jun 2000 Human Genome Project, Chromosome Number 10        [10hgpxxx.xxx]2210
+Jun 2000 Human Genome Project, Chromosome Number 09        [19hgpxxx.xxx]2209
+Jun 2000 Human Genome Project, Chromosome Number 08        [08hgpxxx.xxx]2208
+Jun 2000 Human Genome Project, Chromosome Number 03        [03hgpxxx.xxx]2203
+Jun 2000 Human Genome Project, Chromosome Number 02        [02hgpxxx.xxx]2202
+[WARNING:  These files are not complete, and have at least one error. . .that
+being in chromosome 2. . .a sequence of NNN's around line 14975. . . .]
+
+
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 8 [08frdxxx.xxx]2108
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 7 [07frdxxx.xxx]2107
+
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 6 [06frdxxx.xxx]2106
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 5 [05frdxxx.xxx]2105
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 4 [04frdxxx.xxx]2104
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 3 [03frdxxx.xxx]2103
+
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 2 [02frdxxx.xxx]2102
+Mar 2000 Carlyle's "History of Friedrich II of Prussia V 1 [01frdxxx.xxx]2101
+
+Mar 2000 A Thief in the Night, by E. W. Hornung[Hornung #4][thfntxxx.xxx]2098
+Mar 2000 The Sign of the Four, by Arthur Conan Doyle  [#16][sign4xxx.xxx]2097
+Mar 2000 A Smaller History of Greece, by William Smith     [asmhgxxx.xxx]2096
+Mar 2000 Clotelle: A Tale of the Southern States, by Brown [clotlxxb.xxx]2095
+
+Jan 2000 Clotel; or, The President's Daughter, by Wm. Brown[clotlxxa.xxx]2046
+Apr 1995 Clotelle; or The Colored Heroine by Wm Wells Brown[clotlxxx.xxx] 241
+Also see our previous releases, based on a separate source editions^
+
+
+
+TO TURN ELECTRONIC PAPER INTO COMMERCIAL PRODUCT
+Though emphasizing "it won't be on the market in the next year," an
+executive of Xerox's Palo Alto Research Center says that Xerox and 3M have
+signed a manufacturing agreement intended to turn electronic paper into a
+commercial product, to be used in such applications as electronic
+newspapers capable of adding late-breaking news as you read them.  Like a
+computer screen but not much thicker than ordinary paper and almost as
+flexible, electronic paper uses "gyricon" display technology developed at
+Xerox PARC about ten years ago.  You'll (eventually) be able to write on it
+with a wand or stylus or to put it through a computer printer.
+(Reuters/San Jose Mercury News 29 Jun 99)
+http://www.sjmercury.com/svtech/news/breaking/merc/docs/065761.htm
+
+
+ "PC AS SIMPLE AS A TOASTER" - THE $199 iToaster
+A personal computer called the iToaster (because its developers say it's as
+simple to operate as a toaster) will use the BeOS operating system, rather
+than Microsoft's Windows.  Priced at $199 (without a monitor) and
+manufactured by Microworkz.com in Seattle, the iToaster will offer word
+processing, home finance, and Web browsing software, and will have a
+graphical interface.  The company is reportedly in talks with America
+Online about potential cross-marketing arrangements.  (MSNBC 21 Jun 99,
+http://www.msnbc.com/news/282421.asp and USA Today 25 Jun 99
+http://www.usatoday.com/life/cyber/tech/ctf470.htm )
+
+THE FIGHT OVER INTERNET DOMAIN NAME REGISTRATION
+Those who want to see the business of domain name registration opened up to
+competition will have to wait at least three weeks longer, as tensions
+build among the three major players in the discussion.  Those players are:
+first, the Clinton Administration; second, Icann (Internet Corporation for
+Assigned Names and Numbers), the organization the Administration created to
+assume responsibility for Internet administration;  and, third, Network
+Solutions Inc. (NSI), the private company which since 1993 has had  the
+exclusive worldwide right to assign all Internet addresses ending  with the
+suffixes .com, .net, or .org.  NSI is refusing to sign the contract Icann
+has developed, saying it gives more Icann more power than the
+Administration had intended;  in particular, NSI is claiming sole ownership
+to the rights of its database of more than 5 million registered domain
+names.  Commerce Department staffer Becky Burr is optimistic that the
+dispute will be resolved soon: "I believe it is in everybody's best
+interest not to swing threats around."  In the meantime, Icann interim
+president Mike Roberts notes, "It's great political theater."  (New York
+Times 28 Jun 99)
+
+IS THERE A SHORTAGE OF INFO TECH PROFESSIONALS?
+A survey conducted on the Web site of Computer magazine to determine
+attitudes about the shortage of information technology professionals found
+that 54% of the 84 respondents believe that such a shortage indeed exists
+and that liberal immigration policies are generally a good idea;  36% deny
+that there's a shortage, and are convinced that corporate America is simply
+claiming one so that it can import less expensive workers instead of
+investing in the U.S. workforce.  The rest of the respondents say that the
+global economy has created a new and complex problem which requires new
+kinds of solutions.  (Computer May/Jun 99)
+http://www.computer.org/computer/bcsummary.htm
+
+"WHO WANTS TO KNOW?"  (CUSTOMIZED HISTORY FROM ENCARTA)
+Today's Wall Street Journal reports that the nine different editions of
+Microsoft's Encarta multimedia encyclopedia sometimes give different
+answers to the same question.  For example, the U.S., U.K, and German
+editions say the inventor of the telephone was Alexander Graham Bell,
+whereas the Italian version says the inventor was the impoverished
+Italian-American candle maker Antonio Meucci.  Other editions vary on who
+invented the electric light bulb, who discovered the virus that causes
+AIDS, and other such things.  Microsoft says its editorial teams are made
+up of local experts, and company chief executive Bill Gates argued in 1997:
+ "In the long run, exposing people to worldwide perspectives should be
+healthy.  Americans benefit from a better understanding of the Asian or
+European view of important cultural and scientific events, and vice versa."
+
+TRACKING ANONYMOUS SPAM
+If you hate getting all those "Make Money Fast At Home!!!" messages from
+people who use hard-to-trace or false return addresses, you might want to
+use the services of www.spamcop.net, a Web site that allows you to take
+action against unsolicited junk e-mail messages sent out in bulk
+quantities.  Spam Cop is able to dissect the header information on such
+messages, identify where they've come from, and send a message of complaint
+to the network administer of the Internet service provider the spammer is
+using.  (New York Times Circuits Section 24 Jun 99)
+http://www.nytimes.com/library/tech/99/06/circuits/articles/24spam.html
+
+
+
+
+
+
+
+Those were excerpts from:  NewsScan <newsscan@newsscan.com>
+www.newsscan.com/, and send us mail:  John Gehl  <gehl@NewsScan.com>
+and Suzanne Douglas <douglas@NewsScan.com>, or call 770-590-1017.
+
+THREE WEEK DELAY IN OPENING UP INTERNET NAME REGISTRATION
+The process to open the registration of Internet domain names to
+competition has been delayed three weeks due to continued
+tensions between the Clinton administration, monopoly-holder
+Network Solutions, and would-be overseer ICANN.  Many have
+accused ICANN of abusing its power, particularly by holding
+closed meetings and by assigning a $1 annual fee to every domain
+name registered.  Many were also angered by ICANN's threat to
+terminate Network Solutions' authority to register new Internet
+addresses, although ICANN has since admitted that only the
+Commerce Department holds that authority.  Government officials
+such as Virginia's Representative Thomas J. Bliley and Governor
+James Gilmore, as well as lobbyists on behalf of Network
+Solutions, have demanded investigations into the process of
+choosing board members and ICANN's authority to charge the $1
+fee.  Other major issues to be resolved include the question of
+ownership regarding Network Solutions' user database, the terms
+of ICANN's authority, and the prices that businesses must pay
+Network Systems to administer the central registry.
+(New York Times 06/28/99)
+
+TEXTBOOK PUBLISHER LAYS PLANS FOR AN INTERNET UNIVERSITY
+Academic publishing house Harcourt General is joining the growing
+business of distance education.  It plans to expand its online
+offerings with three ventures:  Harcourt University; an Internet
+high school for students planning to take high-school equivalency
+exams; and an e-commerce site called Harcourt.com.  Through its
+university, Harcourt may become the first major publishing house
+to offer accredited college degrees, pending approval from the
+New England Association of Schools and Colleges.  Yet Harcourt
+faces much opposition, particularly from college professors
+concerned that Internet-based education denies students the
+personal interaction central to a traditional learning
+experience.  University bookstores and other traditional
+distributors may also oppose the venture because it competes with
+their sales.  Last, Harcourt will face strong competition from
+the companies and universities already providing online courses.
+Harcourt maintains that its educational offerings will be unique.
+Its university, which may begin to offer courses by September
+2000, will teach a range of subjects in arts and sciences.
+(Wall Street Journal 07/02/99)
+
+U.S. EASES RESTRICTIONS ON SELLING FAST PCS TO RUSSIA AND CHINA
+President Clinton significantly reduced restrictions on exports
+of powerful computers, arguing that technological innovations
+have made laptop and desktop PCs as powerful as the
+supercomputers produced just a few years ago.  Previously,
+companies were required to obtain individual export licenses to
+ship computers faster than 10,000 Mtops (Millions of theoretical
+operations per second) to a group of countries which include most
+of South America, South Korea, South Africa, and much of Southeast
+Asia, but Clinton's order increased the limit to 20,000 Mtops.
+The old laws also required companies shipping to a category of
+countries deemed "proliferation risks" -- such as China and
+Russia -- to obtain licenses to ship any computer faster than
+2,000 Mtops to military users or 7,000 Mtops for civilian users.
+In contrast, Intel's Pentium III chip is rated at about 1,300
+Mtops, and versions due out later this year will hit about 2,000
+Mtops.  (New York Times 07/02/99)
+
+
+Y2K SCARE LEADS TO LARGER ADVANCES [_I_ think this is just to
+counter the fact that most people will NOT buy computers now,
+and for the next 6 months, until the bug date has passed. . .
+which will mean HUGE losses for the economy. . . .  mh]
+
+Experts say the Y2K bug may actually benefit companies and the
+economy in general, as it forced many firms to completely
+overhaul their computer systems and re-engineer their business
+processes to become more efficient.  Federal Reserve Governor
+Alan Greenspan noted in his June 1 congressional testimony that
+the American economy "is displaying a remarkable run of economic
+growth that appears to have its roots in ongoing advances in
+technology," and many experts say the Y2K bug is to blame.  The
+millennium bug gave senior management an urgent deadline for
+assessing their computer systems as well as their entire business
+processes, resulting in "a dramatic surge in buying" of ERP
+systems, which reorganize and integrate a firm's accounting and
+other business practices.  Thus many companies' antiquated
+business operations have been modernized, merged, and streamlined
+to prepare for Y2K, producing benefits such as increased
+productivity, improved customer responsiveness, reduced
+inventory, and increased efficiency.
+(Philadelphia Inquirer 07/01/99)
+
+U.S. TO MARKET INFO-TECH WORK TO TEENS  [This seesm to be more
+PR aimed at "growing the economy" at the expense of the workers.
+I know lots of people in this field, and I'm not sure ANY of the
+people I hang out with on a daily basis are actually making the
+$68,000 "average" salary mentioned in an earlier one of these.
+However, it doesn't take too many Bill Gates to up the "average"
+beyond any useful meaning. . .perhaps "median" would be better.]
+
+The Department of Commerce next year is planning to launch a
+major advertising campaign to convince teenagers to choose a
+career in information technology.  The marketing campaign is
+intended to help ease the shortage of high-tech workers by
+convincing teenagers that computers are "cool" and  to dispel the
+"negative 'geek' or 'nerd' stereotype of technical workers,"
+according to Commerce Secretary William Daley.  Analysts estimate
+that the U.S. tech industry will need more than 1.3 million tech
+workers between 1996 and 2000, with California, Texas, and
+Virginia being areas that will need workers the most. Among the
+steps the Department advises to ease the shortage are forging
+closer links between schools and tech companies, improving
+methods of teaching math and science in high schools, and
+increasing pay for teachers in those fields, and giving tech
+workers incentives to fill teaching positions and train older
+workers.  (Washington Post 07/01/99)
+
+Edupage ... is what you've just finished reading excerpts of--
+to subscribe to Edupage: send mail to: listproc@educom.unc.edu
+with the message:           subscribe edupage Susan B. Anthony
+(if your name is Susan B. Anthony; otherwise use your own name
+To unsubscribe send a message to:      listproc@educom.unc.edu
+with the message: unsubscribe edupage.   If you have problems,
+send email to manager@educom.unc.edu.)   "I love Edupage."  mh
+
+
+Mac users can download our .txt files in binary mode
+to avoid the double spacing cr/lf line ends creates.
+Or download the .zip files, which unzip properly for
+nearly any operating system they are unzipped for...
+
+
+About the Project Gutenberg Newsletter:
+[Goes out approximately first Wednesday of each month.  But
+different relays will get it to you at different times; you
+can subscribe directly, just send me email to find out how,
+or surf to promo.net/pg to subscribe directly by yourself.]
+
+***
+
+and. . .for those who have read this far, some of our support
+notes that came in since I lost them in the big crash.
+
+***
+
+But are there really the texts of entire books?
+Is it possible?  If yes, it must have been hard work - my admiration!
+
+Keep up your great work.  :)
+
+This is truly one of the greatest things on the net.  I go there all the
+time to download and read my favorites.  Thank you so much and yes,
+I am one of your fans.
+
+PG has been one of, if not THE, the greatest aids to 'legitimizing'
+electronic book publishing of new works.  Without your work to make
+classic literature available in electronic format, we'd have a LOT
+more difficulty with "But that's not a REAL book" than we do.
+
+You have a LOT of fans here.  PG is one of the greatest things
+on the net since the inception of the net.  We can all
+only hope to make a large a contribution as you have.
+
+I wish to thank all who have been, or are working on Project Gutenberg
+for compiling so many interesting books.  They enable me, a student with
+limited financial means to read books that cannot be obtained otherwise.
+
+This is a GREAT! project! I only regret that I just discovered it.
+[All the more reason we need to work on getting better PR--HELP!]
+
+I can only thank everyone who've put in the hard work to make
+those books available on PG.  In fact, I've read so many. . . .
+
+Most recent read I did was last month, of the Gutenberg version
+of "The Insidious Dr Fu Manchu", a fiction novel.
+
+Thanks gang, for all the excellent and invaluable work!
+
+I have read several classics from cover to cover on my trusty
+Sharp laptop in the past year. Including PG's Pride and
+Prejudice and Villette (I think that was PG)
+
+What Michael Hart and other public domain people are doing is a
+work of unprecedented philanthropy: a direct acceleration of
+the democratisation of knowledge. They are to be applauded.
+
+All the best, and thanks for all the wonderful
+work you have been doing on the project. . . .
+
+As always, please add my thanks to the list...
+
+Michael
+
