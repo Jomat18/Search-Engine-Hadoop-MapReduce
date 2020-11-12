@@ -26,7 +26,7 @@ for file in files:
 
 			words = [word for word in line if word not in stopwords]
 
-			#words=[ porter.stem(word, 0, len(word)-1) for word in words]
+			words=[ porter.stem(word, 0, len(word)-1) for word in words]
 
 			if len(words):
 				lines = lines + " ".join(words) + '\n'

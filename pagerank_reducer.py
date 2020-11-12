@@ -37,9 +37,8 @@ for doc_id in index:
 	print ('%s\t%s' % (doc_id, index[doc_id][1]))
 
 
-
-
-
-
-
-
+"""
+Permanecer en la página: 0.05
+Siga aleatoriamente un enlace: 0.85
+Ir aleatoriamente a cualquier página del gráfo: 0.10    
+"""

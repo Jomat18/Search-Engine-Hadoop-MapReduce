@@ -13,17 +13,17 @@ $(document).ready(function() {
                 dataType: "json"
             }).done(function(data) {
                 console.log("paginas :",data)
-
+            
                 var size = data.length
 
-                //console.log(size)
-                
+                console.log(size)
+
                 if (size) {
                     for(var i=0; i<size ;i++) {
                         
                         var div = $('<div> </div>', {});
 
-                        var p = $('<p>'+data[i]+' URL: <a href="/static/corpus/'+data[i]+'" target="_blank">'+data[i]+'</a></p>',{});
+                        var p = $('<p>'+data[i][1][1]+' - PageRank: '+data[i][1][0]+' - URL: <a href="/static/corpus/'+data[i][0]+'" target="_blank">'+data[i][0]+'</a></p>',{});
 
                         div.append(p)
 
@@ -40,7 +40,7 @@ $(document).ready(function() {
 
                     div.appendTo($('#pages'));     
                 }
-
+             
             }).fail(function() {
                 console.log('Failed');
         });        

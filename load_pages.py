@@ -1,3 +1,6 @@
+from porterStemmer import PorterStemmer
+
+porter=PorterStemmer()
 
 def hashmap_pagerank():
 	hmap_pr = {}
@@ -6,7 +9,7 @@ def hashmap_pagerank():
 
 	for line in f:
 		row = line.split('\t')
-		hmap_pr[row[0]] = row[1]
+		hmap_pr[row[0]] = row[1].rstrip('\n')
 
 	return hmap_pr
 
@@ -21,17 +24,23 @@ def hashmap():
 
 	return words
 	
-def search_query(value, words):
+def search_query(value, inver_index):
 
-	if value:		
-		query = value.split()
+	words = []
 
-		print (query)
-		for word in query:
+	for word in value:
+		words.append(word)
+		word =	porter.stem(word, 0, len(word)-1)
 
-			if word in words:
-				return words[word]
-			else: 
-				return []
+	if len(value):		
+		result = []
+		i = 0
+		for word in value:
+
+			if word in inver_index:
+				result.append([inver_index[word], words[i]])
+				i += 1
+
+		return result
 
 	return []			
