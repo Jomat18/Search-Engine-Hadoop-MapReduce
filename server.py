@@ -5,7 +5,6 @@ from load_pages import *
 
 app = Flask(__name__)
 
-inverted_index = hashmap()
 ranks = hashmap_pagerank()
 
 @app.route("/")
@@ -22,7 +21,7 @@ def search():
 
 	words = words.lower().split()
 
-	response  = search_query(words, inverted_index)
+	response  = search_query(words)
 
 	pagelist = []
 

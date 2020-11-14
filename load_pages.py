@@ -23,8 +23,10 @@ def hashmap():
 		words[row[0]] = [w.split(':')[0] for w in row[1].split(',')]
 
 	return words
+
+inverted_index = hashmap()	
 	
-def search_query(value, inver_index):
+def search_query(value):
 
 	words = []
 
@@ -37,8 +39,8 @@ def search_query(value, inver_index):
 		i = 0
 		for word in value:
 
-			if word in inver_index:
-				result.append([inver_index[word], words[i]])
+			if word in inverted_index:
+				result.append([inverted_index[word], words[i]])
 				i += 1
 
 		return result

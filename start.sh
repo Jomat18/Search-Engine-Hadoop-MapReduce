@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##############################
-hdfs namenode -format
+#hdfs namenode -format
 
 echo "******************** Starting Daemons ********************"
 start-dfs.sh
@@ -10,15 +10,12 @@ start-yarn.sh
 echo "******************** Daemons running ********************"
 jps
 
-echo "******************** Cleanning files and removing stopwords ********************"
-python3 clean_files.py
-
 echo "******************** Creating data for pagerank ********************"
 python3 data_pagerank.py
 
 echo "******************** Creating folder and upload files ********************"
 hdfs dfs -mkdir /input
-hdfs dfs -put corpus/* /input
+hdfs dfs -put static/corpus/* /input
 
 echo "******************** Calculating inverted index ********************"
 hadoop jar /home/joma/hadoop/share/hadoop/tools/lib/hadoop-streaming*.jar \

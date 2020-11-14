@@ -2,7 +2,7 @@
 from os import listdir
 import random
 
-files = listdir('corpus/')
+files = listdir('static/corpus/')
 
 lines = ""
 nodes = []
