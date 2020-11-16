@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ##############################
-#hdfs namenode -format
+hdfs namenode -format
 
 echo "******************** Starting Daemons ********************"
 start-dfs.sh

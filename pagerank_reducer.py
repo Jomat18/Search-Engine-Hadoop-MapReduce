@@ -30,7 +30,8 @@ for i in range(10):
 
 
 	for doc_id in index:
-		index[doc_id][1] = output[doc_id]
+		if doc_id in output:
+			index[doc_id][1] = output[doc_id]
 	
 		
 for doc_id in index:		
