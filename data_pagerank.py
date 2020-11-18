@@ -14,7 +14,7 @@ last = len(nodes)-1
 pos = 0
 
 for file in files: 
-	edges = random.randint(3, 15)
+	edges = random.randint(3, 7)
 
 	for i in range(edges):
 		neighbour = random.randint(0,last)

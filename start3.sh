@@ -59,14 +59,16 @@ hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
                -mapper cat \
                -reducer cat
 
-echo "******************** Calculating pagerank ********************"
+
+echo "******************** Calculating pagerank 2********************"
 hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
-        -file rank_map.py \
-        -mapper "python rank_map.py" \
+        -file pagerank_reducer.py  \
+        -reducer "python pagerank_reducer.py" \
         -input /result2/part-00000 \
         -output /output3
 
 
+echo "******************** Download results ********************"
 hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
                -Dmapred.reduce.tasks=1 \
                -input /output3/ \
@@ -74,8 +76,25 @@ hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
                -mapper cat \
                -reducer cat
 
-hadoop fs -mv /result3/part-00000 /result3/part-00001
-hdfs dfs -get /result3/part-00001
+
+
+echo "******************** Calculating pagerank ********************"
+hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
+        -file rank_map.py \
+        -mapper "python rank_map.py" \
+        -input /result3/part-00000 \
+        -output /output4
+
+
+hadoop jar /usr/lib/hadoop-mapreduce/hadoop-streaming.jar \
+               -Dmapred.reduce.tasks=1 \
+               -input /output4/ \
+               -output /result4 \
+               -mapper cat \
+               -reducer cat
+
+hadoop fs -mv /result4/part-00000 /result4/part-00001
+hdfs dfs -get /result4/part-00001
 
 #stop-all.sh
 #############################
